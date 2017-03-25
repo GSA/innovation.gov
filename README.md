@@ -1,6 +1,6 @@
 # What is the Better Goverment Program?
 
-The Better Government Program helps create a better relationship between government and its citizens. This program was born out of the idea that the government needed to codify and capture stories and lessons learned from programs or initiatives that have driven new value for the American people to effectively compete in an ever-changing innovation economy. A key component of this program is building out a "Better Government Toolkit" that captures the proven practices and actionable items that make a better government through innovation happen.
+The Better Government Program creates a better relationship between the government and the public. This program was born out of the idea that the government needed to codify and capture stories and lessons learned from programs or initiatives that have driven new value for the American people to effectively compete in an ever-changing innovation economy. A key component of this program is building out a "Better Government Toolkit" that captures the proven practices and actionable items that make a better government through innovation happen.
 
 This Program will foster the awareness, adaptation, and adoption of a core set of innovative principles to solve problems and promote a culture of experimentation both within the government and beyond. The outcomes of the Program is as follows:
 
