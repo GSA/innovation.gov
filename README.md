@@ -12,7 +12,7 @@ This Program will foster the awareness, adaptation, and adoption of a core set o
 
 ## Instructions for Contributing to this Repository
 
-In this repository are the notes from the Better Government Workshops held the week of March 20, 2017. Please provide your edits to this file the Better Government GitHub Repository by Friday, March 31.
+In this repository are the notes from the [Better Government Workshops](https://github.com/18F/better-government/blob/master/%5B3.20%5D%20Better%20Government%20Workshop%20.pdf) held the week of March 20, 2017. Please provide your edits to this file the Better Government GitHub Repository by Friday, March 31.
 
 [How to edit the file in this repository](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
