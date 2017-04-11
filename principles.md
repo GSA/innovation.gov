@@ -27,18 +27,18 @@ We envision a better relationship between the government and the public. Change 
 
 # Here are the principles we live by: 
 
-1. Continuous improvement and flexibility 
-2. Communication and sharing 
-3. Effectiveness and efficiency; creating navigable pathways; using existing methods more efficiently; not defaulting to the same way of doing things 
-4. Providing citizen (agency, team) value; clear articulation of value proposition 
-5. Diversity and inclusion 
-6. Prototyping and experimentation; being okay with failure  
-7. Future planning 
-8. Fairness 
-9. Continuous learning and curiosity  
-10. Measurable outcomes/goals and ROI; results oriented and evaluation 
-11. Collaborative work with partners inside and outside government 
-12. Embracing change and staying optimistic 
-13. Holding people accountable for innovating 
-14. Holistic thinking. Think about problems you’re trying to solve and the outcomes you hope to achieve from the beginning.  
-15. Innovation is not a one-size-fits all approach--can be small or big; Systemic change is long and slow; Innovation is a bit squishy; innovation thinking freely on how we get from A to Z, no rigid thinking.
+1. Collaborative work with partners inside and outside government (7)
+2. Redraft: Identifying and using new methods. Which deliver more effective and efficient results (Business Process Reengineering) (6)
+    1.Old Draft:Effectiveness and efficiency; creating navigable pathways; using existing methods more efficiently; not defaulting to the same way of doing things
+3. Continuous improvement, learning curiosity and flexibility (added: embracing change and staying optimistic) (5)
+4. Measurable outcomes/goals and ROI; results oriented and evaluation (5)
+5. Diversity (thought, visible, LGBT, perspectives) and inclusion (added: fairness) (4)
+6. Communication and sharing (3) 
+7. Redraft: Keeping the customer in the middle of service design
+    1.Providing citizen (agency, team) value; clear articulation of value proposition (3) 
+8. Prototyping and experimentation; being okay with failure (2) 
+9. Holistic thinking. Think about problems you’re trying to solve and the outcomes you hope to achieve from the beginning. (2)
+10. Innovation is not a one-size-fits all approach--can be small or big; Systemic change is long and slow; Innovation is a bit squishy; innovation thinking freely on how we get from A to Z, no rigid thinking. (2)
+11. Holding people accountable for innovating (1)
+12. Future planning
+
