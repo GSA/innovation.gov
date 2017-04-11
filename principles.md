@@ -1,30 +1,31 @@
 # What is a better government? 
 
+## Vision Statement
 We envision a better relationship between the government and the public. Change should happen first with the government--to shift our thinking to improving our interactions and processes to provide more value to the public. We are continuously improving to become a better government through innovation. We foster a culture of experimentation--using new methods and proven practices to address problems and build effective solutions. 
 
-1. Internal workings of government 
-    1. Accountable 
-    2. Comprehensive (x2) 
-    3. Connected 
-    4. Accessible (50% compliance, easy to find and understand information) 
-    5. Leadership development/fellowship programs (injection of energized, go-getters) 
-    6. Protective 
-    7. Open-minded 
-    8. Quality of service  
-    9. Economic driver 
-    10. Catalytic 
-        1. Investment 
-        2. Risk  
-        3. Results 
-    11. Multi-layered  
-    12. Leading 
-    13. Cogent and logical  
-    14. Delivers concretely, on its mission and has measurable data/results to publicly show for it 
-    15. Well-intentioned 
-    16. Balanced budget 
-    17. Problem solving
+### Answers to what makes a better government?
+1. Accountable 
+2. Comprehensive (x2) 
+3. Connected 
+4. Accessible (50% compliance, easy to find and understand information) 
+5. Leadership development/fellowship programs (injection of energized, go-getters) 
+6. Protective 
+7. Open-minded 
+8. Quality of service  
+9. Economic driver 
+10. Catalytic 
+    1. Investment 
+    2. Risk  
+    3. Results 
+11. Multi-layered  
+12. Leading 
+13. Cogent and logical  
+14. Delivers concretely, on its mission and has measurable data/results to publicly show for it 
+15. Well-intentioned 
+16. Balanced budget 
+17. Problem solving
 
-## Here are the principles we live by: 
+# Here are the principles we live by: 
 
 1. Continuous improvement and flexibility 
 2. Communication and sharing 
