@@ -1,7 +1,7 @@
 # Better Government Mission, Vision, and Principles
 
 ## Mission 
-We create a culture of efficiency, effectiveness, and accountability by transforming the way the people of government work together, guided by principles, with realignment of, or new investment in, policies, processes, and technology. With a focus on outcomes, we build a more responsive and collaborative modern government, speaking directly toward the public’s needs and desires.
+We foster a culture of efficiency, effectiveness, and accountability by transforming the way the people of government work together, guided by principles, with realignment of, or new investment in, policies, processes, and technology. With a focus on outcomes, we build a more responsive and collaborative modern government, speaking directly toward the public’s needs and desires.
 
 ## Vision
 We are a catalyst for improved quality of service to the public. In order to deliver concretely on our missions, we shift our thinking to improving our interactions and processes to provide more value to the public to be an economic driver for the nation. 
