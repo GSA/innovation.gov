@@ -1,9 +1,17 @@
-# What is a better government? 
+# Better Government Mission, Vision, and Principles
 
-## Vision Statement
+## Mission 
+We create a culture of efficiency, effectiveness, and accountability by transforming the way the people of government work together, guided by principles, with realignment of, or new investment in, policies, processes, and technology. With a focus on outcomes, we build a more responsive and collaborative modern government, speaking directly toward the public’s needs and desires.
+
+## Vision
+We are a catalyst for improved quality of service to the public. In order to deliver concretely on our missions, we shift our thinking to improving our interactions and processes to provide more value to the public to be an economic driver for the nation. 
+
+By collaborating with the public, we better understand their needs and provide efficient and effective solutions through innovation. We will be a leader in trust and accountability as we use new methods and proven practices to create a culture of excellence and data to drive decision-making. 
+
+### Draft Vision Statement
 We envision a better relationship between the government and the public. Change should happen first with the government--to shift our thinking to improving our interactions and processes to provide more value to the public. We are continuously improving to become a better government through innovation. We foster a culture of experimentation--using new methods and proven practices to address problems and build effective solutions. 
 
-### Answers to what makes a better government?
+#### Words to use for Vision Statement
 1. Accountable 
 2. Comprehensive (x2) 
 3. Connected 
@@ -25,7 +33,7 @@ We envision a better relationship between the government and the public. Change 
 16. Balanced budget 
 17. Problem solving
 
-# Here are the principles we live by: 
+## Principles
 
 1. Collaborative work with partners inside and outside government (7)
 2. Redraft: Identifying and using new methods. Which deliver more effective and efficient results (Business Process Reengineering) (6)
