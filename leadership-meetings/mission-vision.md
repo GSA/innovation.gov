@@ -35,7 +35,7 @@ We envision a better relationship between the government and the public. Change 
 16. Balanced budget 
 17. Problem solving
 
-## Principles
+## Principles List
 
 1. Collaborative work with partners inside and outside government (7)
 2. Redraft: Identifying and using new methods. Which deliver more effective and efficient results (Business Process Reengineering) (6)
@@ -51,4 +51,39 @@ We envision a better relationship between the government and the public. Change 
 10. Innovation is not a one-size-fits all approach--can be small or big; Systemic change is long and slow; Innovation is a bit squishy; innovation thinking freely on how we get from A to Z, no rigid thinking. (2)
 11. Holding people accountable for innovating (1)
 12. Future planning
+
+
+## Principles Long Form
+1. Think holistically: from the beginning, focus on problems as well as the measureable outcomes you hope to achieve. 
+Think like an entrepreneur: constantly seek out problems to be solved, and focus on outcomes that you can measure. Get to the true heart of the problem you’re trying to solve and start building a solution.
+
+2. Evaluate our return on investment and let data drive decision making 
+Once you’ve identified your measurable outcomes, monitor progress and make the case for continued innovation. Quantitative and qualitative data should be used in future decisions. 
+
+3. Identify and use new methods that deliver more effective and efficient results 
+Think freely about how to get from point A to point Z--don’t accept the status quo. Don’t believe “that’s the way we’ve always done things”. Question your methods and think about how you can do your work better. 
+
+4. Improve and learn continuously, embrace change and be flexible 
+Believe that things can always get better and YOU can always get better. Seek feedback, embrace the inevitable change and be like Gumby. 
+
+5. Embrace all forms of diversity, be inclusive and fair 
+The best ideas don’t come from just ourselves, but from a collection of other’s ideas that make for a better “big” idea.  Everyone should have a voice and be heard. Make an equitable environment for all.
+
+6. Collaborate with partners inside and outside government
+We are all more connected than ever before, and government cannot solve its problems alone. Work with other agencies, teams and organizations to accomplish your mission. 
+
+7. Foster a culture of communications and sharing 
+Tell your stories openly: stories of success and failure. Foster two-way communication whenever possible with your stakeholders. Share information and thoughts freely.
+
+8. Keep the customer at the center of your design
+Take the time to define and understand the customer you’re trying to reach. Measure your customer’s journey through your program, project, product, or initiative and always seek to improve the customer experience. 
+
+9. Bias towards prototyping and experimentation; being okay with failure 
+Create quick, low-barrier experiments to test out various assumptions about the way forward in a smart way. Measure results, and improve. Fail in small increments, learn, and incorporate insights to make a better end product.
+
+10. Innovation is not a one-size-fits-all approach. 
+Innovation and creativity is a messy process and is not the same every time. Innovations can be small an impactful, and systemic change is long and slow. Be deliberate about the kinds of innovations you want to do. Learn from others, but forge your own path. 
+
+11. Everyone is held accountable for innovating
+Create incentives and a sense of urgency for government employees to innovate, encourage government and the public alike to collaborate towards meaningful solutions. Don’t place roadblocks in place to slow down progress.
 
