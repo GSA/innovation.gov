@@ -11,56 +11,7 @@
 
 It’s really difficult to innovate in the Federal government. To make matters worse, the government also isn’t good at sharing and managing knowledge. There are specific people within the government that want to bring innovation to their agency, but lack the tools and proven practices that “work” in the government. 
 
-## Barriers and constraints:
-
-- Government red tape 
-    - Burdensome and sometimes outdated requirements while complying with the law 
-    - Requirements from “higher up” authorities frequently block me when I try new approaches 
-
-- People who don’t want this to survive 
-- No incentive to innovation 
-- Lack of budget and resources (“doing more with less”) 
-- Fear and shame 
-- Lack of understanding of the user/customer 
-- Political climate: 
-    - Don’t want to make any changes with the new Administration 
-    - Constant changeover of leadership 
-    - Innovation seen as partisan work 
-    - How do you connect with hostile citizens? 
-
-- Innovation is digital (it is NOT) 
-
-# Customer (User)
-
-## Customer Jobs
-
-- To innovate within the legal and policy bounds of their agency while complying with the law 
-- To explore how to fit innovative approaches into my office or agency’s setting 
-- To tell effective stories about how innovative goals are accomplished 
-- To do work that is new for my agency and sometimes for myself 
-- To manage an innovative team, program, or center 
-- To work in areas where my agency is not used to innovating 
-- To convince leadership at my agency to adopt innovative approaches 
-- To do work most efficiently and effectively (limited time and resources) 
-- To broaden my skillset without having to know everything that there is to be learned. 
-- To not always be able to write freely about my work 
-
-## Needs/Wants
-
-- Authoritative guidance (including references to specific helpful policies) for how to deal with burdensome and outdated 
-
-- Examples of process documents other people are using to implement innovative approaches so that I have real models to help me start conversations and adapt for my own work.  
-- Want case studies of other agencies’ work--successes as well as lessons learned--so I can learn from their experiences, see what’s possible, persuade my stakeholders that there’s precedent for this work, and know who to try to connect with for further details. 
-- Practical explanations of best practices and operational information so that I can with confidence support or carry out ventures that may be unfamiliar - by borrowing from validated examples. 
-- Need examples of quantitative metrics other people have used to demonstrate the value of their work 
-- Know who else is doing this work well so that I can more easily make direct contact with them. 
-- Support for navigating bureaucracy, change management, and more so that the whole organization can align in one direction. 
-- See related materials and groups that could be useful for innovative work so I can do my work most effectively, avoid reinventing the wheel, and expand my skillset.  
-- Work with other people at my agency and elsewhere who already care about the areas I’m dealing with, so I need strategies for how best to work with them.  
-- Make connections with a lot of other people to both learn new things and share what I’ve learned. 
-- Meet in-person or have phone conversations that aren’t put in writing that isn’t attributed to me.  
-
-## Barriers to Innovation 
+## Barriers and Constraints to Innovation 
 
 - Government red tape 
     - Lack of budget and resources (“doing more with less”) 
@@ -112,6 +63,36 @@ It’s really difficult to innovate in the Federal government. To make matters w
     - Partner agencies may not have access to our technology stack (or vice versa) so it makes it hard to collaborate and share files 
     - The need to infuse new technology with security and privacy 
     - Union rules say that some tools are not required (specifically talking about online and PC-based tools and platforms, but also sure this applies to innovative concepts like Human-Centered Design (HCD) and others.) 
+
+# Customer (User)
+
+## Customer Jobs
+
+- To innovate within the legal and policy bounds of their agency while complying with the law 
+- To explore how to fit innovative approaches into my office or agency’s setting 
+- To tell effective stories about how innovative goals are accomplished 
+- To do work that is new for my agency and sometimes for myself 
+- To manage an innovative team, program, or center 
+- To work in areas where my agency is not used to innovating 
+- To convince leadership at my agency to adopt innovative approaches 
+- To do work most efficiently and effectively (limited time and resources) 
+- To broaden my skillset without having to know everything that there is to be learned. 
+- To not always be able to write freely about my work 
+
+## Needs/Wants
+
+- Authoritative guidance (including references to specific helpful policies) for how to deal with burdensome and outdated 
+
+- Examples of process documents other people are using to implement innovative approaches so that I have real models to help me start conversations and adapt for my own work.  
+- Want case studies of other agencies’ work--successes as well as lessons learned--so I can learn from their experiences, see what’s possible, persuade my stakeholders that there’s precedent for this work, and know who to try to connect with for further details. 
+- Practical explanations of best practices and operational information so that I can with confidence support or carry out ventures that may be unfamiliar - by borrowing from validated examples. 
+- Need examples of quantitative metrics other people have used to demonstrate the value of their work 
+- Know who else is doing this work well so that I can more easily make direct contact with them. 
+- Support for navigating bureaucracy, change management, and more so that the whole organization can align in one direction. 
+- See related materials and groups that could be useful for innovative work so I can do my work most effectively, avoid reinventing the wheel, and expand my skillset.  
+- Work with other people at my agency and elsewhere who already care about the areas I’m dealing with, so I need strategies for how best to work with them.  
+- Make connections with a lot of other people to both learn new things and share what I’ve learned. 
+- Meet in-person or have phone conversations that aren’t put in writing that isn’t attributed to me.  
 
 # Mindsets 
   
