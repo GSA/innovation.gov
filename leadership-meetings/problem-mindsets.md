@@ -100,6 +100,56 @@ Mindset: a [set](https://en.wikipedia.org/wiki/Set_(mathematics)) of assumptions
 
 ## What’s the change that needs to occur?
 
+| **From** | **To** | **Notes** |
+| --- | --- | --- |
+| **Fixed:** abilities are mostly innate and interpret failure as the lack of necessary basic abilities | **Growth** : abilities can be acquired provided you invest effort or study | Carol Dweck |
+| Internal stakeholder design | Human-Centered Design |   |
+| Information and governing silos | Open, collaborative innovation |   |
+| Large, Monolithic contracts | Smaller, modular contracts |   |
+| Apathetic leadership | Supportive, engaged leadership |   |
+| Doing it alone | Partnering with stakeholders |   |
+| &quot;It will get done, eventually&quot; mindset | Sense of urgency (burning platform) |   |
+| Driven by politics/other priorities | Measuring goals and ROI on agency level (Data-Driven) |   |
+| Meetings upon meetings | Action (small things and show progress) |   |
+
+Individual
+
+| **From** | **To** | **Notes** |
+| --- | --- | --- |
+| **Fixed:** abilities are mostly innate and interpret failure as the lack of necessary basic abilities | Growth: abilities can be acquired provided you invest effort or study | Carol Dweck |
+| Waiting for someone else to make the move | Doing/Doers |   |
+| Risk averse | Risk taking |   |
+| Solution-focused | Problem-focused |   |
+| Assuming what&#39;s good for the user | Empathy and Understanding |   |
+| Closed-minded | Curiosity and questioning |   |
+| Content with status quo | Bias towards action |   |
+| Closed off to feedback | Open to feedback and reflective |   |
+| Complacency | Passion for your work |   |
+| Scared and beaten down | Confident |   |
+| Ego-centric | Lessen ego |   |
+| Doing things like they always have been | Continuous improvement |   |
+| Trust in what has worked in the past | Embrace change |   |
+| Doing it alone | Partnering with stakeholders |   |
+| Giving up early | Perseverance, persistence and resiliency |   |
+| No critical thinking | Ability to distill ideas and identify insights (critical thinking) networked thinking |   |
+| In it for the long haul and shooting for big wins | Bias towards small wins |   |
+| Poor communication | Clear communications |   |
+| Acting without feeling | Trusting intuition/conscience |   |
+| Believe in past experience | Embrace ambiguity |   |
+
+Team?
+
+| **From** | **To** | **Notes** |
+| --- | --- | --- |
+|   | Agile |   |
+|   | Cooperative |   |
+|   | Creative |   |
+|   | Focused |   |
+|   | Radical candor |   |
+| Negative outlook on the future | Positive outlook |   |
+|   |   |   |
+|   |   |   |
+
 # Designing the Community of Practice
 
 ## Form should this take? 
