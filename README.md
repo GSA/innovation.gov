@@ -1,14 +1,8 @@
 # What is the Better Goverment Movement?
 
-The Better Government Movement creates a better relationship between the government and the public. This program was born out of the idea that the government needed to codify and capture stories and lessons learned from programs or initiatives that have driven new value for the American people to effectively compete in an ever-changing innovation economy. A key component of this program is building out a "Better Government Toolkit" that captures the proven practices and actionable items that make a better government through innovation happen.
+The Better Government Movement seeks to answer this question: how might we effectively serve the many talented Federal employees who have the motivation and potential to cause change?
 
-This Program will foster the awareness, adaptation, and adoption of a core set of innovative principles to solve problems and promote a culture of experimentation both within the government and beyond. The outcomes of the Program is as follows:
-
-- Improve government effectiveness
-- Increase agility of government
-- Deliver better results at a lower cost
-- Improve core processes
-- Improve ability to solve problems
+Since the movement launched in March, we’ve convened more than 300 people across the government to envision a better government. Through crowdsourcing, we’ve defined what we mean by better government, what is stopping us from innovating, and have created a series of six plays to guide innovation across the government. Soon, we'll launch or initial findings on Innovation.gov and will expand to expand to a Toolkit later in 2017.
 
 ## Instructions for Contributing to this Repository
 
