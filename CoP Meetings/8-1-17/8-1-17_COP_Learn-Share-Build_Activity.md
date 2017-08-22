@@ -145,7 +145,7 @@ Here's the winners in each category:
 * Learn: Audience-specific group (1 vote)
 * Learn: Internal and external networks (1 vote)
 
-Totals: Learn (5) Share (5) Build (4)
+Totals: Learn (5) Share (11) Build (4)
 
 ## What's most important to participants
 * Share: Best practices and stories group (5 votes)
