@@ -1,3 +1,6 @@
+# Better Government Community of Practice "Listening Session"
+August 1, 2017, 3-5 p.m.
+
 # Learn
 
 ## 1. Context (innovation in your agency or department)
