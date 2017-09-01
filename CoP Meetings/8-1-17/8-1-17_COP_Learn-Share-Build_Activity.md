@@ -1,3 +1,6 @@
+# Better Government Community of Practice "Listening Session"
+August 1, 2017, 3-5 p.m.
+
 # Learn
 
 ## 1. Context (innovation in your agency or department)
@@ -128,3 +131,35 @@
 * Network with leaders form different agencies + departments with formal (retreat/workshop) and informal (happy hour) componentes 
 * Opportunities to work together 
 * Pretext or reasons to come together 
+
+# Dot Voting
+We had participants vote on two items: 
+1. What you think contributes to building a better government
+2. What's most important to you.
+
+Here's the winners in each category: 
+## Contributes to Building a Better Government
+* Share: Contacts and Partnership Group (6 votes)
+* Share: Tools and Resources group (3 votes)
+* Build: Regular person-to-person meetups/meetings group (3 votes)
+* Learn: Skills and practices groups (3 votes)
+* Share: Best practices and stories group (2 votes)
+* Build: Collaborative problem solving group (1 vote) 
+* Learn: Audience-specific group (1 vote)
+* Learn: Internal and external networks (1 vote)
+
+Totals: Learn (5) Share (11) Build (4)
+
+## What's most important to participants
+* Share: Best practices and stories group (5 votes)
+* Share: Contacts and partnershis group (3 votes)
+* Build: Formal structure and actual engagement group (3 votes)
+* Learn: Context--innovation in your agency/department (3 votes)
+* Build: Online tools group (2 votes)
+* Build: Collaborative problem solving group (1 vote) 
+* Build: Formal opportunities to participate and learn (1 vote)
+* Learn: What structures yield better collaboration and decision making? (1 vote, non-group)
+* Learn: Impact/user group (1 vote)
+* Learn: Skills + practices group (1 vote) 
+
+Totals: Learn (6) Share (8) Build (7)
