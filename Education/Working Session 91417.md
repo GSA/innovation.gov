@@ -54,15 +54,11 @@
 - Metaphor: You have a backpack and some training but need someone to climb the mountain with you
 - The toolkit is a doorway, glossary, etc.
 - How does this link to a community of practice?
-  -
     - Recommendation: Introduce a rich commenting function – have the commenting be parallel to the content
     - The comments should be curated and pushed – it&#39;s not a wiki
-
 - How do we change behavior? Sometimes the behavior follows the mindset.
 
 - Key target audience: A massively large population that is consciously incompetent. This might be the biggest area of impact?
-
--
   - Where is our biggest area of impact?
 
 - The administration&#39;s rhetoric is misaligned with their execution – internal staff of administration is focused on internal management
@@ -92,10 +88,7 @@
   - Effective – external
 
 
-
-
-
-How might we operationalize?
+*How might we operationalize?*
 
 **1.  System Flow/Structure**
 
