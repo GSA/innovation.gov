@@ -1,0 +1,19 @@
+- site: 'DigitalGov'
+  config_data:
+  github_org: 'gsa'
+  github_repo: 'digitalgov.gov'
+  demo: 'demo.digitalgov.gov'
+  build: 'hugo'
+  content_types:
+    - name        : 'post'
+      label       : 'Post'
+      fields:
+        - date
+        - headline
+        - summary
+    - name        : 'page'
+      label       : 'Page'
+      fields:
+        - date
+        - headline
+        - summary

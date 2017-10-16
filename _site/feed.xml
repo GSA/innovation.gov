@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-10-16T16:48:45-04:00</updated><id>http://localhost:4000/</id><title type="html">Innovation.gov</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><entry><title type="html">Hello World</title><link href="http://localhost:4000/jekyll/update/2017/09/11/hello-world.html" rel="alternate" type="text/html" title="Hello World" /><published>2017-09-11T21:53:56-04:00</published><updated>2017-09-11T21:53:56-04:00</updated><id>http://localhost:4000/jekyll/update/2017/09/11/hello-world</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/09/11/hello-world.html">&lt;h2 id=&quot;hello-2-scoops-please&quot;&gt;Hello, 2 Scoops Please!&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Lorem ipsum&lt;/strong&gt; dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;
+
+&lt;h3 id=&quot;ut-enim-ad-minim-veniam-quis-nostrud-exercitation&quot;&gt;Ut enim ad minim veniam, quis nostrud exercitation&lt;/h3&gt;
+
+&lt;p&gt;ullamco laboris nisi ut aliquip ex ea commodo consequat.&lt;/p&gt;
+
+&lt;p&gt;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;</content><author><name>jeremyzilar</name></author><summary type="html">Hello, 2 Scoops Please!</summary></entry></feed>

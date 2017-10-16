@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<h2>{{ entry.site }}</h2>
+
+<div class="matter-editor">
+  <div class="gcol gcol1">
+    <form id="matter-maker" action="new-post" method="get" accept-charset="utf-8">
+      <div class="post_data post-block">
+        {% for entry in site.data.digitalgov %}
+          {% for content_type in entry.content_types %}
+          	{% if forloop.first %}<div>{% endif %}
+
+              {% for field in content_type.fields %}
+                <p>{{field}}</p>
+              {% endfor %}
+
+          	{% if forloop.last %}</div>{% endif %}
+          {% endfor %}
+
+        {% endfor %}
+      </div>
+    </form>
+  </div>
+  <div class="gcol gcol2">
+    <pre id="filename" class="mttr">***</pre>
+    <pre id="post-matter" class="mttr">---</pre>
+    <p><a id="newfile" href="https://github.com/GSA/digitalgov.gov/new/demo/content/posts/draft?filename=newfile.md&value=hello" target="_new" title="create a new post in GitHub">Create in GitHub »</a></p>
+    <p><a href="https://github.com/GSA/digitalgov.gov/blob/demo/publishing.md">A guide to publishing in GitHub</a></p>
+  </div>
+</div>
