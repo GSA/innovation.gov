@@ -6,8 +6,6 @@ group: problems
 summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt. Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae.'
 ---
 
-# Grand Challenges
-
 ## Purpose and Outcomes
 
 **Purpose:** A Grand Challenge is an ambitious yet achievable goal that solves key problems on a large scale, usually capturing the public's imagination.
