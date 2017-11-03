@@ -1,0 +1,13 @@
+<!-- style here -->
+<div>
+  Vertical = {{ page.vertical }}
+  {{ page.complexity }}
+  
+  {% if page.complexity == "Easy" %}
+       <h2>Easy</h2>
+  {% elsif page.complexity == "Medium"%}
+       <h2>Medium</h2>
+  {% else %}
+       <h2>Hard</h2>
+  {% endif %}
+</div>
