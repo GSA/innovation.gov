@@ -4,6 +4,8 @@ layout: toolkit
 title: Innovative Acquisitions and Procurement
 group: culture
 summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt. Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae.'
+vertical: 'Lorem ipsum dolor sit amet'
+complexity: 'Easy'
 ---
 
 ## Innovative Acquisitions and Procurement
@@ -33,6 +35,8 @@ Because of the reasons above, the acquisitions and procurement community has had
 - can reduce the total cost of ownership.
 
 Recently there has been fresh perspective and focus on acquisitions or procurement in the digital/IT space mostly because that's where the biggest need is today, however, these principles can be applied to other types of acquisitions.
+
+{% include toolkit_include.html %}
 
 ### Approach
 

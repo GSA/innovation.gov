@@ -4,6 +4,8 @@ layout: toolkit
 title: Grand Challenges
 group: problems
 summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue aliquet tincidunt. Cras in libero rhoncus, semper metus eu, finibus nunc. Nunc feugiat lorem tellus, et sollicitudin eros feugiat vitae.'
+vertical: 'Lorem ipsum dolor sit amet'
+complexity: 'Easy'
 ---
 
 ## Purpose and Outcomes
@@ -15,6 +17,9 @@ A Grand Challenge issues a call to action, creating a sense of urgency and possi
 - **Grand vision:** The power of a Grand Challenge comes from a narrative that shifts the collective conversation. Bold language - like [making solar energy as cheap as coal](https://energy.gov/eere/sunshot/sunshot-initiative), [understanding the human brain](https://obamawhitehouse.archives.gov/blog/2014/10/09/brain-initiative-and-grand-challenge-scholars), or [answering the biggest questions in cancer](http://www.cancerresearchuk.org/about-us/cancer-news/press-release/2017-02-10-cancer-research-uk-announces-inaugural-grand-challenge-teams-to-answer-the-biggest-questions-in), and destroying cancerous tumors while leaving healthy cells untouched – changes the question from &quot;Why would we do that?&quot; to &quot;Why _aren&#39;t_ we doing that?&quot;
 - **All hands-on deck:** Grand Challenges galvanize public excitement and draw in new communities of solvers. A coordinated, &quot;all-hands-on-deck&quot; approach engages other agencies, foundations, research universities, companies, and citizens. The idea of &quot; [everyone as an asteroid hunter](https://www.nasa.gov/press/2014/march/be-an-asteroid-hunter-in-nasas-first-asteroid-grand-challenge-contest-series/)&quot; was a powerful way to involve the public in NASA&#39;s work. Framing the call as, &quot;We can&#39;t do this alone, we need you,&quot; drew in motivated citizen scientists and experts.
 - **Ambitious yet achievable target:**  A Grand Challenge inspires people to come up with new approaches because they know what you are trying to accomplish. The [National Aeronautics and Space Administration (NASA)&#39;s challenge](https://www.history.nasa.gov/Apollomon/Apollo.html) was to &quot;land a man on the moon and return him safely to earth.&quot; The grand vision to &quot;sequence and map all of the genes&quot; guided the [Human Genome Project](https://www.genome.gov/12011238/an-overview-of-the-human-genome-project/). These targets let the community of solvers ask &quot;what if,&quot; removing boundaries to innovative solutions.
+
+{% include toolkit_include.html %}
+
 
 ## Examples
 
