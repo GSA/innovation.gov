@@ -1,5 +1,5 @@
 ---
-permalink: grand-challenges
+permalink: toolkit/grand-challenges
 layout: toolkit
 title: Grand Challenges
 group: problems

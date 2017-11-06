@@ -1,5 +1,5 @@
 ---
-permalink: acquisitions
+permalink: toolkit/acquisitions
 layout: toolkit
 title: Innovative Acquisitions and Procurement
 group: culture
