@@ -8,14 +8,12 @@
 
     {% include header.html %}
 
-    <div class="usa-overlay"></div>
+    {% include box-hero.html %}
+
     <main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
 
-      <div class="usa-width-three-fourths usa-layout-docs-main_content">
+      {{content}}
 
-        {{content}}
-
-      </div>
     </main>
 
     {% include footer.html %}
