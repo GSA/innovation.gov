@@ -36,6 +36,9 @@ collections:
         permalink: /:path/
         output: true
 
+excerpt_separator: <!--second-column-->
+
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

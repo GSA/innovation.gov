@@ -2,6 +2,7 @@
 layout: page
 title:  Innovative Acquisitions and Procurement
 permalink: /hello/
+
 ---
 
 
@@ -31,8 +32,6 @@ Because of the reasons above, the acquisitions and procurement community has had
 
 Recently there has been fresh perspective and focus on acquisitions or procurement in the digital/IT space mostly because that's where the biggest need is today, however, these principles can be applied to other types of acquisitions.
 
-{% include toolkit_include.html %}
-
 ### Approach
 
 Common features of the innovative acquisition methods profiled here include early and frequent collaboration between acquisition teams and end-users, and the use of agile, iterative, and modular implementation methods. (see
@@ -52,6 +51,7 @@ As budgetary constraints continue to reduce available resources, it is important
 As new approaches become available in the government or the commercial marketplace, each agency can consider how to encourage and allow the workforce to test and adopt new and better ways of doing business. Most agencies have Acquisition Innovation Advocates and acquisition labs or similar mechanisms, which was [announced in 2016 by the Office of Management and Budget Office of Federal Procurement Policy Memo](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/acquisition-innovation-labs-and-pilot-for-digital-acquisition-innovation-lab-memorandum.pdf). With the dedicated support of this Advocate or lab, agencies can reframe the problem and produce better results.
 
 # Examples
+
 
 ## Modern Contracting Vehicles
 
@@ -83,6 +83,8 @@ There are two distinct categories of demand pull methods: pay for performance an
 | Staged contracts | Solicits proposals and assesses them quickly |
 
 ## Pay for Performance
+
+<!--second-column-->
 
 ### Advanced Market Commitment (AMC)
 
