@@ -1,11 +1,14 @@
 /* @override http://localhost:4000/assets/main.css */
 
+/* @override http://localhost:4000/assets/main.css */
+
 /* @group bootstrap */
 
 html,
 body {
-  background: #fff;
-  color: #555; }
+  background: #d5d6d9;
+  color: #333; 
+}
 
 main {
   background: #fff;
@@ -22,9 +25,45 @@ h6 {
 
 h1 {
   margin-top: 1em; }
+  
+.site-width{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1040px;
+}
+
+/* @end */
+
+/* @group header */
+
+
+header.usa-header{
+  background: white;
+}
 
 
 /* @end */
+
+/* @group main */
+
+main{
+  background: white;
+}
+
+
+/* @end */
+
+/* @group footer.usa-footer */
+
+footer.usa-footer{
+  background: white;
+}
+
+
+
+/* @end */
+
 @media screen and (min-width: 1201px) {
   .usa-nav-submenu {
     background-color: #1C304A;
@@ -93,7 +132,15 @@ h1 {
   margin-top: -7rem;
   visibility: hidden; }
 
-/* @group Methods */
+/* @group .page */
+
+.page{
+  padding-bottom: 2em;
+}
+
+/* @end */
+
+/* @group methods */
 
 .method {
   background: #fff;
@@ -274,3 +321,171 @@ h1 {
     width: auto; }
   .category--intro .method {
     border: 0; }
+
+/* @group modules */
+
+section.callout h1,
+section.how-to-get-connected h1{
+	margin-top: 0;
+	font-family: Merriweather;  
+	font-size: 28px;
+	letter-spacing: -1px;
+}
+
+/* @group how-to-get-connected */
+
+.how-to-get-connected{
+	padding: 1em 0;
+  background-color: #e0f2f8;
+}
+
+.how-to-get-connected article h1{
+	font-size: 20px;  
+	margin-bottom: 0;
+}
+
+.how-to-get-connected article p{
+	margin-top: 0;
+}
+
+.how-to-get-connected article img{
+	width: 100%;
+}
+
+@media screen and (min-width: 711.11px){
+	.how-to-get-connected::after{
+		content: "";
+		display: table;
+		clear: both;
+	}
+
+	.how-to-get-connected article{
+	  	float: left;
+		width: 49%;
+		margin-right: 2%;
+	}
+	
+	.how-to-get-connected article{
+		padding-left: 144px;
+		min-height: 72px;
+		position: relative;
+	}
+	
+	.how-to-get-connected article img{
+		position: absolute;
+		left: 0;
+		top: 0;
+		max-width: 128px;
+		max-height: 96px;
+	}
+	.how-to-get-connected article:nth-child(2n+1){
+		margin-right: 0;
+	}
+	
+}
+
+@media screen and (min-width: 1066.666px){
+	.how-to-get-connected article,
+	.how-to-get-connected article:nth-child(2n+1){
+	  	float: left;
+		width: 32%;
+		margin-right: 2%;
+		padding: 0;
+	}
+	
+	.how-to-get-connected article img{
+		position: static;
+		max-height: none;
+		max-width: none;
+		
+	}
+	
+	.how-to-get-connected article:nth-child(3n+1){
+		margin-right: 0;
+	}
+}
+
+
+/* @end */
+
+/* @group masthead */
+
+.masthead{
+  background: #1c3049;
+  color: white; 
+  padding: 1em 0 1.4em;
+}
+
+.masthead h1{
+	margin: 0;
+	font-size: 28px;
+	
+}
+
+
+
+/* @end */
+
+/* @group toolkit */
+
+section.callout{
+	background: #eee;
+	border: 1px solid #ccc;
+	padding: 1em;
+}
+section.callout ul{
+	margin: 0;
+	padding: 0;
+}
+
+
+section.callout li{
+	padding-left: 72px;  
+	position: relative;
+	list-style-type: none;
+	margin: 0 0 1em;
+}
+
+@media screen and (min-width: 711.11111px){
+	.masthead h1{
+		font-size: 36px;
+	}
+	
+	section.callout ul::after{
+		content: "";
+		display: table;
+		clear: both;
+	}
+
+	section.callout li{
+	  	float: left;
+		width: 50%;
+	}
+}
+
+section.callout li h2{
+	margin-top: 0;
+	font-size: 20px;
+	margin-bottom: 0.4em;
+}
+
+section.callout li p{
+	margin-top: 0;
+}
+
+  section.callout li img{
+	width: 64px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+
+/* @end */
+
+/* @end */
+
+
+
+/* @group layouts */
+
+/* @end */
