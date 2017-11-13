@@ -7,7 +7,7 @@
 html,
 body {
   background: #d5d6d9;
-  color: #333; 
+  color: #333;
 }
 
 main {
@@ -25,7 +25,7 @@ h6 {
 
 h1 {
   margin-top: 1em; }
-  
+
 .site-width{
   width: 90%;
   margin-left: auto;
@@ -327,10 +327,84 @@ footer.usa-footer{
 section.callout h1,
 section.how-to-get-connected h1{
 	margin-top: 0;
-	font-family: Merriweather;  
+	font-family: Merriweather;
 	font-size: 28px;
 	letter-spacing: -1px;
 }
+/* @group better-govt-stories */
+
+.better-govt-stories{
+	padding: 1em 0;
+  background-color: #ffffff;
+}
+
+.better-govt-stories article h1{
+	font-size: 20px;
+	margin-bottom: 0;
+}
+
+.better-govt-stories article p{
+	margin-top: 0;
+}
+
+.better-govt-stories article img{
+	width: 100%;
+}
+
+@media screen and (min-width: 711.11px){
+	.better-govt-stories::after{
+		content: "";
+		display: table;
+		clear: both;
+	}
+
+	.better-govt-stories article{
+	  	float: left;
+		width: 49%;
+		margin-right: 2%;
+	}
+
+	.better-govt-stories article{
+		padding-left: 144px;
+		min-height: 72px;
+		position: relative;
+	}
+
+	.better-govt-stories article img{
+		position: absolute;
+		left: 0;
+		top: 0;
+		max-width: 128px;
+		max-height: 96px;
+	}
+	.better-govt-stories article:nth-child(2n+1){
+		margin-right: 0;
+	}
+
+}
+
+@media screen and (min-width: 1066.666px){
+	.better-govt-stories article,
+	.better-govt-stories article:nth-child(2n+1){
+	  	float: left;
+		width: 32%;
+		margin-right: 2%;
+		padding: 0;
+	}
+
+	.better-govt-stories article img{
+		position: static;
+		max-height: none;
+		max-width: none;
+
+	}
+
+	.better-govt-stories article:nth-child(3n+1){
+		margin-right: 0;
+	}
+}
+
+/* @end */
 
 /* @group how-to-get-connected */
 
@@ -340,7 +414,7 @@ section.how-to-get-connected h1{
 }
 
 .how-to-get-connected article h1{
-	font-size: 20px;  
+	font-size: 20px;
 	margin-bottom: 0;
 }
 
@@ -364,13 +438,13 @@ section.how-to-get-connected h1{
 		width: 49%;
 		margin-right: 2%;
 	}
-	
+
 	.how-to-get-connected article{
 		padding-left: 144px;
 		min-height: 72px;
 		position: relative;
 	}
-	
+
 	.how-to-get-connected article img{
 		position: absolute;
 		left: 0;
@@ -381,7 +455,7 @@ section.how-to-get-connected h1{
 	.how-to-get-connected article:nth-child(2n+1){
 		margin-right: 0;
 	}
-	
+
 }
 
 @media screen and (min-width: 1066.666px){
@@ -392,14 +466,14 @@ section.how-to-get-connected h1{
 		margin-right: 2%;
 		padding: 0;
 	}
-	
+
 	.how-to-get-connected article img{
 		position: static;
 		max-height: none;
 		max-width: none;
-		
+
 	}
-	
+
 	.how-to-get-connected article:nth-child(3n+1){
 		margin-right: 0;
 	}
@@ -412,14 +486,14 @@ section.how-to-get-connected h1{
 
 .masthead{
   background: #1c3049;
-  color: white; 
+  color: white;
   padding: 1em 0 1.4em;
 }
 
 .masthead h1{
 	margin: 0;
 	font-size: 28px;
-	
+
 }
 
 
@@ -440,7 +514,7 @@ section.callout ul{
 
 
 section.callout li{
-	padding-left: 72px;  
+	padding-left: 72px;
 	position: relative;
 	list-style-type: none;
 	margin: 0 0 1em;
@@ -450,7 +524,7 @@ section.callout li{
 	.masthead h1{
 		font-size: 36px;
 	}
-	
+
 	section.callout ul::after{
 		content: "";
 		display: table;
