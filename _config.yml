@@ -19,22 +19,27 @@ description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 twitter_username: something
-github_username:  jeremyzilar
+github_username:  atrain440
 data_dir: data
 
 # Build settings
 markdown: kramdown
 plugins:
   - jekyll-feed
-  
+
 collections:
     toolkit:
         permalink: /:path/
         output: true
+        values:
+          layout: "default"
+
+excerpt_separator: <!--second-column-->
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

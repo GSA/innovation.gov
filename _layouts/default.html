@@ -3,20 +3,12 @@
 
   {% include head.html %}
 
-  <body class="layout-demo">
-    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
-
+  <body class="layout layout--{{ page.title | slugify }}">
+    <a class="usa-skipnav" href="#main">Skip to main content</a>
     {% include header.html %}
-
-    {% include box-hero.html %}
-
-    <main class="usa-grid usa-section usa-content usa-layout-docs" id="main-content">
-
+    <main id="main">
       {{content}}
-
     </main>
-
     {% include footer.html %}
-
   </body>
 </html>
