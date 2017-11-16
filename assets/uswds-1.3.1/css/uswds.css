@@ -2903,12 +2903,17 @@ li.usa-footer-primary-content:last-child {
 
 @media screen and (min-width: 600px) {
   .usa-footer-contact-links {
+    color: #ffffff;
+    margin-bottom: 0;
+    margin-top: 0;
+    width: 100%;
     text-align: right;
   }
 }
 
 .usa-social-links a {
   text-decoration: none;
+  color: #ffffff:
 }
 
 @media screen and (min-width: 600px) {
