@@ -1,8 +1,9 @@
 ---
 layout: page
-title:  Innovative Acquisitions and Procurement
+title:  Agile
 permalink: /hello/
-
+vertical: "delivery"
+complexity: ""
 ---
 
 # Summary
@@ -20,7 +21,6 @@ There is no universally accepted, formal definition for Agile, though one federa
 The Agile philosophy is embodied in the four tenets of the [Agile Manifesto](http://www.agilemanifesto.org/) and its 12 associated principles.
 
 Although Agile is not one specific method, there are a variety of common approaches that differ with respect to project approach, resource availability, and desired end result of an Agile project.
-
 
 ## Common Agile Methods
 
@@ -48,8 +48,6 @@ Below are applications of Agile methods at the federal and state levels, includi
 2. [**Salt Lake City**](https://www.agilegovleaders.org/case-studies/slc/): The Salt Lake City Information Management Services (IMS) department wanted to implement fresh ways to approach business, so the department leadership established a project management office (PMO) and Agile training series. The Salt Lake City IMS now applies Agile for a variety of projects including software development, system implementations, and upgrades.
 3. [**State of Maine**](https://www.agilegovleaders.org/case-studies/case-study-agile-government-and-the-state-of-maine/) **:** The State of Maine moved to Agile processes to better quantify and prove success within initiatives while progressing through them, to avoid risk and project failures at cost. In adopting Agile, the State of Maine established an Agile Center of Excellence (CoE), responsible for equipping project teams with the skills and resources necessary to effectively apply Agile in their culture.
 
-<!--second-column-->
-
 ## Approach
 
 ### Benefits of Using Agile
@@ -70,6 +68,7 @@ Other benefits of using Agile Methods include:
 
 Any federal agency that develops or purchases software can benefit from Agile – either by embedding Agile practices in its work, or in working with offerors using Agile methods. When adopting Agile – or entering into contracts with Agile-practicing businesses – agencies should be mindful of the various flavors of Agile and select the method(s) that most closely aligns with its goals.
 
+<!--second-column-->
 
 ### Understanding Agile: Common Challenges
 
@@ -96,7 +95,6 @@ In addition to understanding the common benefits and challenges to applying an A
 -  Gain trust by demonstrating value at the end of each iteration
 -  Track progress using tools and metrics
 -  Track progress daily and visibly
-
 
 ## Actions and Considerations
 
