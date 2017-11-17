@@ -322,6 +322,340 @@ footer.usa-footer{
   .category--intro .method {
     border: 0; }
 
+/* @grid format */
+.usa-grid,
+.usa-grid-full {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1040px;
+}
+
+.usa-grid::after,
+.usa-grid-full::after {
+  clear: both;
+  content: "";
+  display: block;
+}
+
+.usa-grid {
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+@media screen and (min-width: 600px) {
+  .usa-grid {
+    padding-right: 3rem;
+    padding-left: 3rem;
+  }
+}
+
+.usa-grid-full {
+  padding: 0;
+}
+
+@media screen and (min-width: 600px) {
+  .usa-width-one-whole {
+    float: left;
+    display: block;
+    margin-right: 4.82916%;
+    width: 100%;
+  }
+  .usa-width-one-whole:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-half {
+    float: left;
+    display: block;
+    margin-right: 4.82916%;
+    width: 47.58542%;
+  }
+  .usa-width-one-half:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-third {
+    float: left;
+    display: block;
+    margin-right: 4.82916%;
+    width: 30.11389%;
+  }
+  .usa-width-one-third:last-child {
+    margin-right: 0;
+  }
+  .usa-width-two-thirds {
+    float: left;
+    display: block;
+    margin-right: 4.82916%;
+    width: 65.05695%;
+  }
+  .usa-width-two-thirds:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-fourth {
+    float: left;
+    display: block;
+    margin-right: 4.82916%;
+    width: 47.58542%;
+  }
+  .usa-width-one-fourth:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-fourth:nth-child(2n) {
+    margin-right: 0;
+  }
+  .usa-width-three-fourths {
+    float: left;
+    display: block;
+    margin-right: 4.82916%;
+    width: 100%;
+  }
+  .usa-width-three-fourths:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-sixth {
+    float: left;
+    display: block;
+    margin-right: 4.82916%;
+    width: 30.11389%;
+  }
+  .usa-width-one-sixth:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-sixth:nth-child(3n) {
+    margin-right: 0;
+  }
+  .usa-width-five-sixths {
+    float: left;
+    display: block;
+    margin-right: 4.82916%;
+    width: 65.05695%;
+  }
+  .usa-width-five-sixths:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-twelfth {
+    float: left;
+    display: block;
+    margin-right: 4.82916%;
+    width: 30.11389%;
+  }
+  .usa-width-one-twelfth:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-twelfth:nth-child(3n) {
+    margin-right: 0;
+  }
+  .usa-width-five-twelfths {
+    float: left;
+    display: block;
+    margin-right: 4.82916%;
+    width: 30.11389%;
+  }
+  .usa-width-five-twelfths:last-child {
+    margin-right: 0;
+  }
+  .usa-width-seven-twelfths {
+    float: left;
+    display: block;
+    margin-right: 4.82916%;
+    width: 65.05695%;
+  }
+  .usa-width-seven-twelfths:last-child {
+    margin-right: 0;
+  }
+}
+
+@media screen and (min-width: 1201px) {
+  .usa-width-one-whole {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 100%;
+  }
+  .usa-width-one-whole:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-half {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 48.82117%;
+  }
+  .usa-width-one-half:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-third {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 31.76157%;
+  }
+  .usa-width-one-third:last-child {
+    margin-right: 0;
+  }
+  .usa-width-two-thirds {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 65.88078%;
+  }
+  .usa-width-two-thirds:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-fourth {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 23.23176%;
+  }
+  .usa-width-one-fourth:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-fourth:nth-child(2n) {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 23.23176%;
+  }
+  .usa-width-one-fourth:nth-child(2n):last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-fourth:nth-child(4n) {
+    margin-right: 0;
+  }
+  .usa-width-three-fourths {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 74.41059%;
+  }
+  .usa-width-three-fourths:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-sixth {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 14.70196%;
+  }
+  .usa-width-one-sixth:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-sixth:nth-child(3n) {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 14.70196%;
+  }
+  .usa-width-one-sixth:nth-child(3n):last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-sixth:nth-child(6n) {
+    margin-right: 0;
+  }
+  .usa-width-five-sixths {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 82.94039%;
+  }
+  .usa-width-five-sixths:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-twelfth {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 6.17215%;
+  }
+  .usa-width-one-twelfth:last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-twelfth:nth-child(3n) {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 6.17215%;
+  }
+  .usa-width-one-twelfth:nth-child(3n):last-child {
+    margin-right: 0;
+  }
+  .usa-width-one-twelfth:nth-child(12n) {
+    margin-right: 0;
+  }
+  .usa-width-five-twelfths {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 40.29137%;
+  }
+  .usa-width-five-twelfths:last-child {
+    margin-right: 0;
+  }
+  .usa-width-seven-twelfths {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 57.35098%;
+  }
+  .usa-width-seven-twelfths:last-child {
+    margin-right: 0;
+  }
+}
+
+.usa-end-row {
+  margin-right: 0;
+}
+
+.usa-offset-one-twelfth {
+  margin-left: 8.5298%;
+}
+
+.usa-offset-one-sixth {
+  margin-left: 17.05961%;
+}
+
+.usa-offset-one-fourth {
+  margin-left: 25.58941%;
+}
+
+.usa-offset-one-third {
+  margin-left: 34.11922%;
+}
+
+.usa-offset-five-twelfths {
+  margin-left: 42.64902%;
+}
+
+.usa-offset-one-half {
+  margin-left: 51.17883%;
+}
+
+.usa-offset-seven-twelfths {
+  margin-left: 59.70863%;
+}
+
+.usa-offset-two-thirds {
+  margin-left: 68.23843%;
+}
+
+.usa-offset-three-fourths {
+  margin-left: 76.76824%;
+}
+
+.usa-offset-five-sixths {
+  margin-left: 85.29804%;
+}
+
+.usa-offset-eleven-twelfths {
+  margin-left: 93.82785%;
+}
+
+.usa-sr-only {
+  position: absolute;
+  left: -999em;
+}
+
 /* @group modules */
 
 section.callout h1,
