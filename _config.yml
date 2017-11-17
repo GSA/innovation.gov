@@ -33,7 +33,7 @@ plugins:
 
 collections:
     toolkit:
-        permalink: /:path/
+        permalink: /toolkit/:path/
         output: true
         values:
           layout: "default"

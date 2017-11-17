@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  Grand Challenges
-permalink: /hello/
 vertical: "problems"
 complexity: ""
 ---

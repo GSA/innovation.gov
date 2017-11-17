@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  Crowdsourcing and Citizen Science
-permalink: /hello/
 vertical: "innovators"
 complexity: ""
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Agile
-permalink: /hello/
+permalink: /toolkit/agile/
 vertical: "delivery"
 complexity: ""
 ---

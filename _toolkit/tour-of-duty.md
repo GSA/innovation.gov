@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Tour of Duty Hiring
-permalink: /hello/
+permalink: /toolkit/tour-of-duty/
 vertical: "culture"
 complexity: ""
 ---

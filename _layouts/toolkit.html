@@ -19,7 +19,38 @@ TOOLKIT
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    {{ content }}
+    
+    
+    <section class="category category--discover usa-section" id="discover">
+  <div class="usa-grid">
+{% for toolkit in site.toolkit %}
+ {% if toolkit.title == page.title%}
+<span class="anchor" id="{{ 'Title' | slugify }}"></span>
+<article class="method" itemscope itemtype="http://schema.org/Article">
+  <div class="method--panel method--panel--front">
+    <h1 class="method--title" itemprop="headline"><a href="{{ site.baseurl }}{{ toolkit.url }}">
+      {{toolkit.title}}
+    </a></h1>
+          {{ toolkit.excerpt }}
+   </div>
+<div>
+
+<div class="method--panel method--panel--back">
+    <section class="method--section">
+              {% assign second_part = toolkit.content %}
+              {{ second_part | replace_first: toolkit.excerpt, ""}}
+     </section>
+  </div>
+<time datetime="{{ this_method.last_modified_at | date: '%Y-%m-%d' }}" itemprop="datePublished">  {{ this_method.last_modified_at | date: '%B %d, %Y' }}</time>
+</div>
+</article>
+{% endif %}
+
+{% endfor  %}
+
+ </div>
+</section>
+    
   </div>
 
 </article>
