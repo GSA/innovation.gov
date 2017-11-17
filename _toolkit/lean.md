@@ -1,9 +1,10 @@
 ---
 layout: page
 title:  Lean Startup
-permalink: /hello/
 vertical: "delivery"
 complexity: ""
+layout: toolkit-layout
+
 ---
 
 # Lean Startup

@@ -3,6 +3,7 @@ layout: page
 title:  Crowdsourcing and Citizen Science
 vertical: "innovators"
 complexity: ""
+layout: toolkit-layout
 ---
 
 “The potential of crowdsourcing and citizen science is limitless: solving puzzles, formulating new approaches to science, to creating entirely new hypotheses and eventually being able to test them. Really, the only limit is our imagination”

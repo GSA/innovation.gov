@@ -1,9 +1,10 @@
 ---
 layout: page
 title:  Launching an Innovation Lab
-permalink: /hello/
 vertical: "culture"
 complexity: ""
+layout: toolkit-layout
+
 ---
 
 &quot;Primarily it&#39;s creating the time and the space to be able to do it. That&#39;s minimal resources, but it&#39;s giving people the time and space to look at a problem differently, think about what potential solutions are, do a bit of research and then test and try out the new ideas to see if they work. Initial successes are also very helpful as success builds on itself.&quot;

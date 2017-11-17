@@ -1,9 +1,9 @@
 ---
 layout: page
 title:  Hiring a Chief Innovation Officer
-permalink: /hello/
 vertical: "culture"
 complexity: ""
+layout: toolkit-layout
 ---
 
 # Hiring a Chief Innovation Officer

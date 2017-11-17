@@ -1,9 +1,10 @@
 ---
 layout: page
 title:  Engaging Startups
-permalink: /hello/
 vertical: "innovators"
 complexity: ""
+layout: toolkit-layout
+
 ---
 
 # Summary

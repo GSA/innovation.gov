@@ -3,6 +3,7 @@ layout: page
 title:  Grand Challenges
 vertical: "problems"
 complexity: ""
+layout: toolkit-layout
 ---
 
 # Summary

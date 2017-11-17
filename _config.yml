@@ -36,7 +36,7 @@ collections:
         permalink: /toolkit/:path/
         output: true
         values:
-          layout: "default"
+          layout: "toolkit-layout"
 
 excerpt_separator: <!--second-column-->
 

@@ -1,9 +1,9 @@
 ---
 layout: page
 title:  Prizes and Challenges
-permalink: /hello/
 vertical: "innovators"
 complexity: ""
+layout: toolkit-layout
 ---
 
 > “A good Government implies two things: first, fidelity to the object of Government, which is the happiness of the People; secondly, a knowledge of the means by which that object can be best attained.”

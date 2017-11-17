@@ -1,9 +1,10 @@
 ---
 layout: page
-title:  Tour of Duty Hiring
-permalink: /hello/
+title:  Communities of Practice
 vertical: "problems"
 complexity: ""
+layout: toolkit-layout
+
 ---
 
 # Summary

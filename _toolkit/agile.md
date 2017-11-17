@@ -1,9 +1,9 @@
 ---
-layout: page
 title:  Agile
 permalink: /toolkit/agile/
 vertical: "delivery"
 complexity: ""
+layout: toolkit-layout
 ---
 
 # Summary
