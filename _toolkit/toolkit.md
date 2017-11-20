@@ -16,14 +16,24 @@ summary: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed congue al
     <h1 class="method--title" itemprop="headline"><a href="{{ site.baseurl }}{{ toolkit.url }}">
       {{toolkit.title}}
     </a></h1>
-          {{ toolkit.excerpt }}
+
+    {% comment %}
+    {{ toolkit.excerpt }}
+    {% endcomment %}
+
+
    </div>
 <div>
 
 <div class="method--panel method--panel--back">
     <section class="method--section">
-              {% assign second_part = toolkit.content %}
-              {{ second_part | replace_first: toolkit.excerpt, ""}}
+      {% assign second_part = toolkit.content %}
+
+      {% comment %}
+      {{ second_part | replace_first: toolkit.excerpt, ""}}
+      {% endcomment %}
+
+      
      </section>
   </div>
 <time datetime="{{ this_method.last_modified_at | date: '%Y-%m-%d' }}" itemprop="datePublished">  {{ this_method.last_modified_at | date: '%B %d, %Y' }}</time>
