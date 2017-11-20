@@ -57,6 +57,8 @@ As new approaches become available, each agency can consider how to encourage th
 
 Most agencies have Acquisition Innovation Advocates and acquisition labs or similar mechanisms, which were [announced in 2016 by the Office of Management and Budget Office of Federal Procurement Policy Memo](https://obamawhitehouse.archives.gov/sites/default/files/omb/procurement/memo/acquisition-innovation-labs-and-pilot-for-digital-acquisition-innovation-lab-memorandum.pdf). With the dedicated support of this advocate or lab, agencies can reframe problems and produce better results.
 
+<!--second-column-->
+
 ## Examples
 
 ### Modern Contracting Vehicles
@@ -89,6 +91,9 @@ There are two distinct categories of demand pull methods: pay for performance an
 | Staged contracts | Solicits proposals and assesses them quickly |
 
 ### Pay for Performance
+
+<!--second-column-->
+
 
 #### Advanced Market Commitment (AMC)
 
