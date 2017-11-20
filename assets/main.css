@@ -770,11 +770,19 @@ section.how-to-get-connected h1{
 .masthead h1{
 	margin: 0;
 	font-size: 28px;
-
 }
 
+.masthead-stories{
+  background: #112e51;
+  color: white;
+  padding: 3em 0 3em;
+}
 
-
+.masthead-join{
+  background: #8ba6ca;
+  color: white;
+  padding: 3em 0 3em;
+}
 /* @end */
 
 /* @group toolkit */
