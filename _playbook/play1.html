@@ -13,7 +13,11 @@ layout: playbook
             <a href="public-sector-innovation.html">What is Public Sector Innovation?</a>
           </li>
           <li>
+          {% if page.title = "Play 1" %}
+            Play 1: Everyone can (and should) innovate
+          {% else %}
             <a class="usa-current" href="play1.html">Play 1: Everyone can (and should) innovate</a>
+          {% endif %}
             <ul class="usa-sidenav-sub_list">
               <li>
                 <a href="#section-heading-h2">Questions to Ask</a>
