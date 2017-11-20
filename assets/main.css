@@ -543,76 +543,6 @@ footer.usa-footer{
   .usa-width-three-fourths:last-child {
     margin-right: 0;
   }
-  .usa-width-one-sixth {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 14.70196%;
-  }
-  .usa-width-one-sixth:last-child {
-    margin-right: 0;
-  }
-  .usa-width-one-sixth:nth-child(3n) {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 14.70196%;
-  }
-  .usa-width-one-sixth:nth-child(3n):last-child {
-    margin-right: 0;
-  }
-  .usa-width-one-sixth:nth-child(6n) {
-    margin-right: 0;
-  }
-  .usa-width-five-sixths {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 82.94039%;
-  }
-  .usa-width-five-sixths:last-child {
-    margin-right: 0;
-  }
-  .usa-width-one-twelfth {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 6.17215%;
-  }
-  .usa-width-one-twelfth:last-child {
-    margin-right: 0;
-  }
-  .usa-width-one-twelfth:nth-child(3n) {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 6.17215%;
-  }
-  .usa-width-one-twelfth:nth-child(3n):last-child {
-    margin-right: 0;
-  }
-  .usa-width-one-twelfth:nth-child(12n) {
-    margin-right: 0;
-  }
-  .usa-width-five-twelfths {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 40.29137%;
-  }
-  .usa-width-five-twelfths:last-child {
-    margin-right: 0;
-  }
-  .usa-width-seven-twelfths {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 57.35098%;
-  }
-  .usa-width-seven-twelfths:last-child {
-    margin-right: 0;
-  }
-}
 
 .usa-end-row {
   margin-right: 0;
@@ -676,6 +606,8 @@ section.how-to-get-connected h1{
 	font-size: 28px;
 	letter-spacing: -1px;
 }
+
+
 /* @group better-govt-stories */
 
 .better-govt-stories{
@@ -684,7 +616,8 @@ section.how-to-get-connected h1{
 }
 
 .better-govt-stories article h1{
-	font-size: 20px;
+  font-family: Merriweather;
+  font-size: 20px;
 	margin-bottom: 0;
 }
 
@@ -741,7 +674,6 @@ section.how-to-get-connected h1{
 		position: static;
 		max-height: none;
 		max-width: none;
-
 	}
 
 	.better-govt-stories article:nth-child(3n+1){
@@ -779,7 +711,7 @@ section.how-to-get-connected h1{
 	}
 
 	.how-to-get-connected article{
-	  	float: left;
+	  float: left;
 		width: 49%;
 		margin-right: 2%;
 	}
@@ -832,7 +764,7 @@ section.how-to-get-connected h1{
 .masthead{
   background: #1c3049;
   color: white;
-  padding: 1em 0 1.4em;
+  padding: 3em 0 3em;
 }
 
 .masthead h1{
@@ -892,11 +824,11 @@ section.callout li p{
 	margin-top: 0;
 }
 
-  section.callout li img{
-	width: 64px;
-	position: absolute;
-	left: 0;
-	top: 0;
+section.callout li img{
+width: 64px;
+position: absolute;
+left: 0;
+top: 0;
 }
 
 /* @end */
