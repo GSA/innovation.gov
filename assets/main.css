@@ -46,7 +46,6 @@ h2 {
 
 /* @group header */
 
-
 header.usa-header{
   background: white;
 }
@@ -69,9 +68,12 @@ footer.usa-footer{
   background: white;
 }
 
-
+.usa-button cta{
+  color: inherit;
+}
 
 /* @end */
+
 
 @media screen and (min-width: 1201px) {
   .usa-nav-submenu {
