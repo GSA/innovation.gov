@@ -3,6 +3,7 @@ layout: page
 title:  Innovative Acquisitions and Procurement
 vertical: "culture"
 complexity: ""
+permalink: /toolkit/acquisitions/
 layout: toolkit-layout
 ---
 

@@ -3,6 +3,7 @@ layout: page
 title:  Lean Startup
 vertical: "delivery"
 complexity: ""
+permalink: /toolkit/lean/
 layout: toolkit-layout
 
 ---

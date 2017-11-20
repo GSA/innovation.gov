@@ -1,6 +1,7 @@
 ---
 layout: page
 title:  Hiring a Chief Innovation Officer
+permalink: /toolkit/agile/
 vertical: "culture"
 complexity: ""
 layout: toolkit-layout

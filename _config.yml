@@ -30,20 +30,18 @@ plugins:
   - jekyll-feed
 
 collections:
-    toolkit:
-        permalink: /toolkit/:path/
-        output: true
-        values:
-          layout: "toolkit-layout"
-
-excerpt_separator: <!--second-column-->
-
-collections:
     playbook:
         permalink: /playbook/:path/
         output: true
         values:
-          layout: "playbook"
+            layout: "playbook"
+    toolkit:
+        permalink: /toolkit/:path/
+        output: true
+        values:
+            layout: "toolkit-layout"
+
+excerpt_separator: <!--second-column-->
 
 
 # Exclude from processing.
