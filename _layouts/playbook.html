@@ -2,55 +2,18 @@
 layout: default
 ---
 
-PLAYBOOK
-<article class="post entry" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="usa-grid usa-section usa-content usa-layout-docs">
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <div class="post-meta">
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
-        {{ page.date | date: date_format }}
-      </time>
-      {% if page.author %}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>
-      {% endif %}
+  {% include side-nav.html %}
+
+  <article class="post entry usa-width-three-fourths usa-layout-docs-main_content" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
     </div>
-  </header>
+  </article>
 
-  <div class="post-content" itemprop="articleBody">
-
-
-    <section class="category category--discover usa-section" id="discover">
-  <div class="usa-grid">
-{% for toolkit in site.toolkit %}
- {% if toolkit.title == page.title%}
-<span class="anchor" id="{{ 'Title' | slugify }}"></span>
-<article class="method" itemscope itemtype="http://schema.org/Article">
-  <div class="method--panel method--panel--front">
-    <h1 class="method--title" itemprop="headline"><a href="{{ site.baseurl }}{{ toolkit.url }}">
-      {{toolkit.title}}
-    </a></h1>
-          {{ toolkit.excerpt }}
-   </div>
-<div>
-
-<div class="method--panel method--panel--back">
-    <section class="method--section">
-              {% assign second_part = toolkit.content %}
-              {{ second_part | replace_first: toolkit.excerpt, ""}}
-     </section>
-  </div>
-<time datetime="{{ this_method.last_modified_at | date: '%Y-%m-%d' }}" itemprop="datePublished">  {{ this_method.last_modified_at | date: '%B %d, %Y' }}</time>
 </div>
-</article>
-{% endif %}
-
-{% endfor  %}
-
- </div>
-</section>
-
-  </div>
-
-</article>
