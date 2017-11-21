@@ -40,11 +40,6 @@ collections:
         output: true
         values:
             layout: "toolkit-layout"
-    playbook:
-        permalink: /playbook/:path/
-        output: true
-        values:
-            layout: "playbook"
 
 excerpt_separator: <!--second-column-->
 
