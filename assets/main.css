@@ -779,7 +779,7 @@ section.how-to-get-connected h1{
 }
 
 .masthead-join-us{
-  background: #8ba6ca;
+  background: #ffa500;
   color: white;
   padding: 3em 0 3em;
 }
@@ -807,7 +807,7 @@ section.callout li{
 
 @media screen and (min-width: 711.11111px){
 	.masthead h1{
-		font-size: 36px;
+		font-size: 28px;
 	}
 
 	section.callout ul::after{
