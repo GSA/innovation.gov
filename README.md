@@ -1,4 +1,4 @@
-# What is the Better Goverment Movement?
+# What is the Better Government Movement?
 
 The Better Government Movement seeks to answer this question: how might we effectively serve the many talented Federal employees who have the motivation and potential to cause change?
 
