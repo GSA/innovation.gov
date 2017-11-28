@@ -848,3 +848,14 @@ top: 0;
 /* @group layouts */
 
 /* @end */
+
+/*---Toolkit Styles---*/
+
+.banner-dark {
+  background-color: #1C304A;
+  color: #fff
+}
+
+@import
+        "toolkit"
+;
