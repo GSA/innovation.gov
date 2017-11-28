@@ -82,6 +82,11 @@ footer.usa-footer{
   color: #fff
 }
 
+.solutions {
+  background-color: #72b1c6;
+  color: #fff;
+}
+
 
 @media screen and (min-width: 1201px) {
   .usa-nav-submenu {
