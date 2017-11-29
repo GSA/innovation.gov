@@ -2,8 +2,9 @@
 layout: page
 title:  Human-Centered Design
 vertical: "delivery"
-complexity: ""
+complexity: "beginner"
 layout: toolkit-layout
+summary: "Human-centered design is a user-centered approach which identifies the customer's needs, behaviors, and experiences. Its methods can guide work across products, programs, and policy while engaging the public to identify and address the root causes of problems instead of the symptoms."
 
 ---
 
