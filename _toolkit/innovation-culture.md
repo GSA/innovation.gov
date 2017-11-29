@@ -2,9 +2,9 @@
 layout: page
 title:  Creating a Culture of Innovation
 vertical: "culture"
-complexity: ""
+complexity: "intermediate"
 layout: toolkit-layout
-
+summary: "A culture of innovation encourages a problem-solving mindset across the government. It empowers federal agencies and their employees to use modern tools and experiment with new approaches to achieve greater mission impact."
 ---
 
 &quot;Everyday Americans deserve a way of thinking that empowers rather than divides, that confronts challenges rather than creating them, that solicits all types of expertise rather than espousing tired approaches.&quot;
