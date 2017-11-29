@@ -2,8 +2,9 @@
 layout: page
 title:  Prizes and Challenges
 vertical: "innovators"
-complexity: ""
+complexity: "advanced"
 layout: toolkit-layout
+summary: "Public-private partnerships engage the public to help the government solve societal challenges through formal and informal agreements."
 
 ---
 
