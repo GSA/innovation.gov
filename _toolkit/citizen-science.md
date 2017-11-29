@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Crowdsourcing and Citizen Science
-vertical: "innovators"
+vertical: innovators
 complexity: ""
 layout: toolkit-layout
 ---

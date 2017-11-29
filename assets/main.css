@@ -109,6 +109,15 @@ footer.usa-footer{
   color: #fff;
 }
 
+.innovators {
+  background-color: #ecd078;
+}
+
+.innovators-background {
+  background-color: #ecd078;
+  color: #fff;
+}
+
 
 @media screen and (min-width: 1201px) {
   .usa-nav-submenu {

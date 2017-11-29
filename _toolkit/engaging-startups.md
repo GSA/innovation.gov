@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Engaging Startups
-vertical: "innovators"
+vertical: innovators
 complexity: ""
 layout: toolkit-layout
 

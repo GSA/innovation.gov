@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Prizes and Challenges
-vertical: "innovators"
+vertical: innovators
 complexity: ""
 layout: toolkit-layout
 
