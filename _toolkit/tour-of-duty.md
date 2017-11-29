@@ -2,7 +2,7 @@
 layout: page
 title:  Tour of Duty Hiring
 vertical: "culture"
-complexity: "Intermediate"
+complexity: "intermediate"
 layout: toolkit-layout
 summary: "Temporary tour-of-duty employment opportunities or details allow federal agencies to recruit and hire new talent from outside of the government for a short period to help build a more innovative government."
 ---
