@@ -2,7 +2,7 @@
 layout: page
 title:  Hiring a Chief Innovation Officer
 permalink: /toolkit/agile/
-vertical: "culture"
+vertical: culture
 complexity: ""
 layout: toolkit-layout
 ---

@@ -1,10 +1,9 @@
 ---
 layout: page
 title:  Tour of Duty Hiring
-vertical: "culture"
+vertical: culture
 complexity: ""
 layout: toolkit-layout
-
 ---
 
 &quot;You can do this too. We are not special snowflakes; these are hiring authorities that are available to every agency in government.&quot;

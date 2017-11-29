@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Launching an Innovation Lab
-vertical: "culture"
+vertical: culture
 complexity: ""
 layout: toolkit-layout
 

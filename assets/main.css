@@ -91,6 +91,15 @@ footer.usa-footer{
   color: #fff;
 }
 
+.culture {
+  background-color: #C02942;
+}
+
+.culture-background {
+  background-color: #C02942;
+  color: #fff;
+}
+
 
 @media screen and (min-width: 1201px) {
   .usa-nav-submenu {

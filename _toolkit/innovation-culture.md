@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Creating a Culture of Innovation
-vertical: "culture"
+vertical: culture
 complexity: ""
 layout: toolkit-layout
 
