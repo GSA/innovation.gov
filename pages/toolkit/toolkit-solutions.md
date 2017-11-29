@@ -6,7 +6,7 @@ vertical: solutions
 permalink: /toolkit/solutions
 summary: 'Learn more about Innovation.gov and the Better Government Movement'
 banner-heading: The Better Government Toolkit Lorem ipsum dolor sit amet, consectetur adipiscing. 
-class: solutions
+class: solutions-background
 ---
 
 {% include toolkit-banner.html %}

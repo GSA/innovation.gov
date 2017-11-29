@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Communities of Practice
-vertical: "problems"
+vertical: solutions
 complexity: ""
 layout: toolkit-layout
 
