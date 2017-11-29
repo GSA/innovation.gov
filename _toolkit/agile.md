@@ -1,7 +1,7 @@
 ---
 title:  Agile
 permalink: /toolkit/agile/
-vertical: "delivery"
+vertical: delivery
 complexity: ""
 layout: toolkit-layout
 ---

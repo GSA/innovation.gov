@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Evidence-Based Decision Making
-vertical: "delivery"
+vertical: delivery
 complexity: ""
 layout: toolkit-layout
 

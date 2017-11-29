@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Lean Startup
-vertical: "delivery"
+vertical: delivery
 complexity: ""
 permalink: /toolkit/lean/
 layout: toolkit-layout

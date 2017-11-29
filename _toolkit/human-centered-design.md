@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Human-Centered Design
-vertical: "delivery"
+vertical: delivery
 complexity: ""
 layout: toolkit-layout
 
