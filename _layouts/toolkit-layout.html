@@ -1,45 +1,16 @@
----
-layout: default
----
 
-_layouts/_toolkit-layout.html
 <article class="post entry" itemscope itemtype="http://schema.org/BlogPosting">
-
-  <header class="post-header">
-   
-  <div class="post-content" itemprop="articleBody">
-    
-<section class="category category--discover usa-section" id="discover">
-  <div class="usa-grid">
-
-<span class="anchor" id="{{ 'Title' | slugify }}"></span>
-<article class="method" itemscope itemtype="http://schema.org/Article">
-  <div class="method--panel method--panel--front">
-    <h1 class="method--title" itemprop="headline"><a href="{{ site.baseurl }}{{ toolkit.url }}">
-      {{page.title}}
-    </a></h1>
-          {{ page.excerpt }}
-   </div>
-<div>
-
-<div class="method--panel method--panel--back">
-    <section class="method--section">
-              {% assign second_part = page.content %}
-              {{ second_part | replace_first: page.excerpt, ""}}
-     </section>
-  </div>
-<time datetime="{{ this_method.last_modified_at | date: '%Y-%m-%d' }}" itemprop="datePublished">  {{ this_method.last_modified_at | date: '%B %d, %Y' }}</time>
-</div>
-</article>
-
-
- </div>
-</section>
-
-
- </div>
-</section>
-    
-  </div>
-
+    <section class="category category--discover usa-section" id="discover">
+      <div class="usa-grid">
+      <span class="anchor" id="{{ 'Title' | slugify }}"></span>
+        <article class="method" itemscope itemtype="http://schema.org/Article">
+          <div class="method--panel method--panel--front">
+            <h1 class="method--title" itemprop="headline"><a href="{{ site.baseurl }}{{ toolkit.url }}">
+            {{page.title}}
+            </a></h1>
+            {{ page.excerpt }}
+          </div>
+        </article>
+      </div>
+    </section>
 </article>

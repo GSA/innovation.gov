@@ -1,9 +1,8 @@
 ---
-layout: page
-title:  Grand Challenges
-vertical: "problems"
-complexity: ""
 layout: toolkit-layout
+title:  Grand Challenges
+vertical: solutions
+complexity: ""
 ---
 
 # Summary
@@ -67,7 +66,7 @@ Grand challenge programs have these ingredients:
 
 Like other programs, during implementation you will continually refine to keep pace with new learning, changes in technology, and other factors. In a challenge, focus an engagement strategy on the community of solvers. Use events to encourage progress towards the goal, to find what next steps might be, hear about needs, or share accomplishments. You are building a community based on partnership and engagement from every level, from deep technical experts to motivated citizens. If you want to broaden the community base of problem-solvers, you must have a constant drumbeat of activities and communication.
 
-<!--second-column-->
+
 
 ## Actions and Considerations
 
