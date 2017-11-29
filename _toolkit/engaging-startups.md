@@ -2,8 +2,9 @@
 layout: page
 title:  Engaging Startups
 vertical: "innovators"
-complexity: ""
+complexity: "advanced"
 layout: toolkit-layout
+summary: "Agencies leverage the innovative energy and novel solutions of startups and small businesses to meet mission critical goals in a cost-effective way."
 
 ---
 
