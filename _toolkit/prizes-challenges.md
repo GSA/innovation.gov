@@ -4,7 +4,7 @@ title:  Prizes and Challenges
 vertical: "innovators"
 complexity: "advanced"
 layout: toolkit-layout
-summary: "The federal government uses prizes and challenges to promote innovation through rewarding entrepreneurs and citizen solvers for completing specific objectives and tasks."
+summary: "The federal government uses prizes and challenges to promote innovation by rewarding entrepreneurs and citizen solvers for completing specific objectives and tasks."
 ---
 
 > “A good Government implies two things: first, fidelity to the object of Government, which is the happiness of the People; secondly, a knowledge of the means by which that object can be best attained.”
