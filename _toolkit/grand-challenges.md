@@ -2,8 +2,9 @@
 layout: page
 title:  Grand Challenges
 vertical: "problems"
-complexity: ""
+complexity: "advanced"
 layout: toolkit-layout
+summary: "A grand challenge is an ambitious yet achievable call to action that engages the public to collaboratively solve key problems on a large scale."
 ---
 
 # Summary
