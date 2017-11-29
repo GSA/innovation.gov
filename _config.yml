@@ -40,6 +40,11 @@ collections:
         output: true
         values:
             layout: "toolkit-layout"
+    stories:
+        permalink: /stories/:path/
+        output: true
+        values:
+            layout: "page"
 
 excerpt_separator: <!--second-column-->
 
