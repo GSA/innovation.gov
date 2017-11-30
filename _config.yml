@@ -43,8 +43,6 @@ collections:
     stories:
         permalink: /stories/:path/
         output: true
-        values:
-            layout: "page"
 
 excerpt_separator: <!--second-column-->
 
