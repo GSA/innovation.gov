@@ -1,25 +1,30 @@
 
 <article class="post entry" itemscope itemtype="http://schema.org/BlogPosting">
 <div class="{{ page.vertical }}">
-    <section class="category category--discover usa-section " id="discover">
+    <section class="category usa-section " id="discover">
       <div class="usa-grid">
-      <span class="anchor" id="{{ 'Title' | slugify }}"></span>
+        <span class="anchor" id="{{ 'Title' | slugify }}"></span>
         <article class="method" itemscope itemtype="http://schema.org/Article">
           <div class="method--panel method--panel--front">
-            <h1 class="method--title" itemprop="headline"><a href="{{ site.baseurl }}{{ page.url }}">
-            {{page.title}}
-            </a></h1>
             <div>
-            <p>Complexity</p>
-            {% if page.complexity == 'beginner' %}
-              <img src="/assets/images/toolkit/Complexity-Low.png" alt="Alt Text Here." width="200"/>
-            {% elsif page.complexity == 'Intermediate' %}
-            <img src="/assets/images/toolkit/Complexity-Medium.png" alt="Alt Text Here." width="200"/>
-            {% else %}
-            <img src="/assets/images/toolkit/Complexity-High.png" alt="Alt Text Here." width="200"/>
-            {% endif %}
+              <div class="sdc_method--header">
+                <h1 class="method--title" itemprop="headline"><a href="{{ site.baseurl }}{{ page.url }}">
+              {{page.title}}
+              </a></h1>
+              <div>
+                <p>Complexity</p>
+                {% if page.complexity == 'beginner' %}
+                  <img src="/assets/images/toolkit/Complexity-Low.png" alt="Alt Text Here." width="200"/>
+                {% elsif page.complexity == 'Intermediate' %}
+                <img src="/assets/images/toolkit/Complexity-Medium.png" alt="Alt Text Here." width="200"/>
+                {% else %}
+                <img src="/assets/images/toolkit/Complexity-High.png" alt="Alt Text Here." width="200"/>
+                {% endif %}
+              </div>
+          </div>
             {{ page.excerpt }}
           </div>
+        </div>
         </article>
       </div>
     </section>
