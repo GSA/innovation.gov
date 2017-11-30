@@ -3,7 +3,7 @@ layout: toolkit-layout
 title:  Tour of Duty Hiring
 permalink: toolkit/tour-of-duty
 vertical: culture
-complexity: ""
+complexity: Intermediate
 ---
 
 &quot;You can do this too. We are not special snowflakes; these are hiring authorities that are available to every agency in government.&quot;

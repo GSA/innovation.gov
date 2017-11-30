@@ -3,7 +3,7 @@ layout: toolkit-layout
 title:  Communities of Practice
 permalink: toolkit/cops
 vertical: solutions
-complexity: ""
+complexity: beginner
 ---
 
 # Summary

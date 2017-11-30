@@ -3,7 +3,7 @@ layout: toolkit-layout
 title:  Grand Challenges
 permalink: toolkit/grand-challenges
 vertical: solutions
-complexity: ""
+complexity: advanced
 ---
 
 # Summary
