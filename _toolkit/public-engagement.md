@@ -1,10 +1,9 @@
 ---
-layout: page
-title:  Prizes and Challenges
+layout: toolkit-layout
+title:  Public Engagement
+permalink: toolkit/public-engagement
 vertical: innovators
 complexity: ""
-layout: toolkit-layout
-
 ---
 
 &quot;For effective change in a complex system, you need to find ways to constructively involve everyone who is impacted. This is because in a complex environment if you are impacted, you exert influence.&quot;

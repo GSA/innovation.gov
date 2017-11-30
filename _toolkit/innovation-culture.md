@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: toolkit-layout
 title:  Creating a Culture of Innovation
+permalink: toolkit/innovation-culture
 vertical: culture
 complexity: ""
-layout: toolkit-layout
-
 ---
 
 &quot;Everyday Americans deserve a way of thinking that empowers rather than divides, that confronts challenges rather than creating them, that solicits all types of expertise rather than espousing tired approaches.&quot;

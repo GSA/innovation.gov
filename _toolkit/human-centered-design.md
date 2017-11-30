@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: toolkit-layout
 title:  Human-Centered Design
+permalink: toolkit/human-centered-design
 vertical: delivery
 complexity: ""
-layout: toolkit-layout
-
 ---
 
 > “If human-centered design can guide us towards a human-centered process that accommodates how people work, how they like to discover and consume information, we’re all the better for it.”

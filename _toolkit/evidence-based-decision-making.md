@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: toolkit-layout
 title:  Evidence-Based Decision Making
+permalink: toolkit/evidence-based-decision-making
 vertical: delivery
 complexity: ""
-layout: toolkit-layout
-
 ---
 
 &quot;What does it mean […] to create &#39;evidence-based initiatives?&#39; It means that the administration strives to be as certain as possible that federal dollars are spent on social intervention programs that have been proven by rigorous evidence to work.&quot;

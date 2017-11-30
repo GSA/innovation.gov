@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: toolkit-layout
 title:  Communities of Practice
+permalink: toolkit/cops
 vertical: solutions
 complexity: ""
-layout: toolkit-layout
-
 ---
 
 # Summary

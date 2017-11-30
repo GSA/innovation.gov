@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: toolkit-layout
 title:  Innovative Acquisitions and Procurement
 vertical: "culture"
 complexity: ""
 permalink: /toolkit/acquisitions/
-layout: toolkit-layout
 ---
 
 &quot;Innovations arise when people are given a problem to solve instead of being told to implement a known solution.&quot;
