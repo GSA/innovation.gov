@@ -7,7 +7,16 @@
         <article class="method" itemscope itemtype="http://schema.org/Article">
           <div class="method--panel method--panel--front">
             <div>
-              <div class="sdc_method--header">
+              {% assign sdc_complexity-color = 'test' %}
+              {% if page.vertical == 'delivery' %}
+                {% assign sdc_complexity-color = "sdc_complexity-color-delivery" %}
+              {% elsif page.vertical == 'culture' %}
+              {% assign sdc_complexity-color = "sdc_complexity-color-culture" %}
+              {% elsif page.vertical == 'innovators' %}
+              {% assign sdc_complexity-color = "sdc_complexity-color-innovators" %}
+              {% endif %}
+
+              <div class="sdc_method--header {{ sdc_complexity-color}}">
                 <h1 class="method--title" itemprop="headline"><a href="{{ site.baseurl }}{{ page.url }}">
               {{page.title}}
               </a></h1>

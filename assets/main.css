@@ -126,6 +126,18 @@ footer.usa-footer{
   border-top: 8px solid #5CAED7;
 }
 
+.sdc_complexity-color-delivery {
+  border-color: #4EA466;
+}
+
+.sdc_complexity-color-culture {
+  border-color: #D42947;
+}
+
+.sdc_complexity-color-innovators {
+  border-color: #F4B631;
+}
+
 @media screen and (min-width: 1201px) {
   .sdc_method--header {
     flex-direction: row;
