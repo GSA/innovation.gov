@@ -4,6 +4,7 @@ title:  Grand Challenges
 permalink: toolkit/grand-challenges
 vertical: solutions
 complexity: advanced
+summary: "A grand challenge is an ambitious yet achievable call to action that engages the public to collaboratively solve key problems on a large scale."
 ---
 
 # Summary

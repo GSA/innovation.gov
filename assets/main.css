@@ -865,12 +865,12 @@ section.how-to-get-connected h1{
 .masthead{
   background: #1c3049;
   color: white;
-  padding: 2em 0 2em;
+  padding: 3em 0 3em;
 }
 
 .masthead h1{
 	margin: 0;
-	font-size: 28px;
+	font-size: 25px;
 }
 
 .masthead-stories{
@@ -918,14 +918,14 @@ section.callout li{
 	}
 
 	section.callout li{
-	  	float: left;
-		width: 50%;
+	  float: left;
+		width: 48%;
 	}
 }
 
 section.callout li h2{
 	margin-top: 0;
-	font-size: 20px;
+	font-size: 18px;
 	margin-bottom: 0.4em;
 }
 
@@ -944,6 +944,59 @@ top: 0;
 
 /* @end */
 
+/* @group join-us */
+.tg{
+  border-collapse:collapse;
+  border-spacing:0;
+  border-color:#aaa;
+}
+
+.tg td{
+  font-family:Arial, sans-serif;
+  font-size:14px;
+  padding:10px 5px;
+  border-style:solid;
+  border-width:0px;
+  overflow:hidden;
+  word-break:normal;
+  border-color:#aaa;
+  color:#333;
+  background-color:#fff;
+  border-top-width:1px;
+  border-bottom-width:1px;
+}
+
+.tg th{
+  font-family:Arial, sans-serif;
+  font-size:14px;
+  font-weight:normal;
+  padding:10px 5px;
+  border-style:solid;
+  border-width:0px;
+  overflow:hidden;
+  word-break:normal;
+  border-color:#aaa;
+  color:#fff;
+  background-color:#f38630;
+  border-top-width:1px;
+  border-bottom-width:1px;
+}
+
+.tg .tg-28r4{
+  font-size:13px;
+  vertical-align:top
+}
+
+.tg .tg-9d65{
+  font-weight:bold;
+  background-color:#ffffff;
+  color:#000000;
+  vertical-align:top
+}
+
+.tg .tg-yw4l{
+  vertical-align:top
+}
 
 
 /* @group layouts */

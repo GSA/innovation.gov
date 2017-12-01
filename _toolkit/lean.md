@@ -5,6 +5,7 @@ permalink: /toolkit/lean/
 vertical: delivery
 complexity: beginner
 skip-link: lean
+summary: "Lean Startup is a framework for developing user-centered solutions through small-scale tests, regular end-user engagement, and continuous iterations."
 ---
 
 # Lean Startup

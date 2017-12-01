@@ -3,7 +3,8 @@ layout: toolkit-layout
 title:  Engaging Startups
 permalink: toolkit/engaging-startups
 vertical: innovators
-complexity: ""
+complexity: advanced
+summary: "Agencies leverage the innovative energy and novel solutions of startups and small businesses to meet mission critical goals in a cost-effective way."
 ---
 
 # Summary
