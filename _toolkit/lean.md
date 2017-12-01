@@ -3,7 +3,8 @@ layout: toolkit-layout
 title:  Lean Startup
 permalink: /toolkit/lean/
 vertical: delivery
-complexity: ""
+complexity: beginner
+skip-link: lean
 ---
 
 # Lean Startup

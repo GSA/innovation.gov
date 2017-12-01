@@ -3,7 +3,8 @@ layout: toolkit-layout
 title:  Agile
 permalink: /toolkit/agile/
 vertical: delivery
-complexity: ""
+complexity: beginner
+skip-link: agile
 ---
 
 # Summary
