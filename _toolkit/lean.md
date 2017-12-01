@@ -1,12 +1,11 @@
 ---
-layout: page
-title:  Lean Startup
-vertical: "delivery"
-complexity: "beginner"
-permalink: /toolkit/lean/
 layout: toolkit-layout
+title:  Lean Startup
+permalink: /toolkit/lean/
+vertical: delivery
+complexity: beginner
+skip-link: lean
 summary: "Lean Startup is a framework for developing user-centered solutions through small-scale tests, regular end-user engagement, and continuous iterations."
-
 ---
 
 # Lean Startup

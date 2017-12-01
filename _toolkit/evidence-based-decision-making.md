@@ -1,9 +1,10 @@
 ---
-layout: page
-title:  Evidence-Based Decision Making
-vertical: "delivery"
-complexity: "intermediate"
 layout: toolkit-layout
+title:  Evidence-Based Decision Making
+permalink: toolkit/evidence-based-decision-making
+vertical: delivery
+complexity: intermediate
+skip-link: decision-making
 summary: "Evidence-based decision-making approaches ensure the use of efficient and cost-saving methods and assumes routine, rigorous use of data and evaluations to make funding decisions."
 ---
 

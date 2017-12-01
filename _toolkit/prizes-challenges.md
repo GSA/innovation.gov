@@ -1,9 +1,9 @@
 ---
-layout: page
-title:  Prizes and Challenges
-vertical: "innovators"
-complexity: "advanced"
 layout: toolkit-layout
+title:  Prizes and Challenges
+permalink: toolkit/prizes-challenges
+vertical: innovators
+complexity: advanced
 summary: "The federal government uses prizes and challenges to promote innovation by rewarding entrepreneurs and citizen solvers for completing specific objectives and tasks."
 ---
 

@@ -1,9 +1,10 @@
 ---
+layout: toolkit-layout
 title:  Agile
 permalink: /toolkit/agile/
-vertical: "delivery"
-complexity: "beginner"
-layout: toolkit-layout
+vertical: delivery
+complexity: beginner
+skip-link: agile
 summary: "Agile is a type of project management that emphasizes simplicity, quick iteration, and close customer collaboration. The federal government uses Agile in contracting, project management, design discovery, and software development."
 ---
 

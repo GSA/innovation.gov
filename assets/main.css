@@ -4,6 +4,7 @@
 
 /* @group bootstrap */
 
+
 html,
 body {
   background: #d5d6d9;
@@ -73,6 +74,108 @@ footer.usa-footer{
 }
 
 /* @end */
+
+/*---Toolkit Styles---*/
+
+.banner-dark {
+  background-color: #1C304A;
+  color: #fff
+}
+
+.solutions {
+  background-color: #00A6D2;
+}
+
+.solutions-background {
+  background-color: #00A6D2;
+  color: #fff;
+}
+
+.culture {
+  background-color: #D42947;
+}
+
+.culture-background {
+  background-color: #D42947;
+  color: #fff;
+}
+
+.delivery {
+  background-color: #4EA466;
+  padding-top: 2em;
+}
+
+.delivery-background {
+  background-color: #4EA466;
+  color: #fff;
+  margin-bottom: -2.5em;
+}
+
+.innovators {
+  background-color: #F4B631;
+}
+
+.innovators-background {
+  background-color: #F4B631;
+  color: #fff;
+}
+
+.better-gov-callout {
+  background-color: #fff;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  text-align: center;
+  margin-top: 2em;
+}
+
+.better-gov-callout-red {
+  color: #D42947;
+}
+
+.better-gov-callout-green {
+  color: #4EA466;
+}
+
+.better-gov-callout-blue {
+  color: #00A6D2;
+}
+
+.better-gov-callout-yellow {
+  color: #F4B631;
+}
+
+.toolkit-button-group {
+  margin-bottom: -6.5em;
+}
+
+.sdc_method--header {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  border-top: 8px solid #5CAED7;
+}
+
+.sdc_complexity-color-delivery {
+  border-color: #4EA466;
+}
+
+.sdc_complexity-color-culture {
+  border-color: #D42947;
+}
+
+.sdc_complexity-color-innovators {
+  border-color: #F4B631;
+}
+
+@media screen and (min-width: 1201px) {
+  .sdc_method--header {
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+
+  }
+}
 
 
 @media screen and (min-width: 1201px) {
@@ -157,7 +260,6 @@ footer.usa-footer{
   background: #fff;
   border-bottom: 0;
   border-radius: 3px;
-  display: table;
   font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
   margin-bottom: 3rem;
   position: relative; }
@@ -173,7 +275,6 @@ footer.usa-footer{
     margin-left: 1.4em;
     padding-top: .6em; }
   .method .method--title {
-    border-top: 8px solid;
     font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
     font-size: 3.4rem;
     font-weight: bold;
@@ -901,3 +1002,9 @@ top: 0;
 /* @group layouts */
 
 /* @end */
+
+
+
+@import
+        "toolkit"
+;
