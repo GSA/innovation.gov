@@ -11,8 +11,10 @@ class: delivery-background
 
 {% include toolkit-banner.html %}
 
+{% include box-toolkit.html %}
 
 {% include toolkit-verticals.html %}
+
 
 <div class="delivery-background">
 <div class="usa-grid">
