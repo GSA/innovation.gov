@@ -15,7 +15,8 @@ class: innovators-background
 {% include toolkit-verticals.html %}
 
 
-
-
-
-{% toolkit-section-ouput.html %}
+{% for section in site.toolkit %}
+{% if section.vertical == page.vertical %}
+{{ section.output }}
+{% endif %}
+{% endfor %}

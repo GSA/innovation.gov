@@ -14,4 +14,10 @@ class: delivery-background
 
 {% include toolkit-verticals.html %}
 
-{% toolkit-section-ouput.html %}
+<a class="usa-button" href="#agile">{{ page.skip-link }}</a>
+
+{% for section in site.toolkit %}
+{% if section.vertical == page.vertical %}
+{{ section.output }}
+{% endif %}
+{% endfor %}
