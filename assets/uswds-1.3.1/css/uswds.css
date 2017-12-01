@@ -3534,7 +3534,7 @@ input.usa-input-medium {
 .usa-hero {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-image: url("../assets/images/home/home-hero.png");
+  background-image: url("/assets/images/home/home-hero.png");
   background-position: center;
   background-size: cover;
 }
