@@ -16,7 +16,7 @@ class: delivery-background
 {% include toolkit-verticals.html %}
 
 
-<div class="delivery-background">
+<div class="delivery-background toolkit-button-group">
 <div class="usa-grid">
 <a class="usa-button" href="#agile">Agile</a>
 <a class="usa-button" href="#decision-making">Evidence-Based Decision Making</a>

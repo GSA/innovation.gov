@@ -127,6 +127,26 @@ footer.usa-footer{
   text-align: center;
 }
 
+.better-gov-callout-red {
+  color: #D42947;
+}
+
+.better-gov-callout-green {
+  color: #4EA466;
+}
+
+.better-gov-callout-blue {
+  color: #00A6D2;
+}
+
+.better-gov-callout-yellow {
+  color: #F4B631;
+}
+
+.toolkit-button-group {
+  margin-bottom: -6.5em;
+}
+
 .sdc_method--header {
   display: flex;
   flex-direction: column;
