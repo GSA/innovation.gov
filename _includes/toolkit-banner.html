@@ -1,17 +1,10 @@
-{% if page.banner-heading %}
+
 <section class="usa-section banner-dark">
   <div class="usa-grid">
     <div class="usa-width-one-whole usa-end-row">
-      <h2>{{ page.banner-heading }}</h2>
-      {% if page.banner-text %}
-        <p>{{ page.banner-text }}</p>
-      {% endif %}
-      {% if page.banner-button-text %}
-      <div class="center-content">
-        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
-      </div>
-      {% endif %}
+      <h2>The Better Government Toolkit Lorem ipsum dolor sit amet, consectetur adipiscing.</h2>
+      {% include box-toolkit.html %}
     </div>
   </div>
 </section>
-{% endif %}
+
