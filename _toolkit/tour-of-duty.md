@@ -1,10 +1,10 @@
 ---
-layout: page
-title:  Tour of Duty Hiring
-vertical: "culture"
-complexity: ""
 layout: toolkit-layout
-
+title:  Tour of Duty Hiring
+permalink: toolkit/tour-of-duty
+vertical: culture
+complexity: Intermediate
+summary: "Temporary tour-of-duty employment opportunities or details allow federal agencies to recruit and hire new talent from outside of the government for a short period to help build a more innovative government."
 ---
 
 &quot;You can do this too. We are not special snowflakes; these are hiring authorities that are available to every agency in government.&quot;

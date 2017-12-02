@@ -1,10 +1,11 @@
 ---
-layout: page
-title:  Evidence-Based Decision Making
-vertical: "delivery"
-complexity: ""
 layout: toolkit-layout
-
+title:  Evidence-Based Decision Making
+permalink: toolkit/evidence-based-decision-making
+vertical: delivery
+complexity: intermediate
+skip-link: decision-making
+summary: "Evidence-based decision-making approaches ensure the use of efficient and cost-saving methods and assumes routine, rigorous use of data and evaluations to make funding decisions."
 ---
 
 &quot;What does it mean […] to create &#39;evidence-based initiatives?&#39; It means that the administration strives to be as certain as possible that federal dollars are spent on social intervention programs that have been proven by rigorous evidence to work.&quot;

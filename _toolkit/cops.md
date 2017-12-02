@@ -1,10 +1,10 @@
 ---
-layout: page
-title:  Communities of Practice
-vertical: "problems"
-complexity: ""
 layout: toolkit-layout
-
+title:  Communities of Practice
+permalink: toolkit/cops
+vertical: solutions
+complexity: beginner
+summary: "Communities of practice connect innovators and subject-matter experts to solve problems, share ideas, develop relationships, and build on shared resources."
 ---
 
 # Summary
