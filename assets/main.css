@@ -126,6 +126,11 @@ footer.usa-footer{
   padding-bottom: 1em;
   text-align: center;
   margin-top: 2em;
+  text-decoration: none;
+}
+
+.better-gov-callout a {
+  text-decoration: none;
 }
 
 .better-gov-callout-red {
