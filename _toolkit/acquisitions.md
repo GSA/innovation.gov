@@ -1,9 +1,10 @@
 ---
 layout: toolkit-layout
 title:  Innovative Acquisitions and Procurement
-vertical: "culture"
+vertical: culture
 complexity: intermediate
 permalink: /toolkit/acquisitions/
+skip-link: acquisitions
 summary: "Innovative acquisitions and procurement include a variety of procurement approaches for digital services and physical products. They improve faster delivery of contracts and increase end user satisfaction and help the government spend less on the contracting process."
 ---
 
@@ -11,7 +12,7 @@ summary: "Innovative acquisitions and procurement include a variety of procureme
 
 - Partnership for Public Service, &quot;[Innovation is a Contract Sport](https://ourpublicservice.org/publications/viewcontentdetails.php?id=918)&quot;
 
-# Summary
+
 ## Purpose and Outcomes
 **Purpose:** Innovative acquisitions and procurement methods help the government get the most value of its purchasing and outcomes while spending less on contracting processes.
 

@@ -14,6 +14,15 @@ class: innovators-background
 
 {% include toolkit-verticals.html %}
 
+<div class="innovators-background toolkit-button-group-small">
+	<div class="usa-grid">
+	<a class="usa-button" href="#citizen-science">Crowdsourcing and Citizen Science</a>
+	<a class="usa-button" href="#engaging-startups">Engaging Startups</a>
+	<a class="usa-button" href="#prizes-challenges">Prizes and Challenges</a>
+	<a class="usa-button" href="#public-engagement">Public Engagement</a>
+	</div>
+</div>
+
 
 {% for section in site.toolkit %}
 {% if section.vertical == page.vertical %}

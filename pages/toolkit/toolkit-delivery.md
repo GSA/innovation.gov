@@ -16,12 +16,12 @@ class: delivery-background
 
 
 <div class="delivery-background toolkit-button-group">
-<div class="usa-grid">
-<a class="usa-button" href="#agile">Agile</a>
-<a class="usa-button" href="#decision-making">Evidence-Based Decision Making</a>
-<a class="usa-button" href="#human-centered">Human-Centered Design</a>
-<a class="usa-button" href="#lean">Lean Startup</a>
-</div>
+	<div class="usa-grid">
+	<a class="usa-button" href="#agile">Agile</a>
+	<a class="usa-button" href="#decision-making">Evidence-Based Decision Making</a>
+	<a class="usa-button" href="#human-centered">Human-Centered Design</a>
+	<a class="usa-button" href="#lean">Lean Startup</a>
+	</div>
 </div>
 
 {% for section in site.toolkit %}

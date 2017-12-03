@@ -148,6 +148,10 @@ footer.usa-footer{
   margin-bottom: -6.5em;
 }
 
+.toolkit-button-group-small {
+  margin-bottom: -4.5em;
+}
+
 .sdc_method--header {
   display: flex;
   flex-direction: column;

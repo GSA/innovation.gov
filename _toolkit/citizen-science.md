@@ -3,6 +3,8 @@ layout: toolkit-layout
 title:  Crowdsourcing and Citizen Science
 vertical: innovators
 complexity: intermediate
+permalink: /toolkit/citizen-science/
+skip-link: citizen-science
 summary: "Crowdsourcing and citizen science harnesses the ingenuity of the public to accelerate science and technological innovation and to improve the efficiency and effectiveness of government. Crowdsourcing utilizes open calls for voluntary assistance from citizen scientists to solve real-world problems."
 ---
 

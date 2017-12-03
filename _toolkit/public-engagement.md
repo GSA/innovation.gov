@@ -1,17 +1,16 @@
 ---
 layout: toolkit-layout
 title:  Public Engagement
-permalink: toolkit/public-engagement
+permalink: /toolkit/public-engagement/
 vertical: innovators
 complexity: advanced
+skip-link: public-engagement
 summary: "Public-private partnerships engage the public to help the government solve societal challenges through formal and informal agreements."
 ---
 
 &quot;For effective change in a complex system, you need to find ways to constructively involve everyone who is impacted. This is because in a complex environment if you are impacted, you exert influence.&quot;
 
 Seth Kahan, &quot;[The Power to Convene and Set Context](https://www.fastcompany.com/1061235/power-convene-and-set-context)&quot;
-
-# Summary
 
 ## Purpose and Outcomes
 

@@ -1,9 +1,10 @@
 ---
 layout: toolkit-layout
 title:  Hiring a Chief Innovation Officer
-permalink: /toolkit/agile/
+permalink: /toolkit/cino/
 vertical: culture
 complexity: advanced
+skip-link: CINO
 summary: "Chief Innovation Officers (CINO) serve as a source of innovative change within a federal agency. They confront emerging challenges, improve the efficiency of outdated processes, connect people, break down silos, and celebrate innovative work."
 ---
 
@@ -12,7 +13,6 @@ summary: "Chief Innovation Officers (CINO) serve as a source of innovative chang
 > "People often feel that they are in a box where the lid is closing. It is hard to execute on ideas in a hierarchical system full of red tape."
 > -Bryan Sivak, former Chief Technology Officer (CTO) at Health and Human Services (HHS)
 
-# Summary
 ## Purpose & Outcomes
 **Purpose:** Federal agencies can substantially benefit from having a Chief Innovation Officer (CINO) to serve as a catalyst for change to confront emerging challenges or improve the efficiency of decades-old service delivery processes. 
 
