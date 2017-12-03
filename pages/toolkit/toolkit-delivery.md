@@ -29,3 +29,5 @@ class: delivery-background
 {{ section.output }}
 {% endif %}
 {% endfor %}
+
+{% include box-get-connected.html %}
