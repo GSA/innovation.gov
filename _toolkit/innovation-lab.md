@@ -1,9 +1,10 @@
 ---
 layout: toolkit-layout
 title:  Launching an Innovation Lab
-permalink: toolkit/innovation-lab
+permalink: /toolkit/innovation-lab/
 vertical: culture
 complexity: intermediate
+skip-link: innovation-lab
 summary: "Innovation labs create space for agency staff and key external stakeholders to imagine, test, and scale new ways to address their most difficult challenges." 
 ---
 

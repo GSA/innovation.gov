@@ -126,6 +126,11 @@ footer.usa-footer{
   padding-bottom: 1em;
   text-align: center;
   margin-top: 2em;
+  text-decoration: none;
+}
+
+.better-gov-callout a {
+  text-decoration: none;
 }
 
 .better-gov-callout-red {
@@ -146,6 +151,10 @@ footer.usa-footer{
 
 .toolkit-button-group {
   margin-bottom: -6.5em;
+}
+
+.toolkit-button-group-small {
+  margin-bottom: -4.5em;
 }
 
 .sdc_method--header {

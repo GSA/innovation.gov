@@ -1,16 +1,17 @@
 ---
 layout: toolkit-layout
 title:  Prizes and Challenges
-permalink: toolkit/prizes-challenges
+permalink: /toolkit/prizes-challenges/
 vertical: innovators
 complexity: advanced
+skip-link: prizes-challenges
 summary: "The federal government uses prizes and challenges to promote innovation by rewarding entrepreneurs and citizen solvers for completing specific objectives and tasks."
 ---
 
 > “A good Government implies two things: first, fidelity to the object of Government, which is the happiness of the People; secondly, a knowledge of the means by which that object can be best attained.”
 James Madison, The Federalist Papers
 
-# Summary
+
 ## Purpose and Outcomes
 **Purpose**: Prizes and challenges are an approach to federal contracting that promotes innovation by offering a monetary or non-monetary reward upon completing a specific objective or task (i.e., a challenge) (Source: The White House “[Innovative Contracting Case Studies](https://www.whitehouse.gov/sites/default/files/microsites/ostp/innovative_contracting_case_studies_2014_-_august.pdf),” August 2014).
 

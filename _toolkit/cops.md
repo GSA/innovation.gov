@@ -1,13 +1,14 @@
 ---
 layout: toolkit-layout
 title:  Communities of Practice
-permalink: toolkit/cops
+permalink: /toolkit/cops/
 vertical: solutions
 complexity: beginner
+skip-link: cops
 summary: "Communities of practice connect innovators and subject-matter experts to solve problems, share ideas, develop relationships, and build on shared resources."
 ---
 
-# Summary
+
 
 ## Purpose and Outcomes
 

@@ -1,9 +1,10 @@
 ---
 layout: toolkit-layout
 title:  Creating a Culture of Innovation
-permalink: toolkit/innovation-culture
+permalink: /toolkit/innovation-culture/
 vertical: culture
 complexity: intermediate
+skip-link: innovation-culture
 summary: "A culture of innovation encourages a problem-solving mindset across the government. It empowers federal agencies and their employees to use modern tools and experiment with new approaches to achieve greater mission impact."
 ---
 
@@ -11,7 +12,6 @@ summary: "A culture of innovation encourages a problem-solving mindset across th
 
 -Aneesh Chopra, former U.S. Chief Technology Officer
 
-# Summary
 
 ## Purpose and Outcomes
 

@@ -1,13 +1,14 @@
 ---
 layout: toolkit-layout
 title:  Engaging Startups
-permalink: toolkit/engaging-startups
+permalink: /toolkit/engaging-startups/
 vertical: innovators
 complexity: advanced
+skip-link: engaging-startups
 summary: "Agencies leverage the innovative energy and novel solutions of startups and small businesses to meet mission critical goals in a cost-effective way."
 ---
 
-# Summary
+
 ## Purpose and Outcomes
 
 **Purpose:** As budgetary cuts reduce available resources, government agencies can meet their mission goals engaging with small businesses and startups.
