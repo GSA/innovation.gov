@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Innovation.gov + Better Government Movement"
+title: "Innovation.gov"
 email: better-gov@gsa.gov
 description: > # this means to ignore newlines until "baseurl:"
   Innovation.gov is the definitive and most-trusted source for innovation and innovative practices application in the Federal government.
