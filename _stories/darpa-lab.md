@@ -2,7 +2,7 @@
 permalink: /stories/darpa-lab/
 layout: default
 title: DARPA Innovation Lab
-summary: 'Stories provides real-world illustrations of innovate principles and practices transforming government at all levels. Whether you are a program director or agency leadership, the below case studies, use cases, and stories make the case for innovation.'
+summary: 'Stories provides real-world illustrations of innovative principles and practices transforming government at all levels. Whether you are a program director or agency leadership, the below case studies, use cases, and stories make the case for innovation.'
 ---
 <section class="masthead-stories">
   <div class="site-width">
