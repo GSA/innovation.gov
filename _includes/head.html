@@ -1,0 +1,40 @@
+<head>
+  <meta charset="utf-8">
+
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }} | {{ site.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+
+  <!-- TODO: Need to add a SITE level description -->
+  <meta name="description" content="{% if page.description %}{{ page.description | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+
+  <!-- TODO: Need to add these to Config -->
+  <meta name="keywords"  content="innovation, government, better-government, ecosystem, human-centered design, emerging technology">
+
+  <!-- TODO: Need to template these -->
+  <!-- Open Graph tags -->
+  <meta property="og:title" content="Innovation.gov" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://innovation.gov/" />
+  <meta property="og:image" content="/uswds-1.3.1/img/DAP_PIC.jpeg" />
+  <meta property="og:image:width" content="600" />
+  <meta property="og:site_name" content="Innovation.gov + Better Government Movement" />
+  <meta property="og:description" content="Better Government through Innovation: Innovation.gov is the definitive and most-trusted source for innovation and innovative practices application in the Federal government." />
+
+  <!-- USWDS JS -->
+  <script src="/assets/uswds-1.3.1/js/uswds.min.js"></script>
+
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="{{ "/assets/uswds-1.3.1/css/uswds.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/main.css"  | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/print.css"  | prepend: site.baseurl }}" media="print">
+
+
+  <!-- TODO: make this work -->
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include google-analytics.html %}
+  {% endif %}
+</head>
