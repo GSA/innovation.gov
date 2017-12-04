@@ -5,7 +5,7 @@ title: DARPA Innovation Lab
 summary: 'Stories provides real-world illustrations of innovative principles and practices transforming government at all levels. Whether you are a program director or agency leadership, the below case studies, use cases, and stories make the case for innovation.'
 ---
 
-# Summary
+## Summary
 
 DARPA, the Defense Advanced Research Projects Agency, was founded early in 1958 by President Eisenhower. Initially called ARPA, it was created in response to the shock of Sputnik and other early Soviet Union missile achievements that suggested the U.S. might be falling behind its Cold War rival in technological achievement and especially in the technologies of war fighting and defense.
 
@@ -15,7 +15,7 @@ Its long history of successful innovation contributes to the agency&#39;s contin
 
 Many organizations innovate in their early years and lose that inventiveness over time. DARPA is unusual and possibly unique in maintaining its pioneering spirit and achievements for so many years.
 
-# Key Accomplishments and Impact
+## Key Accomplishments and Impact
 
 Since its beginnings in 1958, DARPA research has created many innovations for national security and also has implications for the entire country. DARPA research has:
 
@@ -25,7 +25,7 @@ Have shrank global positioning system (GPS) receivers dramatically. As a result,
 
 Microelectronics DARPA has repeatedly set and then achieved record-breaking goals in the field of microelectronics. The agency pioneered a number of novel digital and analog designs that are now integral to computing and communications and that point to future capabilities far beyond what is possible today. Many of these advances have had immediate applicability in military command and control operations as well as other national security domains. But they have also helped fuel the ongoing revolution in commercial electronics, stoking iterative technical improvements and enabling economies of scale that have, in turn, fed back to the military Services and other defense entities to benefit national security.
 
-# Tools and Approaches
+## Tools and Approaches
 
 The most important factors that define the DARPA creative culture and explain its long and continuing history of innovation are:
 
@@ -34,7 +34,7 @@ The most important factors that define the DARPA creative culture and explain it
 - Trust and autonomy
 - Risk-taking and tolerance of failure
 
-## Limited tenure and urgency
+### Limited tenure and urgency
 
 The short tenure and continual rotation of program managers and office directors and deputies are probably the single most distinctive features of DARPA&#39;s culture and the most important contributors to continuing innovation. Those people, a majority of the agency&#39;s employees, generally hold their jobs for four or five years. The end of their time at DARPA is always in view: their expiration date is printed prominently on their ID badges, a constant reminder to them and their colleagues that time to accomplish important work is limited.
 
@@ -48,7 +48,7 @@ Long-time employees sometimes use the fact of a past failure to prove that somet
 
 Rapid and widespread turnover would also seem to threaten the agency&#39;s cultural memory of its aims and values and its ways of getting work done. That has not been a problem at DARPA, where employees maintain a vivid understanding of the agency&#39;s goals and approaches. One important reason is the clear criteria for hiring and the terms of hire. Bringing in people who are passionate about far-reaching innovations for only a few years attracts individuals who already value DARPA&#39;s goals and approaches and eliminates the kinds of candidates who might make the agency a more cautious and bureaucratic place. DSO program manager John Main says, &quot;If you want a security blanket, DARPA is not for you. The blanket is ripped out of your hands four times a day.&quot; People who come to DARPA recognize their responsibility to maintain its unique culture. In the words of Justin Sanchez: &quot;While you&#39;re here, you&#39;re the steward of the culture. Then you pass it on.&quot;
 
-## Sense of Mission
+### Sense of Mission
 
 DARPA&#39;s reason for being—&quot;to prevent and create technological surprise&quot;—expresses its role in promoting the security of the United States and the safety and success of military personnel. This vital mission draws people to the agency. Program managers talk about the call to serve, about giving back to a country that has been good to them. DARPA&#39;s determination to &quot;change the world&quot; suggests the scope of its mission. The agency offers program managers a chance to &quot;be a part of shaping the future,&quot; says one program manager. The importance and ambition of the mission help fuel the drive toward innovation. People are inspired and energized by the effort to do something that affects the well-being and even the survival of their fellow citizen (and often the citizens of the world), as opposed to the &quot;innovations&quot; that might make a commercial product a bit more salable.
 
@@ -56,7 +56,7 @@ The mission also adds to the sense of urgency, since some of the agency&#39;s wo
 
 Reflecting on both the program manager&#39;s limited tenure and his sense of being a small but vital part of an essential, larger mission, DSO Deputy Office Director William Regli says, &quot;When you leave you know you&#39;re done, your time is up. You say, &#39;I&#39;m one of the bricklayers of the cathedral.&#39;&quot;
 
-## Trust and Autonomy
+### Trust and Autonomy
 
 Trust is a precondition of autonomy. You only grant people the freedom to make decisions and carry out their work as they see fit if you believe they will do it responsibly and well without someone looking over their shoulders. To be effective, trust must go in both directions: the trusted employee must also trust her employer to be faithful to the values and goals of the organization and to the terms of their working relationship.
 
@@ -66,7 +66,7 @@ Office directors often have an idea of the kinds of projects they would like to 
 
 This does not mean, however, that every innovative idea becomes a program. DARPA has a rigorous approval process for deciding which projects to fund; agency leadership must agree to support a program before millions or tens of millions of dollars are committed to it.
 
-## Risk-taking and tolerance of failure
+### Risk-taking and tolerance of failure
 
 DARPA is committed to cutting-edge innovation, the kind of work that will change the world. That level of ambition—trying to do things that have never been done before, working at the edge of the possible—necessarily brings with it the possibility and in fact the likelihood of failure.
 
@@ -80,33 +80,33 @@ The how and why of failure also matter. Tompkins says, &quot;If you fail because
 
 BTO Office Director Justin Sanchez says, &quot;If something doesn&#39;t work out, we feed what we learn into something else.&quot; Proposals submitted to DARPA are reviewed by government experts with advice on specific topics from subject-matter experts both within and outside the government. The Source Selection Board makes recommendations to help the agency decide whether or not to invest in a proposal. It provides advice about technical risk associated with prospective programs, working to differentiate between the barely feasible (and potentially groundbreaking) and the absurd. The board&#39;s judgment is highly informed and useful, but occasionally the experts are wrong about radical advances that defy conventional wisdom about what is possible.
 
-# Key Insights
+## Key Insights
 
-## Rely on the larger innovation ecosystem to deliver the best products
+### Rely on the larger innovation ecosystem to deliver the best products
 
 DARPA explicitly reaches for transformational change instead of incremental advances. But it does not perform its engineering alchemy in isolation. It works within an innovation ecosystem that includes academic, corporate and governmental partners, with a constant focus on the Nation&#39;s military Services, which work with DARPA to create new strategic opportunities and novel tactical options. For decades, this vibrant, interlocking ecosystem of diverse collaborators has proven to be a nurturing environment for the intense creativity that DARPA is designed to cultivate.
 
 DARPA goes to great lengths to identify, recruit and support excellent program managers— extraordinary individuals who are at the top of their fields and are hungry for the opportunity to push the limits of their disciplines. These leaders, who are at the very heart of DARPA&#39;s history of success, come from academia, industry and government agencies for limited stints, generally three to five years. That deadline fuels the signature DARPA urgency to achieve success in less time than might be considered reasonable in a conventional setting.
 
-## Stay small and nimble--and hire new talent constantly
+### Stay small and nimble--and hire new talent constantly
 
 Work at the agency is project-based. Programs typically last for only a few years, defined and limited by explicit progress milestones and the goal of developing a new important technology or capability that can further DARPA&#39;s mission. No project gets done without a passionate project manager leading it.
 
 Given the importance of program management and the constant turnover, office directors and deputies are constantly looking for new people to fill that role. Hiring new talent is an essential and time-consuming part of their work. Program managers must be brilliant people with brilliant ideas they are passionate to develop. Good DARPA program managers are people with intellectual self-confidence who are willing to participate in discourse and don&#39;t consider ideas their personal property.
 
-## Create a sense of passion and urgency
+### Create a sense of passion and urgency
 
 Program managers at DARPA is the heart and lifeblood of the organization. Program managers are hand selected per project and have the freedom and resources to do important and even transformational work is a powerful attraction. Many program managers come to DARPA to work on ideas that they have thought about and championed for many years without ever having had the resources of time and money to work on them.
 
 Most of the program managers that they bring into DARPA are on a three- to five-year contract, so that there&#39;s a sense of urgency to quickly get on board, create a prototype and iterate to a better product. The brevity of the DARPA assignment eliminates people who are looking for a safe and stable career. They&#39;re looking to make their mark and they perceive it as an honor to be selected to work at DARPA.
 
-## Evaluate contracts based on program milestones and stay agnostic of vendors
+### Evaluate contracts based on program milestones and stay agnostic of vendors
 
 DARPA&#39;s contracts are evaluated based on the milestones programs are expected to reach at various points during their lifecycles. The emphasis on milestones makes it possible to evaluate genuine progress and identify valuable results as well as to judge whether continued funding is justified. DARPA program managers establish these milestones up front, crafting them to reflect the nature of the overarching objectives of their individual programs—be it insights from basic research or a technology prototype for a new military system. In many organizations, projects take on a life of their own, continuing to absorb resources despite their failure to achieve results.
 
 DARPA&#39;s sense of urgency, its emphasis on programs of limited duration, and its willingness to end unproductive work all guard against that tendency. So does the rotation of program managers. Coming in with fresh eyes and no established loyalty to program ideas or performers, new program managers help identify non-productive program elements in existing programs and feel free to change or cut them.
 
-# Next Steps
+## Next Steps
 
 A big part of DARPA&#39;s mission is to envision the future and make the impossible possible. In October 2015 as &quot;Back to the Future&quot; day approached, DARPA turned to social media and asked the world to predict: What technologies might actually surround us 30 years from now? We pointed people to presentations from DARPA&#39;s [Future Technologies Forum](http://archive.darpa.mil/WaitWhat/), held in September 2015 in St. Louis, for inspiration and a reality check before submitting their predictions.
 
@@ -124,7 +124,7 @@ Additionally, the Outreach team asked three DARPA researchers from various field
 - [Justin Sanchez](http://www.darpa.mil/staff/dr-justin-sanchez), a neuroscientist and program manager in DARPA&#39;s Biological Technologies Office (BTO), imagines a world where neurotechnologies could enable users to interact with their environment and other people by thought alone:
 - [Stefanie Tompkins](http://www.darpa.mil/staff/dr-stefanie-tompkins), a geologist and director of DARPA&#39;s Defense Sciences Office (DSO), envisions building substances from the atomic or molecular level up to create &quot;impossible&quot; materials with previously unattainable capabilities:
 
-# To Learn More
+## To Learn More
 
 - [Innovation at DARPA](http://www.darpa.mil/attachments/DARPA_Innovation_2016.pdf)
 - [DARPA Research Projects](http://www.darpa.mil/our-research)
