@@ -1,6 +1,6 @@
 ---
 title:  'Play 1: Everyone can (and should) innovate'
-permalink: playbook/play1/
+permalink: /playbook/play1/
 layout: playbook
 ---
 

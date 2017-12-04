@@ -1,6 +1,6 @@
 ---
 title:  'Play 2: Keep the customer at the center of your design'
-permalink: playbook/play2/
+permalink: /playbook/play2/
 layout: playbook
 ---
 
