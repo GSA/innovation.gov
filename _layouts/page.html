@@ -1,16 +1,25 @@
 ---
 layout: default
 ---
-<article class="post">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="post-content">
-
-    {{ content }}
-
+<section class="masthead-stories">
+  <div class="site-width">
+    <div class="usa-grid">
+      <h1>Better Government Stories provide real-world examples of where innovation is happening and working in the government. </h1>
+    </div>
   </div>
+</section>
 
-</article>
+<div class="usa-grid usa-section usa-content usa-layout-docs">
+
+  <article class="post entry usa-width-one-whole usa-layout-docs-main_content" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
+    </header>
+
+    <div class="post-content" itemprop="articleBody">
+      {{ content }}
+    </div>
+  </article>
+
+</div>
