@@ -1825,7 +1825,6 @@ h6 {
 }
 
 h1 {
-  font-size: 4rem;
   font-weight: 700;
 }
 
@@ -1900,7 +1899,7 @@ dfn {
 
 @media screen and (min-width: 481px) {
   .usa-display {
-    font-size: 4rem;
+    font-size: 22px;
     font-weight: 700;
   }
 }
@@ -2378,7 +2377,7 @@ dfn {
 @media screen and (min-width: 600px) {
   .usa-banner-content {
     padding-bottom: 2.3rem;
-    padding-top: 4rem;
+    padding-top: 22px;
   }
 }
 
@@ -2918,7 +2917,7 @@ li.usa-footer-primary-content:last-child {
 
 @media screen and (min-width: 600px) {
   .usa-footer-big .usa-footer-primary-section {
-    padding-bottom: 4rem;
+    padding-bottom: 22px;
     padding-top: 3rem;
   }
 }
