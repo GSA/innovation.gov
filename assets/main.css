@@ -180,10 +180,32 @@ footer.usa-footer{
 @media screen and (min-width: 1201px) {
   .sdc_method--header {
     flex-direction: row;
-    align-items: flex-end;
+    align-items: flex-start;
     justify-content: space-between;
-
+    margin-bottom: 2em;
   }
+}
+
+.method-vertical-section {
+  margin-right: 1em;
+  margin-left: auto;
+}
+
+.method-vertical {
+  float: right;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.method-vertical p {
+  font-size: 1.3rem;
+  width: 180px;
+}
+
+.method-vertical img {
+  margin-right: .5em;
 }
 
 

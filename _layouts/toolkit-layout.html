@@ -19,8 +19,34 @@
                 <h1 class="method--title" itemprop="headline" id="{{ page.skip-link }}">
               {{page.title}}
               </h1>
+
+              <div class="method-vertical-section">
+                <h5>Vertical</h5>
+                {% if page.vertical == 'culture' %}
+                <div class="method-vertical">
+                  <img src="{{ site.baseurl }}/assets/images/icons/culture.png" alt="Alt Text Here." width="35"/>
+                  <p>Build a 21st Century Culure and Workforce</p>
+                </div>
+                {% elsif page.vertical == 'delivery' %}
+                <div class="method-vertical">
+                  <img src="{{ site.baseurl }}/assets/images/icons/delivery.png" alt="Alt Text Here." width="35"/>
+                  <p>Improve Government Services Delivery</p>
+                </div>
+                {% elsif page.vertical == 'innovators' %}
+                <div class="method-vertical">
+                  <img src="{{ site.baseurl }}/assets/images/icons/innovators.png" alt="Alt Text Here." width="35"/>
+                  <p>Bring Innovators into Government</p>
+                </div>
+                {% else %}
+                <div class="method-vertical">
+                  <img src="{{ site.baseurl }}/assets/images/icons/solutions.png" alt="Alt Text Here." width="35"/>
+                  <p>Solve Complex Societal and Governmental Problems</p>
+                </div>
+                {% endif %}
+              </div>
+
               <div>
-                <p>Complexity</p>
+                <h5>Complexity</h5>
                 {% if page.complexity == 'beginner' %}
                   <img src="{{ site.baseurl }}/assets/images/toolkit/Complexity-Low.png" alt="Alt Text Here." width="200"/>
                 {% elsif page.complexity == 'intermediate' %}
@@ -29,6 +55,7 @@
                 <img src="{{ site.baseurl }}/assets/images/toolkit/Complexity-High.png" alt="Alt Text Here." width="200"/>
                 {% endif %}
               </div>
+
           </div>
             {{ page.excerpt }}
           </div>
