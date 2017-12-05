@@ -18,15 +18,10 @@ layout: playbook
     - What are the benefits and costs of the evidenced changes?
     - Do the changes evidence success or failure? Tell the story.
     - Which solutions could be implemented to facilitate greater success?
-      <h2 id="section-heading-h3">Checklist</h2>
-      <ul>
-        - Consider the quality and relevance of potential data sources.
-        - Hypothesize about which data points should change to achieve success.
-        - Develop methods to measure the changes to those data points over time.
-        - Determine whether the changes to the data are the result of innovation or external factors. Repeat this process while considering previous results.
-        - Determine whether the changes to the data evidence success or failure.
-        - Consider which solutions could be implemented to facilitate greater success and implement those changes.
-      </p>
-      </ul>
-  </div>
-</main>
+## Checklist
+    - Consider the quality and relevance of potential data sources.
+    - Hypothesize about which data points should change to achieve success.
+    - Develop methods to measure the changes to those data points over time.
+    - Determine whether the changes to the data are the result of innovation or external factors. Repeat this process while considering previous results.
+    - Determine whether the changes to the data evidence success or failure.
+    - Consider which solutions could be implemented to facilitate greater success and implement those changes.
