@@ -149,6 +149,55 @@ footer.usa-footer{
   color: #F4B631;
 }
 
+.toolkit-home-better-gov-callout {
+  background-color: #fff;
+  text-align: center;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-top: 2em;
+  margin-bottom: 3em;
+  text-decoration: none;
+  border: solid 1px #1C304A;
+
+}
+
+.toolkit-home-better-gov-callout h2 {
+  margin-top: -1em !important;
+  background-color: #fff;
+  margin-bottom: 1em;
+  padding-bottom: 1em;
+  width: 600px;
+  margin: 0 auto;
+}
+
+.toolkit-home-better-gov-callout a {
+  text-decoration: none;
+}
+
+.toolkit-home-callout-text-red {
+  text-align: left;
+  border-left: 6px solid #D42947;
+  padding-left: 1.5em;
+}
+
+.toolkit-home-callout-text-blue {
+  text-align: left;
+  border-left: 6px solid #00A6D2;
+  padding-left: 1.5em;
+}
+
+.toolkit-home-callout-text-green {
+  text-align: left;
+  border-left: 6px solid #4EA466;
+  padding-left: 1.5em;
+}
+
+.toolkit-home-callout-text-yellow {
+  text-align: left;
+  border-left: 6px solid #F4B631;
+  padding-left: 1.5em;
+}
+
 .toolkit-button-group {
   margin-bottom: -6.5em;
 }
