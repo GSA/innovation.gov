@@ -1,27 +1,9 @@
 ---
-permalink: /stories/hhs-idea-lab/
-layout:  stories
-title: "Stories: HHS IDEA Lab"
+permalink: /stories/usaid-lab/
+layout: stories
+title: "Stories: USAID Global Development Lab"
 summary: 'Stories provides real-world illustrations of innovate principles and practices transforming government at all levels. Whether you are a program director or agency leadership, the below case studies, use cases, and stories make the case for innovation.'
 ---
-
-<section class="masthead">
-  <div class="site-width">
-    <h1>Learn more and read stories and case studies about government innovation in action.</h1>
-  </div>
-</section>
-
-<div class="page">
-  <div class="site-width">
-    <div class="usa-width-one-third"
-    <h2>Purpose</h2>
-  </div>
-  <div class="usa-width-two thirds"
-    <p>To learn about modern ways to build a 21st century culture and workforce, improve government services delivery, solve complex problems, and work with innovators inside and outside of government.</p>
-  </div>
-</div>
-
-# Summary
 
 At USAID, the [U.S. Global Development Lab](https://www.usaid.gov/GlobalDevLab/about) is the seat of innovation. The Lab grew out of initiatives to re-position USAID to meet the 21st century challenges for development. In 2010, the USAID Office of Innovation and Development Alliances and the Office of Science and Technology were established with the goals of sourcing new development solutions, encouraging scientific inquiry, and creating a culture driven by entrepreneurial ingenuity. In April 2014, the two offices evolved into the Global Development Lab. (Source: U.S. Global Development Lab, &quot; [2015 The Lab Year in Review: Accelerating Development through Science, Technology, Innovation, and Partnership](http://pdf.usaid.gov/pdf_docs/PBAAD682.pdf).&quot; 2015).
 
@@ -83,5 +65,3 @@ The Lab has aggressive five-year goals for diffusion innovative approaches acros
 - Partnership: Continue leveraging PPPs for mission impact, with emphasis on ensuring that high-potential pilots supported by the Lab secure follow-on funding from partners.
 
 Successful diffusion and mainstreaming innovation will critically depend on changing the incentives within the agency, Chang observes. It&#39;s not enough to developing great tools and knowledge support, or to create a permissive environment. Currently, incentives still revolve largely around compliance; &quot;There&#39;s not an incentive either in the staffing reviews or in the bureau reviews to actually continually improve your impact or your cost effectiveness.&quot; There&#39;s no incentive to innovate in an environment where risk-taking isn&#39;t rewarded, or where the dominant expectation is to cyclically repeat last year&#39;s performance.  To move beyond the enthusiasm of early adopters and champions and Mainstream innovative approaches, the organizational incentive structure must be re-organized to reward experimentation. Changing the default ways of working can be uncomfortable. Employees need to be rewarded for investing the time – and the risk – in trying something new.
-
-{% include box-get-connected.html %}

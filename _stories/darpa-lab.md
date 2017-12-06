@@ -5,8 +5,6 @@ title: DARPA Innovation Lab
 summary: 'Stories provides real-world illustrations of innovative principles and practices transforming government at all levels. Whether you are a program director or agency leadership, the below case studies, use cases, and stories make the case for innovation.'
 ---
 
-## Summary
-
 DARPA, the Defense Advanced Research Projects Agency, was founded early in 1958 by President Eisenhower. Initially called ARPA, it was created in response to the shock of Sputnik and other early Soviet Union missile achievements that suggested the U.S. might be falling behind its Cold War rival in technological achievement and especially in the technologies of war fighting and defense.
 
 The agency encourages, funds, and manages research carried out by the military, private industry, and academia to fulfill its mission of avoiding and creating technological surprise. Over its almost six decades of existence, it has supported and guided work that has &quot;changed the world&quot;—a phrase frequently heard at DARPA to ensure a focus on transformative innovation as opposed to incremental improvements in existing technologies.
@@ -129,5 +127,3 @@ Additionally, the Outreach team asked three DARPA researchers from various field
 - [Innovation at DARPA](http://www.darpa.mil/attachments/DARPA_Innovation_2016.pdf)
 - [DARPA Research Projects](http://www.darpa.mil/our-research)
 - [People of DARPA](http://www.darpa.mil/about-us/people)
-
-{% include box-get-connected.html %}
