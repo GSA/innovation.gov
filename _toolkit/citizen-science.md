@@ -58,7 +58,7 @@ Agencies should apply these principles, where relevant, when designing crowdsour
 
 3. **Public participation.** Public engagement enhances the government’s effectiveness and improves the quality of its decisions. Project participation should be fully voluntary. Volunteers should receive acknowledgment for their contributions, understand how their contributions are meaningful to the project, and how they will benefit from participating. Where appropriate, agencies should consider engaging other countries or regions with relevant experience, programs, or citizenry to provide useful scientific data on issues that span national borders and build international understanding of shared scientific challenges. 
 
-<!--second-column-->
+
 
 ##  **Actions and Considerations**
 

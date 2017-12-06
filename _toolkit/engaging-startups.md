@@ -74,7 +74,7 @@ NASA has enjoyed great success in attracting small businesses for technology-bas
 
 Funded by the National Institutes of Health (NIH) Common Fund, the [Stimulating Peripheral Activities to Relieve Conditions (SPARC) program](https://commonfund.nih.gov/sparc/index.) is designed to bring together government and individuals, industry, foreign, small business, and non-profit (nontraditional) partners to improve neuromodulation therapies by uncovering the underlying neuroanatomy and biological mechanisms of action governing nerve-organ interactions. The SPARC program is one of three programs at NIH that are currently using NIH&#39;s Other Transaction (OT) Authority, which allows the NIH to streamline the process of awarding federal funds and better target organizations and individuals.
 
-<!--second-column-->
+
 
 # Approach
 

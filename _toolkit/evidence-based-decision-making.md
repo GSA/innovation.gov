@@ -125,7 +125,7 @@ There are many ways to build evidence of what works. After reviewing many federa
 4. **Independence:** Insulate evaluation functions from undue influence or bias.
 5. **Ethics:**  Conduct evaluations in an ethical manner that safeguards participants&#39; dignity, rights, safety, and privacy.
 
-<!--second-column-->
+
 
 # Policies
 

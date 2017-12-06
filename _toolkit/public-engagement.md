@@ -135,7 +135,7 @@ Structure the convening process to keep the meetings focused on the defined outc
 - **Focus on realizing the shared outcome.**
 - **Include the public.** Create a platform where citizens can also contribute new ideas. Get input through digital engagement tools
 
-<!--second-column-->
+
 
 # Policies
 

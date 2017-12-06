@@ -30,7 +30,7 @@ Appointing a CINO can result in persistent, high-value benefits for agency leade
 - Having a separate innovation team like the U.S. Agency for International Development’s (USAID) [Global Development Lab](https://www.usaid.gov/GlobalDevLab) generates more critical mass, bringing together best practices, and helping to evangelize across the organization. “It’s much harder,” former CINO Ann Mei Chang observed, “When people are trying to work in isolation to push the boulder up a hill rather than having a team and space to innovate together.” (Source: Interview with Ann Mei Chang by Policy Design Lab, July 7, 2016).
 - Matthew Dunne led [The Quiet Clean Energy Innovation Revolution at the Department of Energy](http://www.forbes.com/sites/matthewstepp/2013/01/07/the-quiet-clean-energy-innovation-revolution-at-the-department-of-energy). He found Senior Executive Service (SES) employees support vital. When they authorize the employees they manage to invest time in innovative activities, such as participation in communities of practice (CoP) (Source: Interview with Matthew Dunne by Policy Design Lab, July 18, 2016).
 
-<!--second-column-->
+
 
 # Approach
 There is no single definition for CINO roles; senior leaders have created and defined this role in the ways that best address their agency’s needs. 

@@ -44,7 +44,7 @@ Understanding and properly using all available flexible hiring authorities can h
 
 An effective public service appeal directly asks prospective hires to use their tremendous skills to serve their country. Particularly with fellowship authority ( [Schedule A sub-part R](http://www.ecfr.gov/cgi-bin/text-idx?rgn=div5&amp;node=5:1.0.1.2.22#sg5.1.213.c.sg0)), talent can be hired under two-year appointments with the option of extending another two years. The tour of duty model can appeal to talent with technical expertise who might not have otherwise considered public service.
 
-<!--second-column-->
+
 
 ## Actions and Considerations
 

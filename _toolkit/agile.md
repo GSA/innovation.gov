@@ -69,7 +69,7 @@ Other benefits of using Agile Methods include:
 
 Any federal agency that develops or purchases software can benefit from Agile – either by embedding Agile practices in its work, or in working with offerors using Agile methods. When adopting Agile – or entering into contracts with Agile-practicing businesses – agencies should be mindful of the various flavors of Agile and select the method(s) that most closely aligns with its goals.
 
-<!--second-column-->
+
 
 ### Understanding Agile: Common Challenges
 

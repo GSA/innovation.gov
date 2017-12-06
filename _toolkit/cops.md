@@ -87,7 +87,7 @@ If a CoP doesn't meet your needs, consider joining or creating one of these grou
 | Public-Private Partnership | Collaboration between public and private sectors, typically on a long-term basis. | When there is a need to use members from industry and government to solve problems. |
 | Working Group | Group of individuals who collaborate to achieve a specific objective. | When there is an issue or project to solve and there is a defined beginning and end. |
 
-<!--second-column-->
+
 
 # Policies
 

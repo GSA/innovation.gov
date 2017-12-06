@@ -36,7 +36,7 @@ NSF relied on a quick-turn, internal-review for proposals and limited their size
 Since its founding in 2011, NSF has increased the annual I-Corps program budget from $2M to $30 million in FY2017, held 44 cohorts, and worked with 950 teams of 2900 individuals through the national I-Corps program. It created a National Innovation Network of over 70 universities that has taught a version of the I-Corps curriculum to tens of thousands of researchers. 
 Learn more at [NSF Innovation Corps: From Science Lab to Startup](https://obamawhitehouse.archives.gov/blog/2012/08/10/nsf-innovation-corps-science-lab-startup).
 
-<!--second-column-->
+
 
 # Approach
 Lean Startup methods apply a collaborative, team-based approach to accelerated problem solving. They emphasize challenging assumptions and reacting quickly to new information and feedback using hypothesis development and testing as part of the customer discovery. It is closely aligned with human-centered design (HCD) principles, which stress empathy, ideation, prototyping, and testing ideas to validate whether they meet the stakeholder’s needs.   

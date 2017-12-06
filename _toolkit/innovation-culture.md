@@ -67,7 +67,7 @@ Tactical strategies are required to effectively encourage adoption, adaptation, 
 - **Look for allies:** Take a team approach.
 - **Build community and networks:** Build communities of practice (CoP) in your own agency and work up to interagency CoPs.
 
-<!--second-column-->
+
 
 # Policies
 

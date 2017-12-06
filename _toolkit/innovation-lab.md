@@ -42,7 +42,7 @@ Several agencies have developed their internal innovation capacity through innov
 -  [S. Global Development Lab](https://www.usaid.gov/GlobalDevLab) at the U.S. Agency for International Development (USAID)
 -  [VA Center for Innovation](https://www.innovation.va.gov/) at the Veterans Administration (VA)
 
-<!--second-column-->
+
 
 # Approach
 

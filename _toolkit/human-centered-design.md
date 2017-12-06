@@ -109,7 +109,7 @@ Every HCD project will vary based on the environment, the targeted problem(s), s
 - Involve the consumer in the design and production process
 - Iterate the MVP/pilot to incorporate feedback and continually improve.
 
-<!--second-column-->
+
 
 # Policies
 Federal agencies must follow various laws and regulations, including the [Paperwork Reduction Act (PRA)](http://www.gpo.gov/fdsys/pkg/PLAW-104publ13/html/PLAW-104publ13.htm) and the [Privacy Act](http://www.justice.gov/opcl/1974privacyact-overview.htm), when collecting information from the public. You should also know [SORN](https://www.opm.gov/information-management/privacy-policy/privacy-references/sornguide.pdf) (Systems of Records Notice), as well as rules around personally identifiable information (PII), and laws that relate to your specific method of feedback collection (such as Section 508 compliance for online surveys).

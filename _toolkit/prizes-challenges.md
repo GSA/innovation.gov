@@ -85,7 +85,7 @@ Setting up and running a challenge require flexibility. Develop a challenge that
 - Prepare a communication plan before launching the challenge.
 - Sign up for an [OMB Max](https://max.gov/maxportal/home.action) login to use Challenge.gov. 
 
-<!--second-column-->
+
 
 # Policies
 - [S.3084 - American Innovation and Competitiveness Act](https://www.congress.gov/bill/114th-congress/senate-bill/3084), 114th Congress, December 2016. This stipulates that ‘Federal agencies may use crowdsourcing and voluntary, collaborative citizen science to advance their missions.
