@@ -1,11 +1,11 @@
 ---
 layout: toolkit-subpage
 title: Improve Government Services Delivery
-description: Lorem ipsum dolor sit amet,
+description: Learn more about innovative methods to innovate like human-centered design, Lean and Agile, and evidence-based decision-making.
 vertical: delivery
 permalink: /toolkit/delivery/
 summary: 'Learn more about Innovation.gov and the Better Government Movement'
-banner-heading: The Better Government Toolkit Lorem ipsum dolor sit amet, consectetur adipiscing.
+banner-heading: The Better Government Toolkit provides approaches, policies, and resources to build a better government through innovation.
 class: delivery-background
 ---
 

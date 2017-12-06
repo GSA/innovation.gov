@@ -6,7 +6,8 @@ layout: playbook
 ---
 
 <p class="usa-font-lead">Diversity of backgrounds and thought makes for better overall experience, products and services. To build a culture of collaboration look outside of your team or organization’s silo to deliver your mission, and include them in your process to co-create the future. Also, celebrate the successes as well as the failures.
-  <h2 id="section-heading-h2">Questions to Ask</h2>
+
+<h2 id="section-heading-h2">Questions to Ask</h2>
   <ul>
     <li>What are the rules with regards to engaging non-feds in public policy, program and service design?</li>
     <li>Whose feedback are you soliciting in evaluating the efficacy of your work?</li>
@@ -18,7 +19,8 @@ layout: playbook
     <li>Who is evaluating your work or product?</li>
     <li>How can you learn from external partners?</li>
   </ul>
-  <h2 id="section-heading-h3">Checklist</h2>
+
+<h2 id="section-heading-h3">Checklist</h2>
   <ul>
     <li>Open lines of communication between staff and leadership.</li>
     <li>Contact GSA innovators!</li>

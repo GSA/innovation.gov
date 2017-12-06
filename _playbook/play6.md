@@ -13,7 +13,7 @@ layout: playbook
   - What lessons have you learned from innovating?
   - How can your approach be refined to reflect those lessons?
 
-## Questions to Ask
+<h2 id="section-heading-h2">Questions to Ask</h2>
     - How are you defining success (and failure) at the beginning of the project?
     - Which data points are indicative of overall success? Failure?
     - Are changes to the data the result of innovation? Or external factors?

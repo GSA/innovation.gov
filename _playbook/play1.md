@@ -6,7 +6,7 @@ layout: playbook
 
 <p class="usa-font-lead"> Innovation is not limited to “innovation professionals.” Great ideas come from all walks of life and innovation works best for everyone when everyone can participate and provide feedback. Incentives, accountability, and a sense of urgency can encourage the government and the public to work on and collaborate towards meaningful solutions. Identify and replicate proven methods that deliver more responsive and effective results; explore opportunities to apply them to your work. To enable innovators of all kinds, regularly question your methods and think about how you can do your work better.</p>
 
-## Questions to Ask
+<h2 id="section-heading-h2">Questions to Ask</h2>
 
 - How can you inspire disengaged employees/colleagues to want to innovate?
 - Is your work effective in producing the intended results?

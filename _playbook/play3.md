@@ -10,7 +10,7 @@ layout: playbook
   - Use quick, low-barrier experiments to test assumptions, fail in small increments, and incorporate insights to make a better end product or service.
   - Approach problems with a growth-mindset and stay flexible, improve and learn continuously.</p>
 
-## Questions to Ask
+<h2 id="section-heading-h2">Questions to Ask</h2>
 
     - Who are the change makers in your organization?
     - How do people currently obtain the product or service and are there ways to improve their experience?
