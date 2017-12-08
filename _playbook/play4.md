@@ -27,7 +27,5 @@ layout: playbook
     <li>Open lines of communication with the public.</li>
     <li>Solicit, consider, and implement the feedback and solutions offered by your stakeholders. Move beyond mass emails. Set up telephone conversations and, wherever possible, in-person interviews.</li>
     <li>Include stakeholders in all stages of innovation, from the evaluation of your services to evaluation of the solutions.</li>
-    <li>Consider the successes of external partners and ask your stakeholders how your agency can replicate those successes.</li></p>
+    <li>Consider the successes of external partners and ask your stakeholders how your agency can replicate those successes.</li>
   </ul>
-</div>
-</main>
