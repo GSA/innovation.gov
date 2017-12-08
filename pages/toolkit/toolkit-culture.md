@@ -11,7 +11,6 @@ class: culture-background
 
 {% include toolkit-banner.html %}
 
-
 {% include toolkit-verticals.html %}
 
 <div class="culture-background toolkit-button-group-small">

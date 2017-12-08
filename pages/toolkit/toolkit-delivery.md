@@ -1,7 +1,7 @@
 ---
 layout: toolkit-subpage
 title: Improve Government Services Delivery
-description: Learn more about innovative methods to innovate like human-centered design, Lean and Agile, and evidence-based decision-making.
+description: Innovative methods to innovate like human-centered design, Lean and Agile, and evidence-based decision-making.
 vertical: delivery
 permalink: /toolkit/delivery/
 summary: 'Learn more about Innovation.gov and the Better Government Movement'

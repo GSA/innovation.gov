@@ -11,7 +11,6 @@ class: innovators-background
 
 {% include toolkit-banner.html %}
 
-
 {% include toolkit-verticals.html %}
 
 <div class="innovators-background toolkit-button-group-small">
