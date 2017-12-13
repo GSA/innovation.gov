@@ -1,11 +1,11 @@
 ---
 layout: toolkit-subpage
-title: Engage Innovators and Outside Government
-description: Pathways to engage innovators inside and outside of government through public-private partnerships, startup engagement, prizes and challenges, and citizen science and crowdsourcing.
+title: Engage Innovators Inside and Outside Government
+description:
 vertical: innovators
 permalink: /toolkit/innovators/
 summary: 'Learn more about Innovation.gov and the Better Government Movement'
-banner-heading: The Better Government Toolkit provides approaches, policies, and resources to build a better government through innovation.
+banner-heading: The Better Government Toolkit provides approaches and resources to build a better government through innovation.
 class: innovators-background
 ---
 

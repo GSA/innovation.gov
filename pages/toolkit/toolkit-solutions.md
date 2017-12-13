@@ -1,11 +1,11 @@
 ---
 layout: toolkit-subpage
 title: Solve Governmental and Societal Problems
-description: Lorem ipsum dolor sit amet,
+description:
 vertical: solutions
 permalink: /toolkit/solutions/
 summary: 'Learn more about Innovation.gov and the Better Government Movement'
-banner-heading: The Better Government Toolkit provides approaches, policies, and resources to build a better government through innovation.
+banner-heading: The Better Government Toolkit provides approaches and resources to build a better government through innovation.
 class: solutions-background
 ---
 

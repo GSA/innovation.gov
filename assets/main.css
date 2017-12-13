@@ -123,7 +123,7 @@ footer.usa-footer{
 .better-gov-callout {
   background-color: #fff;
   padding-top: 1em;
-  padding-bottom: 1em;
+  padding-bottom: 0;
   text-align: center;
   margin-top: 2em;
   text-decoration: none;
@@ -153,7 +153,7 @@ footer.usa-footer{
   background-color: #fff;
   text-align: center;
   padding-top: 1em;
-  padding-bottom: 1em;
+  padding-bottom: 0;
   margin-top: 2em;
   margin-bottom: 3em;
   text-decoration: none;
