@@ -29,4 +29,8 @@ class: culture-background
 {% endif %}
 {% endfor %}
 
+<div class="usa-grid usa-footer-return-to-top">
+	<a href="#">Return to top</a>
+</div>
+
 {% include box-get-connected.html %}
