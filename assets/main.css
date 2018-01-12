@@ -966,3 +966,20 @@ footer a:visited {
 
 .usa-footer-logo p {
   font-size: .7em; }
+
+
+
+#search_form {
+  width: 275px;
+  margin-top: 10px;
+  max-width: none;
+}
+#search-field-small{
+  width: 230px;
+  float: left;
+  margin:0;
+  height:33px;
+}
+.usa-search button {
+  float: left;
+}
