@@ -4,16 +4,93 @@ layout: default
 
 {% include box-hero.html %}
 
-<div class="site-width">
-  {% include box-mission.html %}
-  {% include box-movement.html %}
-  {% include box-stories.html %}
+<div class="page">
+  <section class="usa-section usa-grid usa-section">
+    <div class="usa-width-one-third">
+    <h2>Better Government Plays</h2>
+  </div>
+  <div class="usa-width-two-thirds">
+    <p class="usa-font-lead"> The power of the federal government is in the reach and scale of its work. That reach and scale creates opportunities and challenges for innovation. Meeting the innovation imperative within government is not about launching ever-greater numbers of pilot projects that don’t grow. It’s about developing cultural norms and practices that support increased awareness, adoption, and adaptation of successful innovations systematically across the entirety of government.</p>
 
-  <section class="usa-section">
-    <div class="usa-grid">
-      <h2>Sign up for our newsletter</h2>
-      <p class="usa-font-lead">Our monthly newsletter is the source for innovative practices being used across the government and the upcoming Better Government Movement events. Our newsletters are usually posted the first week of every month.</p>
-      <a class="usa-button usa-button-big" href="mailto:better-gov@gsa.gov?subject=Subscribe to Better Government Movement Newsletter"">Subscribe</a>
+    <p>The plays listed here were co-created over a series of workshops with more than 1,000 public sector innovators in Spring 2017.</p>
+      <h3><a href="{{ site.baseurl }}/playbook/">What is Public Sector Innovation?</a></h3>
+      <h3><a href="{{ site.baseurl }}/playbook/play1/">Play 1: Everyone can and should innovate.</a></h3>
+      <h3><a href="{{ site.baseurl }}/playbook/play2/">Play 2: Keep the customer at the center of your design.</a></h3>
+      <h3><a href="{{ site.baseurl }}/playbook/play3/">Play 3: Embrace change. Experiment and seek feedback to make incremental continous improvements and reduce risk.</a></h3>
+      <h3><a href="{{ site.baseurl }}/playbook/play4/">Play 4: Build a culture of collaboration, communication, and sharing with partners inside and outside the government.</a></h3>
+      <h3><a href="{{ site.baseurl }}/playbook/play5/">Play 5: Let data inform your decision-making and be a key part of your story.</a></h3>
+      <h3><a href="{{ site.baseurl }}/playbook/play6/">Play 6: Innovation is not a one-size-fits-all approach.</a></h3>
+  </div>
+</section>
+
+<section class="usa-section banner tagline">
+  <div class="usa-grid">
+    <div class="usa-width-one-whole usa-end-row">
+        <h2>Innovation.gov exists for innovators to spur culture change in government, centered on problem-solving: how might we discover and understand the right problem before we jump to solutions, and ensure we solve the problems right, unblocking barriers to innovation.</h2>
+      <div class="center-content">
+        <a href="/about/" class="usa-button">Learn more</a>
+      </div>
     </div>
-  </section>
-</div>
+  </div>
+</section>
+
+{% include box-toolkit-home-callout.html %}
+
+<section class="how-to-get-connected" "usa-section">
+  <div class="site-width">
+    <h2>Better Government Case Studies</h2>
+    <article>
+      <a href="{{ site.baseurl }}/stories/darpa-lab/">
+        <img src="../assets/images/stories/stories-1.png" alt="DARPA Lab">
+      </a>
+      <h1>Defense Advanced Research and Project Agency (DARPA)</h1>
+      <br>
+      <p>DARPA has continuously innovated technologies that have “changed the world”.</p>
+    </article>
+    <article>
+      <a href="{{ site.baseurl }}/stories/usaid-lab/">
+       <img src="../assets/images/stories/stories-2.png" alt="USAID Global Development Lab">
+      </a>
+      <h1>U.S. Agency for International Development's Global Development Lab</h1>
+      <br>
+      <p>USAID’s plans to meet 21st century challenges for international development.</p>
+    </article>
+    <article>
+      <a href="{{ site.baseurl }}/stories/hhs-idea-lab/">
+        <img src="../assets/images/stories/stories-3.png" alt="HHS IDEA Lab">
+      </a>
+      <h1>Department of Health and Human Services’ (HHS) IDEA Lab</h1>
+      <br>
+      <p>HHS' IDEA Lab is creating a space to play, ideate, and experiment to improve the health of all Americans.</p>
+    </article>
+  </div>
+</section>
+
+<section class="usa-section usa-section-dark">
+  <div class="usa-grid">
+
+  <form id="contact" action="https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse" method="POST">
+    <fieldset>
+      <legend>Sign up to receive updates from our team</legend>
+
+      <div class="usa-width-one-half">
+
+          <label for="contact-entry.1440502332">Email Address</label>
+          <input id="contact-entry.1440502332" name="entry.1440502332" type="email">
+
+
+          <input id="contact-fbzx" name="fbzx" type="hidden" value="-7861934959779167198">
+
+        <div class="usa-input-buttons-inline">
+          <input type="submit" value="Subscribe">
+        </div>
+      </div>
+      <div class="usa-width-one-half" style="margin-top: 3rem;">
+          <p>Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice</a></p>
+      </div>
+    </fieldset>
+
+  </form>
+  </div>
+</section>
+</main>
