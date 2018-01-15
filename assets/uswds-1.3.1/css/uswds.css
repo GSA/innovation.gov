@@ -3555,7 +3555,7 @@ input.usa-input-medium {
 
 @media screen and (min-width: 481px) {
   .usa-hero-callout {
-    max-width: 30rem;
+    max-width: 40rem;
   }
 }
 
