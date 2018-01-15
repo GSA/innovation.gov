@@ -23,7 +23,6 @@ layout: playbook
 - How do you foster a sense of urgency without creating stress (which can reduce innovation)?
 
 ## Checklist
-
 - Regularly evaluate your work to determine whether you are most effectively delivering your intended results.
 - Identify potential areas for improvement. If you are not sure, ask coworkers, or, if possible, your “customers” for their opinion.
 - Identify existing solutions and evaluate their potential for impact in your office.
