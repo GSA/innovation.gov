@@ -1,7 +1,7 @@
 ---
-title: 'How will you make culture change happen?'
+title: 'Meet the Innovation.gov + The Better Government Movement Team'
 layout: about
-permalink: /about/culture-change/
+permalink: /about/team/
 summary: 'Learn more about Innovation.gov and the Better Government Movement'
 ---
 <h1>About Innovation.gov and the Better Government Movement</h1>
