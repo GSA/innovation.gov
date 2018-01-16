@@ -4,7 +4,6 @@ layout: competition
 permalink: /competition/schedule-fees/
 summary: 'Learn more about Innovation.gov and the Better Government Movement'
 ---
-## Schedule, Time Commitment, Communications, Fees
 
 Challenge participants will receive a Statement of Accomplishment from the Better Government Movement team for the successful completion of the Competition. In order to receive a Statement of Accomplishment, participants are required to attend at least 810 out of 129 scheduled events, complete seven assignments and 2 peer evaluations.
 

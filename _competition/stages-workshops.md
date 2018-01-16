@@ -1,10 +1,9 @@
 ---
-title: 'Better Government Ambassadors Competition'
+title: 'Better Government Ambassadors Competition Stages and Workshops'
 layout: competition
 permalink: /competition/stages-workshops/
 summary: 'Participate in the Summer 2018 Better Government Ambassadors Competition.'
 ---
-## Better Government Ambassadors Competition Stages and Workshops
 
 The design challenge period has three key stages:
 

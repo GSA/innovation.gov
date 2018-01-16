@@ -1,10 +1,9 @@
 ---
-title: 'Who Should Apply to the Competition'
+title: 'Who Should Apply to the Competition?'
 layout: competition
 permalink: /competition/who/
 summary: 'Learn more about Innovation.gov and the Better Government Movement'
 ---
-<h2>Who Should Apply to the Competition?</h2>
 
 The ideal Challenge participant is a Federal government employee who is seeking a unique experience to experiment, collaborate, and share a creative experience with others. Participants are committed to the process, eager to learn and practice these innovative practices (regardless of pre-existing knowledge and experience), and are passionate souls and a team players.
 

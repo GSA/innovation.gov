@@ -4,8 +4,6 @@ layout: about
 permalink: /about/culture-change/
 summary: 'Learn more about Innovation.gov and the Better Government Movement'
 ---
-<h2>How will you make culture change happen?</h2>
-
 Innovators within the government envision a better culture and relationship between the public and the government. The government needs to shift their thinking to build that relationship. This is set through:
 <img src="{{ site.baseurl }}/assets/images/about/better-govt-mvmt-drawing.png" alt="better-government-drawing">
 
