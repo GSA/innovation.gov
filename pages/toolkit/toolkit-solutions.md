@@ -1,6 +1,6 @@
 ---
 layout: toolkit-subpage
-title: Solve Governmental and Societal Problems
+title: Solve Complex Governmental and Societal Problems
 description:
 vertical: solutions
 permalink: /toolkit/solutions/

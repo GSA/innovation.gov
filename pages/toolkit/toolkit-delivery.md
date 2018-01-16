@@ -11,11 +11,9 @@ class: delivery-background
 
 {% include toolkit-banner.html %}
 
-
 {% include toolkit-verticals.html %}
 
-
-<div class="delivery-background toolkit-button-group">
+<div class="delivery-background toolkit-button-group-small">
 	<div class="usa-grid">
 	<a class="usa-button" href="#human-centered">Human-Centered Design</a>
 	<a class="usa-button" href="#agile">Agile</a>
