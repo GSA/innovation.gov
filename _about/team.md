@@ -4,16 +4,11 @@ layout: about
 permalink: /about/team/
 summary: 'Learn more about Innovation.gov and the Better Government Movement'
 ---
-<p>Innovators within the government envision a better culture and relationship between the public and the government. The government needs to shift their thinking to build that relationship. This is set through:
-<img src="{{ site.baseurl }}/assets/images/about/better-govt-mvmt-drawing.png" alt="better-government-drawing">
+Welcome the Innovation.gov + Better Government Movement Team:
 
-1. Setting the right leadership and vision
-2. Creating core definitions, knowledge base and understanding the citizen-government journey
-3. Teaching and empowering change agents to be catalysts for change within their organizations
-
-<p>The Better Government Movement was officially launched with a series of human-centered design workshops in March 2017. Throughout 2017 the Community of Practice will collectively build a toolkit and create strategies to amplify and evangelize innovation across the federal government.</p>
-
-<p>The people working to implement and advocate for innovation within the Federal government are experienced in research, networking, “bureaucracy hacking”, and figuring out how to get things done with limited resources. We're developing out a product that iteratively figures out how to serve their needs -- not just a standalone toolkit “product”, but a useful web resource combined with community and human interaction, which would grow and iterate over time.</p>
-
-
-<a href="{{ site.baseurl }}/about/better-govt-mvmt-drawing.png"></a> </p>
+- Amy J. Wilson -- Founder and Director, Innovation.gov, The Better Government Movement + Presidential Innovation Fellow
+- Brian Sano, Community of Practice Lead
+- Julia Begley-Gray and Bethany Blakey, Innovation Ambassadors Lead
+- Brooke Dine (National Library of Medicine, National Institutes of Health) + Michelle Ramsden (Presidential Management Fellow, Department of Homeland Security), Toolkit Design + Development Leads
+- Arva Adams (U.S. Patent and Trademark Office) and Margeaux Akazawa (Office of the National Coordinator), Better Government User Experience Research Leads
+- Capt. Joseph Arora (Air Force Innovation) -- Better Government Ambassadors Competition Lead
