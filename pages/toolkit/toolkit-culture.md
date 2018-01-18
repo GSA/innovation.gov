@@ -15,11 +15,11 @@ class: culture-background
 
 <div class="culture-background toolkit-button-group-small">
 	<div class="usa-grid">
-	<a class="usa-button" href="#innovation-culture">Creating a Culture of Innovation</a>
-	<a class="usa-button" href="#innovation-lab">Launching an Innovation Lab</a>
-	<a class="usa-button" href="#CINO">Hiring a Chief Innovation Officer</a>
+	<a class="usa-button" href="#innovation-culture">Culture of Innovation</a>
+	<a class="usa-button" href="#innovation-lab">Innovation Labs</a>
+	<a class="usa-button" href="#CINO">Chief Innovation Officer</a>
 	<a class="usa-button" href="#tour-of-duty">Tour of Duty Hiring</a>
-	<a class="usa-button" href="#acquisitions">Innovative Acquisitions and Procurement</a>
+	<a class="usa-button" href="#acquisitions">Acquisitions and Procurement</a>
 	</div>
 </div>
 
@@ -28,5 +28,9 @@ class: culture-background
 {{ section.output }}
 {% endif %}
 {% endfor %}
+
+<div class="usa-grid usa-footer-return-to-top">
+	<a href="#">Return to top</a>
+</div>
 
 {% include box-get-connected.html %}

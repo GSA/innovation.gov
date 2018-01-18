@@ -1,10 +1,10 @@
 ---
-title:  'Play 1: Everyone can (and should) innovate'
+title:  'Play 1: Everyone can (and should) build a better government.'
 permalink: /playbook/play1/
 layout: playbook
 ---
 
-<p class="usa-font-lead"> Innovation is not limited to “innovation professionals.” Great ideas come from all walks of life and innovation works best for everyone when everyone can participate and provide feedback. Incentives, accountability, and a sense of urgency can encourage the government and the public to work on and collaborate towards meaningful solutions. Identify and replicate proven methods that deliver more responsive and effective results; explore opportunities to apply them to your work. To enable innovators of all kinds, regularly question your methods and think about how you can do your work better.</p>
+<p class="usa-font-lead"> Building a better government is not limited to “innovation professionals.” Great ideas come from all walks of life and innovation works best for everyone when everyone can participate and provide feedback. Incentives, accountability, and a sense of urgency can encourage the government and the public to work on and collaborate towards meaningful solutions. Identify and replicate proven methods that deliver more responsive and effective results; explore opportunities to apply them to your work. To enable innovators of all kinds, regularly question your methods and think about how you can do your work better.</p>
 
 <h2 id="section-heading-h2">Questions to Ask</h2>
 
@@ -23,7 +23,6 @@ layout: playbook
 - How do you foster a sense of urgency without creating stress (which can reduce innovation)?
 
 ## Checklist
-
 - Regularly evaluate your work to determine whether you are most effectively delivering your intended results.
 - Identify potential areas for improvement. If you are not sure, ask coworkers, or, if possible, your “customers” for their opinion.
 - Identify existing solutions and evaluate their potential for impact in your office.

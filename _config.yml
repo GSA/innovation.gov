@@ -42,6 +42,16 @@ collections:
     stories:
         permalink: /stories/:path/
         output: true
+    about:
+        permalink: /about/:path/
+        output: true
+        values:
+            layout: "about"
+    competition:
+        permalink: /competition/:path/
+        output: true
+        values:
+            layout: "competition"
 
 excerpt_separator: <!--second-column-->
 

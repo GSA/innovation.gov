@@ -157,8 +157,6 @@ footer.usa-footer{
   margin-top: 2em;
   margin-bottom: 3em;
   text-decoration: none;
-  border: solid 1px #1C304A;
-
 }
 
 .toolkit-home-better-gov-callout h2 {
@@ -326,11 +324,6 @@ footer.usa-footer{
   margin-top: -7rem;
   visibility: hidden; }
 
-/* @group .page */
-
-.page{
-  padding-bottom: 2em;
-}
 
 /* @end */
 
@@ -837,3 +830,149 @@ top: 0;
 @import
         "toolkit"
 ;
+
+.card {
+  box-shadow: 0 0 0 1px #d6d7d9;
+  display: block;
+  margin-bottom: 3rem;
+  padding-bottom: 3rem;
+  position: relative;
+  text-decoration: none; }
+  @media all and (min-width: 800px) {
+    .card {
+      display: flex;
+      flex-direction: column;
+      margin-right: 2.3%;
+      min-height: 450px;
+      width: 31%; } }
+  .card:hover {
+    box-shadow: 0 0 0 1px #0071bc; }
+  .card:active {
+    box-shadow: #3e94cf; }
+
+.card-link {
+  bottom: 0;
+  left: 0;
+  right: 0;
+  top: 0;
+  position: absolute; }
+
+.card-banner {
+  margin: 3rem; }
+  @media all and (min-width: 800px) {
+    .card-banner {
+      flex: 1 0 auto; } }
+
+.card-image {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 200px;
+  width: 100%; }
+
+.card-description.card-description {
+  color: #0071bc;
+  margin-top: 0; }
+
+.card-summary {
+  font-size: 16px;
+  margin-bottom: 0; }
+  .card-summary em {
+    font-style: normal; }
+
+.card-read {
+  margin: 0 3rem;
+  color: #0071bc;
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: none; }
+  .card-read:visited {
+    color: #0071bc; }
+  .card-read svg {
+    display: inline-block;
+    height: 1.2rem;
+    margin-bottom: -1px;
+    width: 1.2rem;
+    margin-left: 4px; }
+
+.usa-banner-header .usa-banner-inner > img {
+  padding-top: 3px; }
+
+.banner.tagline {
+  background-color: #112e51; }
+
+.banner.tagline .usa-grid {
+  padding: 3rem; }
+
+.banner.tagline p {
+  color: #fff;
+  margin-bottom: 75px;
+  max-width: 80%; }
+
+.banner.tagline h2 {
+  color: #fff;
+  margin-top: 75px; }
+
+.banner.contact {
+  background-color: #112e51; }
+
+.banner.contact form {
+  padding-top: 2em; }
+
+.banner.contact h2,
+.banner.contact p,
+.banner.contact legend,
+.banner.contact label,
+.banner.contact a,
+.banner.contact a:hover,
+.banner.contact a:visited {
+  color: #fff; }
+
+.banner .usa-button,
+.banner .usa-button-primary,
+.banner .usa-button:visited,
+.banner .usa-button-primary:visited,
+.banner button,
+.banner [type="button"],
+.banner [type="submit"],
+.banner [type="reset"] {
+  background-color: #dce4ef;
+  color: #112e51; }
+
+.usa-footer-primary-section {
+  background-color: #f1f1f1; }
+
+.usa-footer-secondary_section {
+  background-color: #d6d7d9; }
+
+footer p,
+footer h1,
+footer h2,
+footer h3,
+footer h4,
+footer h5,
+footer h6,
+footer a,
+footer a:hover,
+footer a:visited {
+  color: #212121; }
+
+.usa-footer-logo p {
+  font-size: .7em; }
+
+
+
+#search_form {
+  width: 275px;
+  margin-top: 10px;
+  max-width: none;
+}
+#search-field-small{
+  width: 230px;
+  float: left;
+  margin:0;
+  height:33px;
+}
+.usa-search button {
+  float: left;
+}
