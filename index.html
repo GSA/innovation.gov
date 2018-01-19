@@ -1,135 +1,99 @@
-<!DOCTYPE html>
-  <html lang="en">
-    <head>
+---
+layout: default
+---
 
-      <meta charset="utf-8" />
-      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+{% include box-hero.html %}
 
-      <title>Innovation.gov | Where we're building a better government through innovation</title>
-
-      <!-- Description -->
-      <meta name="description"  content="Better Government through Innovation: Innovation.gov is the definitive and most-trusted source for innovation and innovative practices application in the Federal government." />
-
-      <!-- Keywords -->
-      <meta name="keywords"  content="innovation, government, better-government, ecosystem, human-centered design, emerging technology">
-
-      <!-- Open Graph tags -->
-      <meta property="og:title" content="Innovation.gov" />
-      <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://innovation.gov/" />
-      <meta property="og:image" content="assets/uswds-1.3.1/img/DAP_PIC.jpeg" />
-      <meta property="og:image:width" content="600" />
-      <meta property="og:site_name" content="Innovation.gov" />
-      <meta property="og:description" content="Better Government through Innovation: Innovation.gov is the definitive and most-trusted source for innovation and innovative practices application in the Federal government." />
-
-      <!-- CSS -->
-      <link rel="stylesheet" href="assets/uswds-1.3.1/css/uswds.min.css">
-    </head>
-    <body class="layout-demo">
-    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
-    <header class="usa-header usa-header-extended" role="banner">
-      <!-- Gov banner BEGIN -->
-      <div class="usa-banner">
-        <div class="usa-accordion">
-          <header class="usa-banner-header">
-            <div class="usa-grid usa-banner-inner">
-            <img src="assets/uswds-1.3.1/img/us_flag_small.png" alt="U.S. flag">
-            <p>An official website of the United States government</p>
-            <button class="usa-accordion-button usa-banner-button"
-              aria-expanded="false" aria-controls="gov-banner">
-              <span class="usa-banner-button-text">Here's how you know</span>
-            </button>
-            </div>
-          <div class="usa-banner-content usa-grid usa-accordion-content" id="gov-banner">
-            <div class="usa-banner-guidance-gov usa-width-one-half">
-              <img class="usa-banner-icon usa-media_block-img" src="assets/uswds-1.3.1/img/icon-dot-gov.svg" alt="Dot gov">
-              <div class="usa-media_block-body">
-                <p>
-                  <strong>The .gov means it’s official.</strong>
-                  <br>
-                  Federal government websites always use a .gov or .mil domain. Before sharing sensitive information online, make sure you’re on a .gov or .mil site by inspecting your browser’s address (or “location”) bar.
-                </p>
-              </div>
-            </div>
-            <div class="usa-banner-guidance-ssl usa-width-one-half">
-              <img class="usa-banner-icon usa-media_block-img" src="assets/uswds-1.3.1/img/icon-https.svg" alt="SSL">
-              <div class="usa-media_block-body">
-                <p>This site is also protected by an SSL (Secure Sockets Layer) certificate that’s been signed by the U.S. government. The <strong>https://</strong> means all transmitted data is encrypted  — in other words, any information or browsing history that you provide is transmitted securely.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- Gov banner END -->
-    </header>
-    <body>
-    <div class="usa-overlay"></div>
-    <main id="main-content">
-      <section class="usa-hero">
-        <div class="usa-grid">
-          <div class="usa-hero-callout usa-section-dark">
-            <h2><span class="usa-hero-callout-alt">Coming Soon: Innovation.gov</span>Making the government better through innovation.</h2>
-          </div>
-        </div>
-      </section>
-      <section class="usa-grid usa-section">
-        <div class="usa-width-one-third">
-          <h2>Stories and proven practices to learn, share, and build</h2>
-        </div>
-        <div class="usa-width-two-thirds">
-        <p>Talented Federal employees working to implement and advocate for innovation within the government are experienced in research, networking, “bureaucracy hacking”, and figuring out how to get things done with limited resources. We're developing out a product that iteratively discovers how to serve their needs and to spread these practices across government -- not just a standalone toolkit “product”, but a useful web resource combined with community and human interaction, which will grow and iterate over time.</p>
-      <h4>Below are a few questions that this site will help to answer:</h4>
+<div class="page">
+  <section class="usa-section usa-grid">
+    <div class="usa-width-one-third">
+    <h2>Better Government Plays</h2>
+  </div>
+  <div class="usa-width-two-thirds">
+    <p class="usa-font-lead">Innovating in the public sector requires a new kind of mission-oriented thinking and perspective. Read our Playbook below to learn more about how we define public sector innovation.
       <ul>
-        <li>What do you mean by a better government?</li>
-        <li>Why and how can I bring innovative practices to my agency?</li>
-        <li>Who is innovating and where is innovation happening?</li>
-        <li>What mentors can help me learn and grow?</li>
+      <p class="usa-font-lead"><b><a href="{{ site.baseurl }}/playbook/">What is Public Sector Innovation?</a></b>
+      <p class="usa-font-lead"><b><a href="{{ site.baseurl }}/playbook/play1/">1: Everyone can and should build a better government.</a></b>
+      <p class="usa-font-lead"><b><a href="{{ site.baseurl }}/playbook/play2/">2: Keep the customer at the center of your design.</a></b>
+      <p class="usa-font-lead"><b><a href="{{ site.baseurl }}/playbook/play3/">3: Embrace change. Experiment and seek feedback to make incremental continous improvements and reduce risk.</a></b>
+      <p class="usa-font-lead"><b><a href="{{ site.baseurl }}/playbook/play4/">4: Build a culture of collaboration, communication, and sharing with partners inside and outside the government.</a></b>
+      <p class="usa-font-lead"><b><a href="{{ site.baseurl }}/playbook/play5/">5: Let data inform your decision-making and be a key part of your story.</a></b>
+      <p class="usa-font-lead"><b><a href="{{ site.baseurl }}/playbook/play6/">6: Innovation is not a one-size-fits-all approach.</a></b>
+    </ul>
+      </p>
+  </div>
+</section>
+
+<section class="usa-section banner tagline">
+  <div class="usa-grid">
+    <div class="usa-width-one-whole usa-end-row">
+        <h2>We are government change agents that discover and understand the right problem before we jump to solutions, and ensure we solve problems right, unblocking barriers to innovation along the way.</h2>
+      <div class="center-content">
+        <a href="/about/" class="usa-button">Learn more</a>
+      </div>
     </div>
-      </section>
-    </main>
-  </body>
+  </div>
+</section>
 
-    <footer class="usa-footer usa-footer-medium site" role="contentinfo">
-      <div class="usa-footer-secondary_section">
-      <div class="usa-grid">
-        <div class="usa-width-two-thirds usa-content">
-          <h2>Join the Better Government Movement</strong></h2>
-          <p>The Better Government Movement was officially launched with a series of human-centered design workshops in March 2017. Throughout 2017 the Community of Practice will collectively build a toolkit and create strategies to amplify and evangelize innovation across the federal government. Here is our mission:</p>
-          <blockquote><i><p>We transform the way the people of government work together, guided by principles, with realignment of, or new investment in, policies, processes, and technology.<br><br>With a focus on efficiency, effectiveness, and accountability, we’ll create a more responsive and collaborative modern government, speaking directly toward the public’s needs and desires.</i></p></blockquote>
-          <p>Innovation.gov and the Better Government Movement is a crowdsourced, open source movement brought to you by the <b>General Services Administration</b>, and built by hundreds of innovators across the Federal government.</p>
-        <p>We're from the government, and we're here to help.</p>
+<section class="usa-section usa-grid">
+  <h2>Better Government Toolkit</h2>
+  {% include box-toolkit-home-callout.html %}
+</section>
+
+<section class="how-to-get-connected usa-section">
+  <div class="site-width">
+    <h2>Better Government Case Studies</h2>
+    <article>
+      <a href="{{ site.baseurl }}/stories/darpa-lab/">
+        <img src="{{ site.baseurl }}/assets/images/stories/stories-1.png" alt="DARPA Lab">
+      </a>
+      <h1>Defense Advanced Research and Project Agency (DARPA)</h1>
+      <br>
+      <p>DARPA has continuously innovated technologies that have “changed the world”.</p>
+    </article>
+    <article>
+      <a href="{{ site.baseurl }}/stories/usaid-lab/">
+       <img src="{{ site.baseurl }}/assets/images/stories/stories-2.png" alt="USAID Global Development Lab">
+      </a>
+      <h1>U.S. Agency for International Development's Global Development Lab</h1>
+      <br>
+      <p>USAID’s plans to meet 21st century challenges for international development.</p>
+    </article>
+    <article>
+      <a href="{{ site.baseurl }}/stories/hhs-idea-lab/">
+        <img src="{{ site.baseurl }}/assets/images/stories/stories-3.png" alt="HHS IDEA Lab">
+      </a>
+      <h1>Department of Health and Human Services’ (HHS) IDEA Lab</h1>
+      <br>
+      <p>HHS' IDEA Lab is creating a space to play, ideate, and experiment to improve the health of all Americans.</p>
+    </article>
+  </div>
+</section>
+
+<section class="usa-section usa-section-dark">
+  <div class="usa-grid">
+
+  <form id="contact" action="https://docs.google.com/forms/d/1Tsdm_2spbxWnmTFMrH5eHxpOAN9W4LB3eaMMXJ1N0rU/formResponse" method="POST">
+    <fieldset>
+      <legend>Sign up to receive updates from our team</legend>
+      <div class="usa-width-one-half">
+          <!--[if lte IE 8]>
+          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+          <![endif]-->
+          <script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+          <script>
+            hbspt.forms.create({
+              css: '',
+              portalId: '1962994',
+              formId: '82c2bab2-d7e1-468d-b6c6-538bab05ca45'
+            });
+          </script>
+
       </div>
-        <div class="usa-footer-contact-links usa-width-one-third">
-          <h5>Have feedback or a feature request?</h5>
-          <a href="https://github.com/GSA/innovation.gov/issues/new" class="usa-button cta">
-            <img src="assets/uswds-1.3.1/img/logo-github.png" alt="GitHub logo">
-             Ask questions on GitHub
-          </a>
-          <h5>Want to join the conversation?</h5>
-          <a href="https://chat.18f.gov/" class="usa-button cta">
-            <img src="assets/uswds-1.3.1/img/logo-slack.png" alt="Slack logo">
-             Join our Slack Channel
-          </a>
-          <h5>Need guidance or want to chat?</h5>
-          <a href="mailto:better-gov@gsa.gov" class="usa-button cta">
-            <img src="assets/uswds-1.3.1/img/logo-email.png" alt="Email logo">
-             Send us an email
-          </a>
-        </div>
-      </section>
-    </footer>
-    </main>
-
-      <div class="usa-grid usa-footer-return-to-top">
-        <a href="#">Return to top</a>
+      <div class="usa-width-one-half" style="margin-top: 3rem;">
+          <p>Your privacy and security are important to us, we'll only share your information as described in the <a href="http://www.gsa.gov/portal/content/116609">GSA Privacy and Security Notice</a></p>
       </div>
-
-
-    <!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
-    <script async src="https://www.google-analytics.com/analytics.js"></script>
-    <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=GSA"></script>
-
-    <!-- Google Analytics -->
-    <script async type="text/javascript" <script src="assets/uswds-1.3.1/js/uswds.js"></script>
-    </body>
-  </html>
+    </fieldset>
+  </form>
+  </div>
+</section>

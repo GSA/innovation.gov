@@ -1,0 +1,75 @@
+<section>
+  <div class="hero-unit" style="background-image: url('{{ page.hero-image | prepend: site.baseurl }}')">
+    <div class="usa-grid">
+      <div class="usa-width-whole hero-content">
+        <h1>{{ page.hero-text }}</h1>
+        <a class="usa-button" href="{{ page.hero-button-link | prepend: site.baseurl }}">{{ page.hero-button-text }}</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="usa-grid usa-section">
+    <h2>Work</h2>
+    {% include projects.html %}
+<p class="usa-font-lead">Innovation and creativity is a messy process and is not the same every time. Innovations can be small an impactful, and systemic change is long and slow. To customize innovative methodologies to meet your own needs, be deliberate about the kinds of innovations you want to do. Learn from others, but forge your own path.
+</section>
+
+{% if page.banner-heading %}
+<section class="usa-section banner tagline">
+  <div class="usa-grid">
+    <div class="usa-width-one-whole usa-end-row">
+      <h2>{{ page.banner-heading }}</h2>
+      {% if page.banner-text %}
+        <p>{{ page.banner-text }}</p>
+      {% endif %}
+      {% if page.banner-button-text %}
+      <div class="center-content">
+        <a href="{{ page.banner-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.banner-button-text }}</a>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+<section class="usa-grid usa-section">
+  <div class="usa-width-one-whole usa-end-row">
+    {{ content }}
+    {% if page.content-button-link %}
+      <a href="{{ page.content-button-link | prepend: site.baseurl }}" class="usa-button">{{ page.content-button-text }}</a>
+    {% endif %}
+  </div>
+</section>
+
+{% include contact.html %}
+<section>
+<div class="project-container">
+{% for project in site.projects %}
+  {% unless project.featured %}
+    <article class="card usa-width-one-third">
+      <a class="card-link" href="{{ project.url | prepend: site.baseurl }}" aria-hidden="true" tabindex="-1"></a>
+      <div class="card-image"
+        style="background-image: url(
+        {% if project.image_thumbnail %}
+          {{ project.image_thumbnail | prepend: site.baseurl }}
+        {% else %}
+          {{ project.image | prepend: site.baseurl }}
+        {% endif %}
+        );">
+      </div>
+      <div class="card-banner">
+        <h3 class="card-description">
+          <span>{{ project.title }}</span>
+        </h3>
+        <p class="card-summary">{{ project.description }}</p>
+      </div>
+      <a class="card-read" href="{{ project.url | prepend: site.baseurl }}">
+        Read more
+        <span class="usa-sr-only">about {{ project.title }}</span>
+      </a>
+    </article>
+  {% endunless %}
+{% endfor %}
+</div>
+</section>
