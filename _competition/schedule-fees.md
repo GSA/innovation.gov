@@ -5,11 +5,11 @@ permalink: /competition/schedule-fees/
 summary: 'Learn more about Innovation.gov and the Better Government Movement'
 ---
 
-Challenge participants will receive a Statement of Accomplishment from the Better Government Movement team for the successful completion of the Design Challenge. In order to receive a Statement of Accomplishment, participants are required to attend at least 10 out of 12 scheduled events, complete seven assignments and 2 peer evaluations.
+Challenge participants will receive a Statement of Accomplishment from the Better Government Movement team for the successful completion of the Design Challenge. In order to receive a Statement of Accomplishment, participants are required to attend at least 10 out of 12 scheduled events.
 
 All workshops take place on Wednesday evenings from 6:30pm - 9:00pm in downtown Washington, DC (with a remote option). Participants should plan for an additional 4-5 hours outside of the Wednesday events to work on assignments with your team.
 
-### White House Leadership Development Program Team:
+### White House Leadership Development Program Fellows Team:
 - Feb 23rd - Scoping of Problems Workshop
 - March 1st -
 - March 8th -
