@@ -7,13 +7,13 @@ summary: 'Participate in the Summer 2018 Better Government Ambassadors Competiti
 
 The design challenge period has three key stages:
 
-### Stage 1: Design Challenge Kick-Off (Date TBD)
+### Stage 1: Design Challenge Kick-Off (Friday, March 23)
 Partner agencies and the Fellows will present real problems agencies are facing framed as a product or service design challenge to participants at a kick-off event in late March. Participants will form teams of 4-6 people to develop solutions using innovative methods like human-centered design and Lean methods and tools over the coming weeks. Teams will be composed of individuals with various levels of experience and a variety of skills (coding, graphic design, strategy, etc...). This will launch the 12-weeks of design (over six two-week sprints), and there will be at least two teams competing to create solutions per problem set.
 
-### Stage 2: Design Work and Updates (Date TBD)
+### Stage 2: Design Work and Updates (March 24-June 14)
 Over three months (six two-week sprints) there will be occasional check-ins with BGM Design Challenge leaders, mentors, coaches and challenge partners to receive feedback and advice. Outside of these structured check-ins, teams will convene on their own as often as they want to, to prepare their designed solutions. In the end, teams will deliver prototypes and actionable recommendations for future development based on a process of research, synthesis, prototyping, and testing.
 
-### Stage 3: Design Showcase & Awards (Date TBD)
+### Stage 3: Design Showcase & Awards (Friday, June 14)
 Teams will present solutions Shark Tank-style to a panel of judges for five minutes (three minutes of questions). Design Challenge Winners will be announced and our work will be celebrated with the broader BGM community at an awards event at the end of the three months.
 
 *Note: The Better Government Ambassadors Design Challenge is a series of events that will run from April through June. Locations/dates for specific events will be released to participants as they are finalized in the coming weeks.*
