@@ -7,7 +7,7 @@ summary: 'Be a trainer, mentor, facilitator, or coach for the  2018 Better Gover
 
 We’re bringing the best talent together to make this really sing, and I’m asking each of you to help give back to the community. We’re looking for really great people to be mentors, coaches, trainers and facilitators for our first cohort.
 
-Our first cohort begins on March 22 and will continue until June 14th, with a mixture of in person and virtual meetings in and around Washington, DC. You are not required to attend all the sessions, and if you sign up to participate we expect that you come through on your commitment. You can sign up for more than one role, depending on your availability. When selected We’ll be in touch in early March with more details.
+Our first cohort begins on March 23 and will continue until June 14th, with a mixture of in person and virtual meetings in and around Washington, DC. You are not required to attend all the sessions, and if you sign up to participate we expect that you come through on your commitment. You can sign up for more than one role, depending on your availability. When selected We’ll be in touch in early March with more details.
 
 <a class="usa-button" href="https://goo.gl/forms/5zCD299Z7hcoMy0w1">Sign Up to be a Trainer, Facilitator, and/or Mentor</a>
 
