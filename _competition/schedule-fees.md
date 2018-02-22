@@ -7,7 +7,7 @@ summary: 'Schedule for the 2018 Better Government Ambassadors Design Challenge.'
 
 Challenge participants will receive a Statement of Accomplishment from the Better Government Movement team for the successful completion of the Design Challenge. In order to receive a Statement of Accomplishment, participants are required to attend at least 10 out of 12 scheduled events.
 
-All workshops take place on Wednesday evenings from 6:30pm - 9:00pm in downtown Washington, DC (with a remote option). Participants should plan for an additional 4-5 hours outside of the Wednesday events to work on assignments with your team.
+All workshops take place on Friday afternoons from 2-5 p.m. in downtown Washington, DC (with a remote option). Participants should plan for an additional 4-5 hours outside of the Friday events to work on assignments with your team.
 
 ### White House Leadership Development Program Fellows Team:
 - February 12 to March 23: Scope out Cross Agency Priority Goal or Government-wide Problem
