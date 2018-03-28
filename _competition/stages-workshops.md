@@ -24,13 +24,13 @@ Leading up to the design challenges, the BGM leadership will offer two skill-bui
 *Details for each event (dates and location) will be added as they are finalized.*
 
 ### Human-Centered Design (HCD)/Design Thinking (DT) 101 (DATE TBD)
-The HCD/DT Course will cover the principles of Human-Centered Design and Design Thinking. If we exceed 75 participants we will open a second offering of the course.
+The HCD/DT Course will cover the principles of Human-Centered Design and Design Thinking.
 
 ### Lean and Lean Startup 101 (DATE TBD)
-The Lean Startup 101 Course will cover the principles and theory behind Lean and Lean Startup. If we exceed 75 participants we will open a second offering of the course.
+The Lean Startup 101 Course will cover the principles and theory behind Lean and Lean Startup.
 
 ### Agile Project Management 101 (DATE TBD)
-The Agile Project Management 101 Course will cover how one might manage a project using Agile methods. If we exceed 75 participants we will open a second offering of the course.
+The Agile Project Management 101 Course will cover how one might manage a project using Agile methods.
 
 ### Prototyping Course (DATE TBD)
-Following the HCD/Design Thinking 101, the BGM Movement will host a deep dive into prototyping techniques for innovation projects. If we exceed 75 participants we will open a second offering of the course.
+Following the HCD/Design Thinking 101, the BGM Movement will host a deep dive into prototyping techniques for innovation projects. 
