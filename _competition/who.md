@@ -11,4 +11,4 @@ By signing up for the BGM Design Challenge, you confirm that you: 1) are committ
 
 If selected, we will place you on a team of 4-6 people based on your preferences and background and you all will tackle the problem together over the course of three months (12 weeks). Team success is heavily dependent upon the commitment and collaboration between the teams, so we’re looking for serious members to sign up for this Design Challenge.
 
-Thank you for interest in participating in the Design Challenges. We no longer are accepting applications. If you have any questions or want to be informed about our next cohort, please contact us at better-gov@gsa.gov
+<b>Thank you for interest in participating in the Design Challenges. We no longer are accepting applications. If you have any questions or want to be informed about our next cohort, please contact us at better-gov@gsa.gov</b>
