@@ -7,26 +7,29 @@ summary: 'Schedule for the 2018 Better Government Ambassadors Design Challenge.'
 
 Challenge participants will receive a Statement of Accomplishment from the Better Government Movement team for the successful completion of the Design Challenge. In order to receive a Statement of Accomplishment, participants are required to attend at least 10 out of 12 scheduled events.
 
-All workshops take place on Friday afternoons from 2-5 p.m. in downtown Washington, DC (with a remote option). Participants should plan for an additional 4-5 hours outside of the Friday events to work on assignments with your team.
+All workshops take place on Friday afternoons from 2-5 p.m. in downtown Washington, DC. Participants should plan for an additional 4-5 hours outside of the Friday events to work on assignments with your team.
 
 ### White House Leadership Development Program Fellows Team:
 - February 12 to March 23: Scope out Cross Agency Priority Goal or Government-wide Problem
 
-### **Required Events (11 out of 13 sessions, 4 out of 5 virtual and 7 of 8 in person workshops) Fridays 2-5 p.m.:**
+### **Required Events Fridays 2-5 p.m. (Note: the dates and details below are subject to change)**
 
 - March 23rd - In Person - Orientation, Kickoff, Introductions
-- March 30th -  In Person - HCD/DT
-- April 6th - Virtual
-- April 13th - In Person - Lean
-- April 20th - Virtual
-- April 27th - In Person - Agile
-- May 4th - Virtual
-- May 11th - In Person - Prototyping
-- May 18th - Virtual
-- May 25th - In Person - Change Management
-- June 1st - Virtual
-- June 8th -  In Person - Pitching
-- June 15th -  In Person - Pitch Presentations, Awards + Graduation
+- March 30th -  Open Studio
+- April 6th - In Person: Human-Centered Design and Design Thinking
+- April 13 - Open Studio
+- April 20th - Lean Startup
+- April 27th - Open Studio
+- May 4th - Prototyping/MVP Session
+- May 11th - Open Studio
+- May 18th - Agile Session
+- May 25th - Open Studio
+- June 1st - Change Management
+- June 8th - Open Studio
+- June 15th - Pitching
+- June 22 - Open Studio Session
+- June 29 - Pitch Presentations, Awards + Graduation
+- July 6 - Retrospective 
 
 
 ## Communications
