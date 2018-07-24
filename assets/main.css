@@ -976,3 +976,36 @@ footer a:visited {
 .usa-search button {
   float: left;
 }
+
+.data-project-banner {
+  background: #8ba6ca;
+  color: white;
+  font-size: 25px;
+  padding: 2em 0 2em;
+}
+
+.data-project-banner h1 {
+  margin: 0;
+  font-size: 25px;
+}
+
+.pull-right {
+  float: right;
+}
+
+.button-success {
+  color: #fff;
+  background-color: #28a745;
+  border-color: #28a745;
+  padding: .25rem .5rem;
+  font-size: 1.50rem;;
+  line-height: 1.5;
+  border-radius: .2rem;
+}
+
+.button-primary {
+  padding: .25rem .5rem;
+  font-size: 1.50rem;;
+  line-height: 1.5;
+  border-radius: .2rem;
+}
