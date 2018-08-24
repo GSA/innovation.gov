@@ -1137,10 +1137,13 @@ footer a:visited {
     max-width:95%;
     margin-left:auto;
     margin-right:auto;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
 }
 
 .pull-right {
     float: right;
+
 }
 
 .button-success {
@@ -1199,7 +1202,7 @@ footer a:visited {
 .flex-container h4{
     font-size: 2.3rem;
     padding: 3px 27px 2px 2px;
-    line-height: 1.5em;
+    line-height: 3.3em;
     font-family: "Helvetica Neue";
     font-weight: 500;
 }
@@ -1212,7 +1215,7 @@ footer a:visited {
 }
 .flex-container.categories h4 {
     font-size: 2.3rem;
-    line-height: 1.0em;
+    line-height: 3.3em;
     font-family: "Helvetica Neue";
     font-weight: 500;
 }
@@ -1220,4 +1223,33 @@ footer a:visited {
     margin-left: auto;
     margin-right: auto;
     display: table;
+}
+.search-control{
+    display: flex;
+    width:40%;
+}
+.search-control > input{
+    color: white;
+    font-size: 1.7rem;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    margin: 0;
+    padding: 0;
+    width: 75%;
+
+}
+.search-control > button {
+    color: white;
+    font-size: 1.7rem;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    margin: 0;
+    padding: 0;
+    width: 25%;
+
+}
+.data-project::after {
+    clear: both;
+    content: "";
+    display: block;
 }
