@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-innovators
 title:  Public Engagement
-permalink: /toolkit/public-engagement/
+permalink: /toolkit/innovators/public-engagement/
 vertical: innovators
 complexity: advanced
 skip-link: public-engagement

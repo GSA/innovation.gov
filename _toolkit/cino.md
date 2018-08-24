@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-culture
 title:  Hiring a Chief Innovation Officer
-permalink: /toolkit/cino/
+permalink: /toolkit/culture/cino/
 vertical: culture
 complexity: advanced
 skip-link: CINO

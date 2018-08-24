@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-delivery
 title:  Human-Centered Design
-permalink: /toolkit/human-centered-design/
+permalink: /toolkit/delivery/human-centered/
 vertical: delivery
 complexity: beginner
 skip-link: human-centered

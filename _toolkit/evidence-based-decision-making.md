@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-delivery
 title:  Evidence-Based Decision Making
-permalink: /toolkit/evidence-based-decision-making/
+permalink: /toolkit/delivery/decision-making/
 vertical: delivery
 complexity: intermediate
 skip-link: decision-making

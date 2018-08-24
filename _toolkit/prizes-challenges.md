@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-innovators
 title:  Prizes and Challenges
-permalink: /toolkit/prizes-challenges/
+permalink: /toolkit/innovators/prizes-challenges/
 vertical: innovators
 complexity: advanced
 skip-link: prizes-challenges

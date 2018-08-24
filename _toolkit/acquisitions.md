@@ -1,9 +1,9 @@
 ---
-layout: toolkit-layout
+layout: toolkit-culture
 title:  Innovative Acquisitions and Procurement
 vertical: culture
 complexity: intermediate
-permalink: /toolkit/acquisitions/
+permalink: /toolkit/culture/acquisitions/
 skip-link: acquisitions
 summary: "Innovative acquisitions and procurement include a variety of procurement approaches for digital services and physical products. They improve faster delivery of contracts and increase end user satisfaction and help the government spend less on the contracting process."
 ---

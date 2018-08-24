@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-delivery
 title:  Lean Startup
-permalink: /toolkit/lean/
+permalink: /toolkit/delivery/lean/
 vertical: delivery
 complexity: beginner
 skip-link: lean
