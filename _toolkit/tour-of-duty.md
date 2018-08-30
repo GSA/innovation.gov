@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-culture
 title:  Tour of Duty Hiring
-permalink: /toolkit/tour-of-duty/
+permalink: /toolkit/culture/tour-of-duty/
 vertical: culture
 complexity: intermediate
 skip-link: tour-of-duty

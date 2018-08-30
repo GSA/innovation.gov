@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-culture
 title:  Launching an Innovation Lab
-permalink: /toolkit/innovation-lab/
+permalink: /toolkit/culture/innovation-lab/
 vertical: culture
 complexity: intermediate
 skip-link: innovation-lab

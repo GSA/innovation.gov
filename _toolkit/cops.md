@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-solutions
 title:  Communities of Practice
-permalink: /toolkit/cops/
+permalink: /toolkit/solutions/cops/
 vertical: solutions
 complexity: beginner
 skip-link: cops

@@ -36,7 +36,7 @@ collections:
             layout: "playbook"
     toolkit:
         permalink: /toolkit/:path/
-        output: false
+        output: true
         values:
             layout: "toolkit-layout"
     stories:

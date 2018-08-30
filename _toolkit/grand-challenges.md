@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-solutions
 title:  Grand Challenges
-permalink: /toolkit/grand-challenges/
+permalink: /toolkit/solutions/grand-challenges/
 vertical: solutions
 complexity: advanced
 skip-link: grand-challenges

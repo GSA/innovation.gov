@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-innovators
 title:  Engaging Startups
-permalink: /toolkit/engaging-startups/
+permalink: /toolkit/innovators/engaging-startups/
 vertical: innovators
 complexity: advanced
 skip-link: engaging-startups

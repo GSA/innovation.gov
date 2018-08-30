@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-culture
 title:  Creating a Culture of Innovation
-permalink: /toolkit/innovation-culture/
+permalink: /toolkit/culture/innovation-culture/
 vertical: culture
 complexity: intermediate
 skip-link: innovation-culture

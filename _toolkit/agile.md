@@ -1,7 +1,7 @@
 ---
-layout: toolkit-layout
+layout: toolkit-delivery
 title:  Agile
-permalink: /toolkit/agile/
+permalink: /toolkit/delivery/agile/
 vertical: delivery
 complexity: beginner
 skip-link: agile
