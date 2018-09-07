@@ -1,3 +1,7 @@
+---
+
+---
+
 /* @override http://localhost:4000/assets/main.css */
 
 /* @override http://localhost:4000/assets/main.css */
@@ -32,7 +36,7 @@ h2 {
   font-weight: 700;
   clear: both;
   font-family: Merriweather,Georgia,Cambria,Times New Roman,Times,serif;
-  line-height: 1.3
+  line-height: 1.3;
   display: block;
 }
 
@@ -825,12 +829,6 @@ top: 0;
 
 /* @end */
 
-
-
-@import
-        "toolkit"
-;
-
 .card {
   box-shadow: 0 0 0 1px #d6d7d9;
   display: block;
@@ -976,3 +974,7 @@ footer a:visited {
 .usa-search button {
   float: left;
 }
+
+@import 'variables';
+@import 'home';
+
