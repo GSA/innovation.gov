@@ -2891,7 +2891,7 @@ li.usa-footer-primary-content:last-child {
 }
 
 .usa-footer-secondary_section a {
-  color: ##ffffff;
+  color: #ffffff;
   padding-top: 1.5rem;
   padding-bottom: 1.5rem;
 }
@@ -2914,7 +2914,7 @@ li.usa-footer-primary-content:last-child {
 
 .usa-social-links a {
   text-decoration: none;
-  color: #ffffff:
+  color: #ffffff;
 }
 
 @media screen and (min-width: 600px) {
@@ -3535,7 +3535,7 @@ input.usa-input-medium {
 .usa-hero {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-image: url(/assets/images/home/people_fuzzy.jpg);
+  background-image: url(/assets/images/home/icons/icons-32.svg);
   background-position: center;
   background-size: cover;
 }
