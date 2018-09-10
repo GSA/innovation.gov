@@ -18,25 +18,22 @@ $paragraph-line-height: 1.5;
 
 
 // Colors
-$color-blue: #5CAED7;
-$color-green: #58B84F;
-$color-gold: #F3CD32;
-$color-red: #E67E37;
-$color-blue-dark: #1C304A; // 18F brand color $color-dark
-$color-gray-darkest: #222;
+$color-blue: #4f79bc;
+$color-blue-light: #00Aeef;
+$color-green: #78b342;
+$color-gold: #Faa42c;
+// $color-red: #E67E37;
+$color-blue-dark: #30485e;
+$color-purple: #4d3391;
+// $color-gray-darkest: #222;
 $color-gray-dark: #333;
-$color-gray: #ddd;
+// $color-gray: #ddd;
+$color-white: #ffffff;
 
-// 18F brand colors
-$color-light:        #b3efff; // $color-light / $color-secondary-light
-$color-bright:       #00cfff; // $color-bright / $color-secondary
-$color-medium:       #046b99; // $color-medium / $color-primary
-$color-dark:         #1C304A; // $color-dark / $color-primary-dark
+//Typography
+$font-bold:           700 !default;
 
-$color-bright-hover: #00A7CE;
-$color-medium-hover: #00547A;
-
-$color-gray-light: #f1f1f1; // 18F brand color $color-gray-lightest
-$color-gray-lightest: #fafafa; // 18F brand color $color-gray-hover
-$color-inverse: #fff; // 18F brand color
-$color-black: #000; // 18F brand color
+// Mobile First Breakpoints
+$small-screen:  481px !default;
+$medium-screen: 600px !default;
+$large-screen:  1201px !default;

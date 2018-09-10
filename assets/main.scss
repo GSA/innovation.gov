@@ -8,16 +8,19 @@
 
 /* @group bootstrap */
 
+@import 'variables';
+@import 'home';
+
 
 html,
 body {
   background: #d5d6d9;
-  color: #333;
+  color: $color-gray-dark;
 }
 
 main {
-  background: #fff;
-  color: #333;
+  background: $color-white;
+  color: $color-gray-dark;
   padding-bottom: 0; }
 
 h1,
@@ -975,6 +978,5 @@ footer a:visited {
   float: left;
 }
 
-@import 'variables';
-@import 'home';
+
 
