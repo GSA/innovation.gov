@@ -104,6 +104,12 @@
         hr {
             color: $color-blue-light;
         }
+
+        .icon {
+            position: relative;
+            margin: -45px auto 0;
+            text-align: center;
+        }
     }
     
     .site-divider {
