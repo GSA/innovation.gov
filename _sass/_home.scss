@@ -1,0 +1,193 @@
+.home {
+    .usa-hero {
+
+        background-image: url(/assets/images/home/home-banner.png);
+        text-align: center;
+
+        h3 {
+            color: $color-white;
+            font-size: 3rem;
+        }
+
+        .usa-grid {
+        margin-left: 0;
+        }
+    }
+
+    a {
+        text-decoration: none;
+        color: $color-gray-dark;
+    }
+
+    .home-innovator-section {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 4rem;
+        
+        article {
+            border: 1px solid $color-blue-light;
+            padding-bottom: 6rem;
+            min-width: 30rem;
+
+            h1 {
+                color: $color-white;
+                margin-top: 0;
+                padding: 5px;
+                text-align: center;
+            }
+
+            h2 {
+                color: $color-blue-light;
+                font-size: 2rem;
+                padding: 1rem 0;
+                text-align: center;
+            }
+
+            header {
+                background-color: $color-blue-light;
+            }
+
+            hr {
+                color: $color-blue-light;
+                border-bottom: none;
+                border-top: dotted 1px;
+            }
+
+            ul {
+                list-style-type: none;
+                margin: 0;
+                padding: 0;
+            }
+            
+            li {
+                background: url(images/home/icons/icons-check.svg) left center no-repeat;
+                padding-left: 45px;
+                padding-top: 0;
+                position: relative;
+            }
+
+            .icon-list {
+                margin-left: 2em;
+                margin-top: 1em;
+            }
+
+            .icon {
+                display: inline-block;
+                position: relative;
+                top: -.1em;
+                vertical-align: middle;
+            
+                svg {
+                    overflow: visible;
+                }
+             }
+            .icon-text {
+                display: inline-block;
+                font-size: 2rem;
+                font-weight: $font-bold;
+                margin-left: .5em;
+                vertical-align: middle;
+             }
+        }
+    }
+
+    .home-help-section {
+        display: grid;
+        grid-template-columns: 250px 250px 250px;
+        grid-gap: 4em;
+        justify-items: center;
+        justify-content: center;
+        margin-top: 4rem;
+        width: 100%;
+
+        a {
+          border: 2px solid $color-blue-light;
+     
+          
+          padding: 2rem;
+        }
+
+        h1 {
+            text-align: center;
+            color: $color-blue-light;
+            font-size: 1.2em;
+        }
+
+        hr {
+            color: $color-blue-light;
+        }
+
+        .icon {
+            position: relative;
+            margin: -45px auto 0;
+            text-align: center;
+        }
+    }
+    
+    .site-divider {
+        position: relative;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-pack: space-evenly;
+            -ms-flex-pack: space-evenly;
+                justify-content: space-evenly;
+        margin: 0 auto;
+        max-width: 80%;
+        width: 100%;
+        &:after {
+            left: 50%;
+            line-height: inherit;
+            position: absolute;
+            -webkit-transform: translateX(-50%);
+            -ms-transform: translateX(-50%);
+                transform: translateX(-50%);
+        }
+        h2 {
+            @media screen and (min-width: $medium-screen) {
+                padding: 0 5%;
+                margin: 0 auto;
+            }
+        }
+        hr {
+            visibility: hidden;
+            @media screen and (min-width: $medium-screen) {
+                visibility: visible;
+                color: #748796;
+                border: 0;
+                border-top: 1px solid;
+                height: 6.6px;
+                margin: 0;
+                top: 50%;
+                -webkit-transform: translateY(-50%);
+                -ms-transform: translateY(-50%);
+                    transform: translateY(-50%);
+                width: calc(50% - 50px);
+                max-width: 100px;
+                -webkit-box-sizing: border-box;
+                box-sizing: border-box;
+                &:after {
+                    content: ' ';
+                    display: block;
+                    height: 100%;
+                    -webkit-box-sizing: border-box;
+                    box-sizing: border-box;
+                }
+                &:first-child {
+                    &:after {
+                        margin-left: 35px;
+                    }
+                }
+                &:last-child {
+                    &:after {
+                        margin-right: 35px;
+                    }
+                }
+            }
+        }
+    }
+    
+}
