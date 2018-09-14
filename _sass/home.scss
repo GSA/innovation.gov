@@ -1,6 +1,17 @@
 .home {
-    usa-hero {
-      background-image: url(/assets/images/home/icons/icons-32.svg);
+    .usa-hero {
+
+        background-image: url(/assets/images/home/home-banner.png);
+        text-align: center;
+
+        h3 {
+            color: $color-white;
+            font-size: 3rem;
+        }
+
+        .usa-grid {
+        margin-left: 0;
+        }
     }
 
     a {
