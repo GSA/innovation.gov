@@ -9,6 +9,7 @@
 /* @group bootstrap */
 
 @import 'variables';
+@import 'header';
 @import 'home';
 
 
@@ -52,14 +53,6 @@ h2 {
 
 /* @end */
 
-/* @group header */
-
-header.usa-header{
-  background: white;
-}
-
-
-/* @end */
 
 /* @group main */
 

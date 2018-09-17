@@ -1,9 +1,13 @@
 
 /* @group header */
 
-header.usa-header{
-    background: white;
+header.usa-header {
+  background: $color-white;
   }
+
+.usa-logo-text {
+  color: $color-blue-light;
+}
   
   
   /* @end */
