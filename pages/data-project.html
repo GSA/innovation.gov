@@ -11,17 +11,16 @@ permalink: /data-project/
 
 </section>
 <div class="page innovation">
-<section class="innovation">
+    <section class="innovation">
 
-    <p class="usa-font-lead">The Better Government Movement has been crowdsourcing and tracking where innovation is
-        currrently happening in government. Ranging from agency specific initiatives to Think Tanks, the Ecosystem
-        Map can connect you with the innovation you are looking for. Please see below for information on the types
-        of innovation included in the ecosystem, how to navigate the data, and how you can share your innovation
-        stories today
-    </p>
+        <p class="usa-font-lead">The Better Government Movement has been crowdsourcing and tracking where innovation is
+            currrently happening in government. Ranging from agency specific initiatives to Think Tanks, the Ecosystem
+            Map can connect you with the innovation you are looking for. Please see below for information on the types
+            of innovation included in the ecosystem, how to navigate the data, and how you can share your innovation
+            stories today
+        </p>
 
-</section>
-
+    </section>
 
 
     <section class="innovation data-project">
@@ -29,30 +28,30 @@ permalink: /data-project/
             <h2 class="strike-header blue"><span>Types of Innovation</span></h2>
         </div>
 
-            <div class="flex-container">
+        <div class="flex-container">
 
-                <img src="{{ site.baseurl }}/assets/images/icons/data-project/plays.png" alt="plays icon" width="7%"
-                     ;
-                     height="15%" ;>
-                <h4>Principles/Plays</h4>
-                <img src="{{ site.baseurl }}/assets/images/icons/data-project/people.png" alt="plays icon"
-                     width="7%" ;
-                     height="10%" ;>
-                <h4>People</h4>
-                <img src="{{ site.baseurl }}/assets/images/icons/data-project/policy.png" alt="plays icon"
-                     width="7%" ;
-                     height="10%" ;>
-                <h4>Policy</h4>
+            <img src="{{ site.baseurl }}/assets/images/icons/data-project/plays.png" alt="plays icon" width="7%"
+                 ;
+                 height="15%" ;>
+            <h4>Principles/Plays</h4>
+            <img src="{{ site.baseurl }}/assets/images/icons/data-project/people.png" alt="plays icon"
+                 width="7%" ;
+                 height="10%" ;>
+            <h4>People</h4>
+            <img src="{{ site.baseurl }}/assets/images/icons/data-project/policy.png" alt="plays icon"
+                 width="7%" ;
+                 height="10%" ;>
+            <h4>Policy</h4>
 
-                <img src="{{ site.baseurl }}/assets/images/icons/data-project/process.png" alt="plays icon"
-                     width="7%" ;
-                     height="10%" ;>
-                <h4>Process</h4>
+            <img src="{{ site.baseurl }}/assets/images/icons/data-project/process.png" alt="plays icon"
+                 width="7%" ;
+                 height="10%" ;>
+            <h4>Process</h4>
 
-                <img src="{{ site.baseurl }}/assets/images/icons/data-project/technology.png" alt="plays icon"
-                     width="7%" ;
-                     height="10%" ;>
-                <h4>Technology</h4>
+            <img src="{{ site.baseurl }}/assets/images/icons/data-project/technology.png" alt="plays icon"
+                 width="7%" ;
+                 height="10%" ;>
+            <h4>Technology</h4>
 
         </div>
 
@@ -93,11 +92,9 @@ permalink: /data-project/
 
     <section class="usa-grid usa-section data-project">
 
-        <p class="centered">Use the seachbar below to navigate the ecosystem. Click on filter columns and/or sort
+        <p class="centered">Use the searchbar below to navigate the ecosystem. Click on filter columns and/or sort
             the data.
         </p>
-
-
 
     </section>
 
@@ -109,4 +106,68 @@ permalink: /data-project/
             </div>
         </form>
     </section>
+
+    <section class="container">
+
+        <div id="toolbar">
+            <select class="form-control">
+                <option value="">Export Basic</option>
+                <option value="all">Export All</option>
+                <option value="selected">Export Selected</option>
+            </select>
+        </div>
+        <table id="table" data-toggle="table"
+               data-url="data.json"
+               data-sort-order="desc"
+               data-filter-control="true"
+               data-show-export="true"
+               data-click-to-select="true">
+            <thead>
+            <tr>
+                <th data-field="innovation"
+                    data-sortable="true"
+                    data-filter-control="input">
+                    Inovation
+                </th>
+                <th data-field="addressUrl"
+                    data-sortable="true"
+                    data-filter-control="input">
+
+                    Address Url
+                </th>
+                <th data-field="sector"
+                    data-sortable="true"
+                    data-filter-control="select">
+                    Sector
+                </th>
+                <th data-field="branchOfGovernment"
+                    data-sortable="true"
+                    data-filter-control="select">
+                    Branch of Government
+                </th>
+                <th data-field="department"
+                    data-sortable="true"
+                    data-filter-control="select">
+                    Department
+                </th>
+                <th data-field="agencybureau"
+                    data-sortable="true"
+                    data-filter-control="select">
+                    Agency/Bureau
+                </th>
+                <th data-field="category"
+                    data-sortable="true"
+                    data-filter-control="select">
+                    Category
+                </th>
+                <th data-field="description"
+                    data-sortable="true"
+                    data-filter-control="input">
+                    Description
+                </th>
+            </tr>
+            </thead>
+        </table>
+    </section>
+
 </div>
