@@ -5,8 +5,35 @@ header.usa-header {
   background: $color-white;
   }
 
+.usa-logo {
+ 
+  a {
+    color: $color-blue-light;
+  }
+
+  img {
+    width: 50px;
+  }
+
+}
+
+@media screen and (min-width: $medium-screen) {
+
+  .usa-header-extended .usa-logo {
+    margin-bottom: 0;
+}
+
+}
+
 .usa-logo-text {
-  color: $color-blue-light;
+  display: inline-block;
+  margin-left: 1rem;
+  position: relative;
+  top: -1rem;
+}
+
+.usa-nav-secondary {
+  top: -6rem;
 }
   
   
