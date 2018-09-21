@@ -12,10 +12,31 @@ header.usa-header {
   }
 
   img {
-    width: 50px;
+    display: none;
+
+    @media screen and (min-width: $medium-screen) {
+      display: inline;
+      width: 3.4rem;
+    }
+
+    @media screen and (min-width: $large-screen) {
+      width: 5rem;
+    }
   }
 
 }
+
+.usa-logo-text {
+  font-size: $h4-font-size;
+
+  @media screen and (min-width: $medium-screen) {
+    display: inline-block;
+    margin-left: 1rem;
+    position: relative;
+    top: -1rem;
+  }
+}
+
 
 @media screen and (min-width: $medium-screen) {
 
@@ -23,13 +44,6 @@ header.usa-header {
     margin-bottom: 0;
 }
 
-}
-
-.usa-logo-text {
-  display: inline-block;
-  margin-left: 1rem;
-  position: relative;
-  top: -1rem;
 }
 
 .usa-nav-secondary {
