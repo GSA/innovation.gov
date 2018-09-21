@@ -102,16 +102,18 @@
             </a></li></ul>
               <div class="usa-nav-secondary">
           
-            <form class="usa-search usa-search-small  js-search-form">
+        <form class="usa-search usa-search-small js-search-form" accept-charset="UTF-8" action="https://search.usa.gov/search"
+        id="search_form" method="get">
           <div role="search">
             <label class="usa-sr-only" for="extended-search-field-small">Search small</label>
-            <input id="extended-search-field-small" type="search" name="search">
+            <input id="affiliate" name="affiliate" type="hidden" value="innovation.gov"/>
+            <input autocomplete="off" class="usagov-search-autocomplete" name="query" type="text"
+                  placeholder="Search" id="search-field-small"/>
             <button type="submit">
               <span class="usa-sr-only">Search</span>
             </button>
           </div>
         </form>
-        
           
           <ul class="usa-unstyled-list usa-nav-secondary-links">
             
