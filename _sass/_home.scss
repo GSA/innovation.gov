@@ -18,21 +18,25 @@
             color: $color-white;
             font-size: 3rem;
         }
-
-        .usa-grid {
-        margin-left: 0;
-        }
     }
 
-    .home-innovator-section {
-        display: flex;
-        justify-content: space-between;
+.home-innovator-section {
+    h3 {
+        color: $color-blue-light;
+        margin-top: 2rem;
+        text-align: right;
+    }
+}
+
+    .home-innovator-cards {
         margin-top: 4rem;
         
         article {
             border: 1px solid $color-blue-light;
-            padding-bottom: 6rem;
-            min-width: 30rem;
+
+            @media screen and (min-width: $medium-screen) {
+                min-width: 30rem;
+            }
 
             h1 {
                 color: $color-white;
@@ -44,7 +48,7 @@
             h2 {
                 color: $color-blue-light;
                 font-size: 2rem;
-                padding: 1rem 0;
+                // padding: 1rem 0;
                 text-align: center;
             }
 
@@ -60,8 +64,8 @@
 
             ul {
                 list-style-type: none;
-                margin: 0;
-                padding: 0;
+                // margin: 0;
+                // padding: 0;
             }
             
             li {
@@ -69,11 +73,13 @@
                 padding-left: 45px;
                 padding-top: 0;
                 position: relative;
+                right: 20px;
             }
 
             .icon-list {
-                margin-left: 2em;
-                margin-top: 1em;
+                margin-bottom: 2em;
+                margin-left: 1.2em;
+                margin-top: 2em;
             }
 
             .icon {
@@ -81,10 +87,7 @@
                 position: relative;
                 top: -.1em;
                 vertical-align: middle;
-            
-                svg {
-                    overflow: visible;
-                }
+        
              }
             .icon-text {
                 display: inline-block;
@@ -92,30 +95,61 @@
                 font-weight: $font-bold;
                 margin-left: .5em;
                 vertical-align: middle;
+
+                @media screen and (min-width: $medium-screen) {
+                    margin-left: .3em;
+                    vertical-align: baseline;
+                }
              }
         }
     }
 
-    .home-help-section {
-        display: grid;
-        grid-template-columns: 250px 250px 250px;
-        grid-gap: 4em;
-        justify-items: center;
-        justify-content: center;
-        margin-top: 4rem;
-        width: 100%;
 
-        a {
+.home-help-section {
+    h3 {
+        color: $color-blue-light;
+        font-size: $h3-font-size;
+        text-align: center;
+        
+    }
+}
+    .home-help-cards {
+
+        @media screen and (min-width: $medium-screen) {
+            display: grid;
+            grid-template-columns: 225px 225px 225px;
+            grid-gap: 2rem;
+            justify-items: center;
+            justify-content: center;
+            margin-top: 4rem;
+            width: 100%;
+        }
+
+        @media screen and (min-width: $large-screen) {
+            display: grid;
+            grid-template-columns: 250px 250px 250px;
+            grid-gap: 4rem;
+            justify-items: center;
+            justify-content: space-evenly;
+            margin-top: 4rem;
+            width: 100%;
+        }
+
+        article {
           border: 2px solid $color-blue-light;
-     
+          margin: 3rem 0;
+          padding: 1rem;
           
-          padding: 2rem;
         }
 
         h1 {
             text-align: center;
             color: $color-blue-light;
-            font-size: 1.2em;
+            font-size: $h3-font-size;
+        }
+
+        h2 {
+            font-size: $h2-font-size;
         }
 
         hr {
@@ -123,9 +157,12 @@
         }
 
         .icon {
-            position: relative;
-            margin: -45px auto 0;
             text-align: center;
+
+            @media screen and (min-width: $medium-screen) {
+                position: relative;
+                margin: -35px auto 0;
+            }
         }
     }
     
@@ -140,9 +177,9 @@
         -webkit-box-pack: space-evenly;
             -ms-flex-pack: space-evenly;
                 justify-content: space-evenly;
-        margin: 0 auto;
-        max-width: 80%;
-        width: 100%;
+        // margin: 0 auto;
+        // max-width: 80%;
+        // width: 100%;
         &:after {
             left: 50%;
             line-height: inherit;
@@ -153,8 +190,8 @@
         }
         h2 {
             @media screen and (min-width: $medium-screen) {
-                padding: 0 5%;
-                margin: 0 auto;
+                margin-bottom: 2rem;
+                white-space: nowrap;
             }
         }
         hr {
@@ -171,7 +208,7 @@
                 -ms-transform: translateY(-50%);
                     transform: translateY(-50%);
                 width: calc(50% - 50px);
-                max-width: 100px;
+                // max-width: 100px;
                 -webkit-box-sizing: border-box;
                 box-sizing: border-box;
                 &:after {
