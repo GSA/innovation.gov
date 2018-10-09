@@ -1,8 +1,16 @@
 ---
 layout: default
 title:  Better Government Ambassadors Design Challenge
-permalink: /data-project/
+permalink: /innovation-ecosystem/
+custom_css: /assets/innovation-ecosystem/ecosystem.css
+custom_js:
+- https://cdn.datatables.net/v/dt/jq-3.3.1/jszip-2.5.0/dt-1.10.18/b-1.5.4/b-html5-1.5.4/r-2.2.2/datatables.min.js
+- /assets/innovation-ecosystem/ecosystem-table.js
 ---
+
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.min.css"/>
+
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/jq-3.3.1/dt-1.10.18/datatables.min.js"></script>
 
 <section class="data-project-banner">
     <div class="usa-grid site-width">
@@ -98,76 +106,52 @@ permalink: /data-project/
 
     </section>
 
-    <section class=" usa-section data-project">
-        <form role="search">
-            <div class="search-control pull-right">
-                <input type="search">
-                <button>Search Ecosystem</button>
-            </div>
-        </form>
-    </section>
+    <section class="ecosystem-table-header">
 
-    <section class="container">
-
-        <div id="toolbar">
-            <select class="form-control">
-                <option value="">Export Basic</option>
-                <option value="all">Export All</option>
-                <option value="selected">Export Selected</option>
+        <div class="ecosystem-filter">
+          <form class="usa-form" id="projects-length">
+            <label for="options">Results / Page</label>
+            <select name="options" id="options">
+              <option value="30">30</option>
+              <option value="50">50</option>
+              <option value="100">100</option>
+              <option value="-1">All</option>
             </select>
+          </form>
         </div>
-        <table id="table" data-toggle="table"
-               data-url="data.json"
-               data-sort-order="desc"
-               data-filter-control="true"
-               data-show-export="true"
-               data-click-to-select="true">
-            <thead>
-            <tr>
-                <th data-field="innovation"
-                    data-sortable="true"
-                    data-filter-control="input">
-                    Inovation
-                </th>
-                <th data-field="addressUrl"
-                    data-sortable="true"
-                    data-filter-control="input">
 
-                    Address Url
-                </th>
-                <th data-field="sector"
-                    data-sortable="true"
-                    data-filter-control="select">
-                    Sector
-                </th>
-                <th data-field="branchOfGovernment"
-                    data-sortable="true"
-                    data-filter-control="select">
-                    Branch of Government
-                </th>
-                <th data-field="department"
-                    data-sortable="true"
-                    data-filter-control="select">
-                    Department
-                </th>
-                <th data-field="agencybureau"
-                    data-sortable="true"
-                    data-filter-control="select">
-                    Agency/Bureau
-                </th>
-                <th data-field="category"
-                    data-sortable="true"
-                    data-filter-control="select">
-                    Category
-                </th>
-                <th data-field="description"
-                    data-sortable="true"
-                    data-filter-control="input">
-                    Description
-                </th>
-            </tr>
-            </thead>
-        </table>
+        <div class="ecosystem-filter ecosystem-filter_search" role="search">
+          <form class="usa-search usa-search-big" id="projects-search-form">
+            <label class="usa-sr-only" for="search-field">Search medium</label>
+            <input id="projects-search" type="search" name="search">
+            <button type="submit">
+              <span class="usa-search-submit-text">Search</span>
+            </button>
+          </form>
+        </div>
+
     </section>
+
+    <section>
+
+      <table id="projects" class="display" style="width:100%">
+        <thead>
+          <tr>
+            <th>Initiative</th>
+            <th>Bran. Of Government</th>
+            <th>Department</th>
+            <th>Agency</th>
+            <th>Year Created</th>
+            <th>Description</th>
+            <th>Trans. Element</th>
+            <th>Category</th>
+          </tr>
+        </thead>
+        <tbody id="projects-list">
+
+        </tbody>
+      </table>
+
+    </div>
 
 </div>

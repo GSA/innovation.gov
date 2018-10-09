@@ -1,0 +1,17 @@
+.ecosystem-table-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.ecosystem-filter {
+  align-self: flex-end;
+}
+
+.ecosystem-filter select {
+  margin-bottom: 0;
+}
+
+.ecosystem-filter_search {
+
+}
