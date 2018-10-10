@@ -1,3 +1,7 @@
+---
+# This front matter is required for https://github.com/babel/jekyll-babel
+---
+
 // The Google sheet that holds the data
 const spreadsheet = '1EVbCg544KBRgjUakLSxeMrXnOtdj1MxwQKI-_3MsooM';
 const worksheet = 'oyoam0z';

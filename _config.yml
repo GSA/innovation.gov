@@ -27,6 +27,8 @@ data_dir: data
 markdown: kramdown
 plugins:
   - jekyll-feed
+gems:
+  - jekyll-babel
 
 collections:
     playbook:
