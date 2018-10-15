@@ -1199,7 +1199,6 @@ footer a:visited {
     font-weight: 500;
 }
 .flex-container.categories {
-    display: flex;
     color: #f8A600;
     padding: 20px 0px;
     justify-content: center;

@@ -14,8 +14,7 @@ const fetchInnovations = fetch( url ).then( resp => resp.json() );
 $.extend( true, $.fn.dataTable.defaults, {
   pageLength: 30,
   lengthChange: false,
-  dom: 'lrtip',
-  responsive: true
+  dom: 'lrtip'
 } );
 let table;
 

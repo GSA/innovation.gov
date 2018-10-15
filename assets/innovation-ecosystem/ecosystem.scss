@@ -7,19 +7,76 @@
   margin-bottom: 30px;
 }
 
+.ecosystem-table {
+  padding-bottom: 50px;
+}
+
 .ecosystem-filter {
   align-self: flex-end;
+  flex: 1;
   select {
     margin-bottom: 0;
+    max-width: 100px;
   }
+}
+
+.ecosystem-contact {
+  background-color: #e0f2f8;
+  padding: 50px 0;
+  form {
+    width: 100%;
+  }
+  legend {
+    margin: 0 auto;
+  }
+  @media (min-width: 600px) {
+    .usa-input-grid-small {
+      width: 30%;
+    }
+    textarea {
+      max-width: 90%;
+    }
+  }
+}
+
+.category-types {
+  margin-top: 20px;
 }
 
 .innovation-type,
 .category-type {
+  margin: 10px 0;
   h4 {
     background-size: 60px 60px;
     background-position: left;
     background-repeat: no-repeat;
     padding-left: 65px;
+  }
+}
+
+.category-type {
+  h4 {
+    background-position: 20px;
+    padding-left: 85px;
+  }
+}
+
+@media (max-width: 1000px) {
+  .innovation-type,
+  .category-type {
+    h4 {
+      background-position: top;
+      padding: 65px 15px 0 15px;
+      text-align: center;
+    }
+  }
+  .ecosystem-table {
+    overflow: scroll;
+  }
+}
+
+@media (max-width: 700px) {
+  .flex-container {
+    display: block;
   }
 }

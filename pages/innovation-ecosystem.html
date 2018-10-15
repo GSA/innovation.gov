@@ -18,10 +18,10 @@ custom_js:
     </div>
 
 </section>
-<div class="page innovation usa-grid">
-    <section class="innovation">
+<div class="page innovation">
+    <section class="innovation usa-grid usa-section">
 
-        <p class="usa-font-lead">The Better Government Movement has been crowdsourcing and tracking where innovation is
+        <p>The Better Government Movement has been crowdsourcing and tracking where innovation is
             currrently happening in government. Ranging from agency specific initiatives to Think Tanks, the Ecosystem
             Map can connect you with the innovation you are looking for. Please see below for information on the types
             of innovation included in the ecosystem, how to navigate the data, and how you can share your innovation
@@ -31,12 +31,12 @@ custom_js:
     </section>
 
 
-    <section class="innovation data-project">
+    <section class="innovation data-project usa-grid innovation-types">
         <div>
             <h2 class="strike-header blue"><span>Types of Innovation</span></h2>
         </div>
 
-        <div class="flex-container innovation-types">
+        <div class="flex-container">
 
             <div class="innovation-type">
               <h4 style="background-image: url({{ site.baseurl }}/assets/images/icons/data-project/plays.png)">Principles/Plays</h4>
@@ -61,46 +61,46 @@ custom_js:
         </div>
 
     </section>
-    <section class="innovation data-project">
+    <section class="innovation data-project usa-grid category-types">
         <div>
             <h2 class="strike-header yellow"><span>Categories</span></h2>
         </div>
         <div class="flex-container categories">
 
             <div class="category-type">
-              <h4 style="background-image: url({{ site.baseurl }}/assets/images/icons/data-project/initiatives.png)">Programs & Initiatives</h4>
+              <div>
+                <h4 style="background-image: url({{ site.baseurl }}/assets/images/icons/data-project/initiatives.png)">Programs & Initiatives</h4>
+              </div>
             </div>
 
             <div class="category-type">
-              <h4 style="background-image: url({{ site.baseurl }}/assets/images/icons/data-project/teams_council.png)">Teams & Councils</h4>
+              <div>
+                <h4 style="background-image: url({{ site.baseurl }}/assets/images/icons/data-project/teams_council.png)">Teams & Councils</h4>
+              </div>
             </div>
 
             <div class="category-type">
-              <h4 style="background-image: url({{ site.baseurl }}/assets/images/icons/data-project/products&Services.png)">Products & Services</h4>
+              <div>
+                <h4 style="background-image: url({{ site.baseurl }}/assets/images/icons/data-project/products&Services.png)">Products & Services</h4>
+              </div>
             </div>
 
             <div class="category-type">
-              <h4 style="background-image: url({{ site.baseurl }}/assets/images/icons/data-project/funding.png)">Grants & Funding</h4>
+              <div>
+                <h4 style="background-image: url({{ site.baseurl }}/assets/images/icons/data-project/funding.png)">Grants & Funding</h4>
+              </div>
             </div>
 
         </div>
     </section>
-    <section class="data-project-banner thin">
+    <section class="data-project-banner thin usa-grid">
         <div class="usa-grid site-width">
             <h1>Innovation ecosystem</h1>
         </div>
 
     </section>
 
-    <section class="usa-grid usa-section data-project">
-
-        <p class="centered">Use the searchbar below to navigate the ecosystem. Click on filter columns and/or sort
-            the data.
-        </p>
-
-    </section>
-
-    <section class="ecosystem-table-header">
+    <section class="ecosystem-table-header usa-grid">
 
         <div class="ecosystem-filter">
           <form class="usa-form" id="projects-length">
@@ -126,7 +126,7 @@ custom_js:
 
     </section>
 
-    <section>
+    <section class="ecosystem-table usa-grid">
 
       <table id="projects" class="display" style="width:100%">
         <thead>
@@ -145,6 +145,54 @@ custom_js:
 
         </tbody>
       </table>
+
+    </section>
+
+    <section class="ecosystem-contact">
+
+      <form class="usa-grid" action="https://docs.google.com/forms/d/e/1FAIpQLSdyH16CGRJkdrf7JXRFC0yf8TJbNFKgB9JJaqiRgl9lkwJb-Q/formResponse">
+        <fieldset>
+          <legend>Share How You Are Innovating</legend>
+          <div>
+            <div class="usa-input-grid usa-input-grid-small">
+              <label for="ecosystem-name">Name</label>
+              <input id="ecosystem-name" name="entry.53977564" type="text">
+            </div>
+            <div class="usa-input-grid usa-input-grid-small">
+              <label for="ecosystem-initiative-name">Initiative Name</label>
+              <input id="ecosystem-initiative-name" name="entry.1551750768" type="text">
+            </div>
+            <div class="usa-input-grid usa-input-grid-small">
+              <label for="ecosystem-department">Department</label>
+              <input id="ecosystem-department" name="entry.1207975644" type="text">
+            </div>
+          </div>
+
+          <div>
+            <div class="usa-input-grid usa-input-grid-small">
+              <label for="ecosystem-email">Email address</label>
+              <input id="ecosystem-email" name="entry.1976193349" type="email">
+            </div>
+            <div class="usa-input-grid usa-input-grid-small">
+              <label for="ecosystem-branch">Branch of govt.</label>
+              <input id="ecosystem-branch" name="entry.1079838723" type="text">
+            </div>
+            <div class="usa-input-grid usa-input-grid-small">
+              <label for="ecosystem-agency">Agency</label>
+              <input id="ecosystem-agency" name="entry.133992117" type="text">
+            </div>
+          </div>
+
+          <div>
+            <div class="usa-input-grid">
+              <label for="ecosystem-description">Description</label>
+              <textarea id="ecosystem-description" name="entry.717547444"></textarea>
+            </div>
+          </div>
+
+          <input type="submit" value="Submit" class="ecosystem-contact-submit">
+        </fieldset>
+      </form>
 
     </section>
 
