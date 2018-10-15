@@ -2,13 +2,16 @@
 # This front matter is required for https://github.com/babel/jekyll-babel
 ---
 
+() => {
+
 // The Google sheet that holds the data
 const spreadsheet = '1EVbCg544KBRgjUakLSxeMrXnOtdj1MxwQKI-_3MsooM';
 const worksheet = 'oyoam0z';
 const url = `https://spreadsheets.google.com/feeds/list/${spreadsheet}/${worksheet}/public/values?alt=json`;
 
 // Immediately fetch the innovations table on page load
-const fetchInnovations = fetch( url ).then( resp => resp.json() );
+// This should be cached via service worker or outsourced to a server side script
+const fetchInnovations = $.getJSON( url );
 
 // Set up some datatables (https://datatables.net) defaults
 $.extend( true, $.fn.dataTable.defaults, {
@@ -84,5 +87,7 @@ const createDataTable = data => {
 };
 
 // Ensure all resources have finished loading before doing anything
-const init = () => fetchInnovations.then( createDataTable );
+const init = () => fetchInnovations.done( createDataTable );
 window.addEventListener( 'load', init );
+
+}();
