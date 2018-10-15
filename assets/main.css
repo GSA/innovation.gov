@@ -1133,13 +1133,6 @@ footer a:visited {
     font-weight: 500;
     font-family: Helvetica Neue;
 }
-.innovation{
-    max-width:95%;
-    margin-left:auto;
-    margin-right:auto;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-}
 
 .pull-right {
     float: right;
@@ -1201,8 +1194,7 @@ footer a:visited {
 }
 .flex-container h4{
     font-size: 2.3rem;
-    padding: 3px 27px 2px 2px;
-    line-height: 3.3em;
+    padding: 10px 27px 10px 65px;
     font-family: "Helvetica Neue";
     font-weight: 500;
 }
@@ -1215,7 +1207,6 @@ footer a:visited {
 }
 .flex-container.categories h4 {
     font-size: 2.3rem;
-    line-height: 3.3em;
     font-family: "Helvetica Neue";
     font-weight: 500;
 }

@@ -1,0 +1,25 @@
+---
+---
+
+.ecosystem-table-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+
+.ecosystem-filter {
+  align-self: flex-end;
+  select {
+    margin-bottom: 0;
+  }
+}
+
+.innovation-type,
+.category-type {
+  h4 {
+    background-size: 60px 60px;
+    background-position: left;
+    background-repeat: no-repeat;
+    padding-left: 65px;
+  }
+}
