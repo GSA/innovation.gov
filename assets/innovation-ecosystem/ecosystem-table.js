@@ -80,7 +80,10 @@ const createDataTable = data => {
       td.innerText = cell;
       tr.appendChild( td );
     } );
-    tbody.appendChild( tr );
+    // If the innovation doesn't have a name, description, type or category don't include it
+    if ( cells[0] !== '' && cells[5] !== '' && cells[6] !== '' && cells[7] !== '' ) {
+      tbody.appendChild( tr );
+    }
   } );
   table = $('#projects').DataTable();
   return table;
