@@ -4,14 +4,12 @@
 
 () => {
 
-// The Google sheet that holds the data
-const spreadsheet = '1EVbCg544KBRgjUakLSxeMrXnOtdj1MxwQKI-_3MsooM';
-const worksheet = 'oyoam0z';
-const url = `https://spreadsheets.google.com/feeds/list/${spreadsheet}/${worksheet}/public/values?alt=json`;
-
-// Immediately fetch the innovations table on page load
-// This should be cached via service worker or outsourced to a server side script
-const fetchInnovations = $.getJSON( url );
+// The Google sheet that holds the data, it must be "published"
+// See https://support.google.com/docs/answer/183965
+const fetchInnovations = fetchGoogleSheet({
+  spreadsheet: '1EVbCg544KBRgjUakLSxeMrXnOtdj1MxwQKI-_3MsooM',
+  worksheet: 'oyoam0z'
+});
 
 // Set up some datatables (https://datatables.net) defaults
 $.extend( true, $.fn.dataTable.defaults, {
