@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Innovation.gov"
-email: better-gov@gsa.gov
-description: 'Innovation practices and community in the Federal government.'
+email: digitalgov@gsa.gov
+description: 'Innovation in the Federal government.'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://innovation.gov" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
