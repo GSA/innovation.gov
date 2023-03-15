@@ -1,3 +1,3 @@
-# Innovation.gov
+# Deprecated
 
-This domain is managed by https://digital.gov.
+This project repo is no longer being maintained.
